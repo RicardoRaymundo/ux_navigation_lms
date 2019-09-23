@@ -1,21 +1,21 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
-import 'package:ux_navigation/pages/fab_placeholder.dart';
-import 'package:ux_navigation/pages/pages_downloads.dart';
-import 'package:ux_navigation/pages/pages_gallery.dart';
-import 'package:ux_navigation/pages/pages_home.dart';
-import 'package:ux_navigation/pages/pages_more.dart';
-import 'package:ux_navigation/pages/pages_search.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_bottombar.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_fab_icons.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_layout.dart';
+import 'package:ux_navigation/page/fab_placeholder.dart';
+import 'package:ux_navigation/page/page_downloads.dart';
+import 'package:ux_navigation/page/page_gallery.dart';
+import 'package:ux_navigation/page/pages_home.dart';
+import 'package:ux_navigation/page/page_more.dart';
+import 'package:ux_navigation/page/page_search.dart';
+import 'package:ux_navigation/resource/custom_fab/custom_bottombar.dart';
+import 'package:ux_navigation/resource/custom_fab/custom_fab_icons.dart';
+import 'package:ux_navigation/resource/custom_fab/custom_layout.dart';
 
-class PagesMain extends StatefulWidget {
+class PageMain extends StatefulWidget {
   @override
-  _PagesMainState createState() => _PagesMainState();
+  _PageMainState createState() => _PageMainState();
 }
 
-class _PagesMainState extends State<PagesMain>
+class _PageMainState extends State<PageMain>
     with SingleTickerProviderStateMixin {
 
   Widget myButton;
@@ -29,14 +29,14 @@ class _PagesMainState extends State<PagesMain>
   /// os filhos da bottombar
   final List<Widget> tabItems = [
     PagesHome(),
-    PagesSearch(),
-    PagesDownloads(),
-    PagesMore(),
+    PageSearch(),
+    PageDownloads(),
+    PageMore(),
   ];
 
   final List<Widget> fabItems = [
     // PlaceholderWidget(color: Colors.green,)
-    PagesGallery(),
+    PageGallery(),
   ];
 
 

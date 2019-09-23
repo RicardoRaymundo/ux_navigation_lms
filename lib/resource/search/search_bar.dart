@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ux_navigation/resources/search/search_field.dart';
+import 'package:ux_navigation/resource/search/search_field.dart';
 
 class SearchBar extends StatelessWidget {
   const SearchBar({

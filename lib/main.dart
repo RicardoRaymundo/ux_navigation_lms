@@ -1,61 +1,86 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:ux_navigation/app/app_behavior.dart';
-import 'package:ux_navigation/app/app_fonts.dart';
 import 'package:ux_navigation/app/app_routes.dart';
-import 'package:ux_navigation/pages/info/video/info_video_page.dart';
-import 'package:ux_navigation/pages/pages_login.dart';
-import 'package:ux_navigation/pages/pages_main.dart';
+import 'package:ux_navigation/page/info/video/info_video_page.dart';
+import 'package:ux_navigation/page/page_splashscreen.dart';
+import 'package:ux_navigation/page/page_login.dart';
+import 'package:ux_navigation/page/page_main.dart';
+import 'package:ux_navigation/theme/theme_config.dart';
+import 'package:ux_navigation/theme/theme_select.dart';
 
 void main() {
   //Orientação do app
   SystemChrome.setPreferredOrientations([
     DeviceOrientation.portraitUp,
   ]);
-  runApp(MainApp());
+  runApp(
+
+    /// Envolvendo o Main em um StatefulWidget, que é filho de um InheritedWidget
+    ThemeConfig(
+
+      /// Tema inicial
+      initialTheme: ThemeAspect.DARK,
+      child: Main(),
+    ),
+  );
 }
 
-class MainApp extends StatefulWidget {
-
+///
+class Main extends StatefulWidget {
   @override
-  _MainAppState createState() => _MainAppState();
+  _MainState createState() => _MainState();
 }
 
-class _MainAppState extends State<MainApp> {
-
-  final bool isLogged = false;
+///
+class _MainState extends State<Main> {
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'UX Navigation',
+      title: 'Theme selector example',
+      theme: ThemeConfig.of(context),
+      debugShowCheckedModeBanner: false,
+
+      /// Retira effeito de 'barriga' no fim de scroll
       builder: (context, child) {
         return ScrollConfiguration(
           behavior: AppBehavior(),
           child: child,
         );
       },
-      theme: ThemeData(
-        backgroundColor: Colors.transparent,
-        fontFamily: AppFonts.quickFont,
-        brightness: Brightness.dark,
-        primaryColor: Color(0xff2e2e2e),
-        accentColor: Color(0xff2e2e2e),
+
+      /// Recupera o tema default e configura o tema da aplicação
+      home: Scaffold(
+        appBar: AppBar(
+
+          backgroundColor: Theme
+              .of(context)
+              .primaryColor,
+
+          /// Recupera uma cor do tema da aplicação
+          title: Text(
+            'Main Page',
+
+            /// Configurando o texto da app bar para o estilo padrão para titles,
+            /// definido no ThemeData do Material App. Porém com o método 'copyWith',
+            /// o tamanho da fonte é alterado para esse texto.
+            style: Theme
+                .of(context)
+                .textTheme
+                .title
+                .copyWith(fontSize: 20),
+          ),
+        ),
+        body: PageSplashScreen(),
       ),
-      debugShowCheckedModeBanner: false,
-      home: home(),
       routes: <String, WidgetBuilder>{
         /// Rotas do app
-        AppRoutes.pagesMain: (BuildContext context) => PagesMain(),
-        AppRoutes.pagesLogin: (BuildContext context) => PagesLogin(),
+        AppRoutes.pagesMain: (BuildContext context) => PageMain(),
+        AppRoutes.pagesLogin: (BuildContext context) => PageLogin(),
         AppRoutes.infoVideoPage: (BuildContext context) => InfoVideoPage(),
       },
     );
   }
 
-  Widget home() {
-    /// Se estiver logado, carrega a MainPage
-    /// Se nao estiver logado, carrega a LoginPage
-    return isLogged ? PagesMain() : PagesLogin();
-  }
 }

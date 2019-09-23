@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class PagesDownloads extends StatefulWidget {
+class PageDownloads extends StatefulWidget {
   @override
-  _PagesDownloadsState createState() => _PagesDownloadsState();
+  _PageDownloadsState createState() => _PageDownloadsState();
 }
 
-class _PagesDownloadsState extends State<PagesDownloads> {
+class _PageDownloadsState extends State<PageDownloads> {
   @override
   Widget build(BuildContext context) {
     return Container(

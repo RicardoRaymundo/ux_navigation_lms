@@ -1,8 +1,23 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_routes.dart';
+import 'package:ux_navigation/theme/theme_config.dart';
+import 'package:ux_navigation/theme/theme_select.dart';
 
-class PagesLogin extends StatelessWidget {
+class PageLogin extends StatelessWidget {
   final String assetName = 'assets/svg/logo-new-school.svg';
+  final List<ThemeAspect> listThemeAspect = [
+    ThemeAspect.LIGHT,
+    ThemeAspect.DARK,
+    ThemeAspect.DARKER,
+    ThemeAspect.COLORS,
+  ];
+
+  /// Método que alterna entre os temas, de acordo com o key que é passada
+  void _changeTheme(BuildContext context, ThemeAspect aspect) {
+    /// Usando o método static do InheritedWidget pai para alterar o tema,
+    /// atravéz da key recebida
+    ThemeConfig.instanceOf(context).changeTheme(aspect);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -91,7 +106,81 @@ class PagesLogin extends StatelessWidget {
           "CRIAR UMA CONTA",
           style: TextStyle(color: Colors.grey),
         ),
+        _selectPopup(context)
       ],
     ),
+  );
+  Widget _simplePopup() => PopupMenuButton<int>(
+    icon: Icon(Icons.palette),
+    itemBuilder: (context) => [
+      PopupMenuItem(
+        value: 1,
+        child: Text("First"),
+      ),
+      PopupMenuItem(
+        value: 2,
+        child: Text("Second"),
+      ),
+    ],
+  );
+  Widget _threeItemPopup() => PopupMenuButton(
+    itemBuilder: (context) {
+      var list = List<PopupMenuEntry<Object>>();
+      list.add(
+        PopupMenuItem(
+          child: Text("Setting Language"),
+          value: 1,
+        ),
+      );
+      list.add(
+        PopupMenuDivider(
+          height: 10,
+        ),
+      );
+      list.add(
+        CheckedPopupMenuItem(
+          child: Text(
+            "English",
+            style: TextStyle(color: Colors.blue),
+          ),
+          value: 2,
+          checked: true,
+        ),
+      );
+      return list;
+    },
+    icon: Icon(
+      Icons.settings,
+      size: 50,
+      color: Colors.white,
+    ),
+  );
+  Widget _selectPopup(BuildContext context) => PopupMenuButton<int>(
+    itemBuilder: (context) => [
+      PopupMenuItem(
+        value: 0,
+        child: Text("Light"),
+      ),
+      PopupMenuItem(
+        value: 1,
+        child: Text("Dark"),
+      ),
+      PopupMenuItem(
+        value: 3,
+        child: Text("Darker"),
+      ),
+      PopupMenuItem(
+        value: 3,
+        child: Text("Colors"),
+      ),
+    ],
+    initialValue: 2,
+    onCanceled: () {
+      print("You have canceled the menu.");
+    },
+    onSelected: (value) {
+      _changeTheme(context, listThemeAspect[value]);
+    },
+    icon: Icon(Icons.palette),
   );
 }

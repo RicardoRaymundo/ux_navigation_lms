@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
 import 'package:ux_navigation/app/app_routes.dart';
-import 'package:ux_navigation/pages/info/pages_info_main.dart';
+import 'package:ux_navigation/page/info/page_info_main.dart';
 
 class PagesHome extends StatefulWidget {
   @override
@@ -44,7 +44,7 @@ class _PagesHomeState extends State<PagesHome> {
                         Navigator.push(
                             context,
                             MaterialPageRoute(
-                                builder: (context) => PagesInfoMain()));
+                                builder: (context) => PageInfoMain()));
                       },
                       child: Container(
                         width: 150,

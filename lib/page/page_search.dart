@@ -1,13 +1,13 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:ux_navigation/resources/search/search_bar.dart';
+import 'package:ux_navigation/resource/search/search_bar.dart';
 
-class PagesSearch extends StatefulWidget {
+class PageSearch extends StatefulWidget {
   @override
-  _PagesSearchState createState() => _PagesSearchState();
+  _PageSearchState createState() => _PageSearchState();
 }
 
-class _PagesSearchState extends State<PagesSearch> {
+class _PageSearchState extends State<PageSearch> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

@@ -1,21 +1,21 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
-import 'package:ux_navigation/pages/info/pages_info_achievements.dart';
-import 'package:ux_navigation/pages/info/pages_info_classes.dart';
-import 'package:ux_navigation/pages/info/pages_info_course.dart';
-import 'package:ux_navigation/pages/info/pages_info_downloads.dart';
-import 'package:ux_navigation/pages/pages_gallery.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_bottombar.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_fab_icons.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_layout.dart';
+import 'package:ux_navigation/page/info/page_info_achievements.dart';
+import 'package:ux_navigation/page/info/page_info_classes.dart';
+import 'package:ux_navigation/page/info/page_info_course.dart';
+import 'package:ux_navigation/page/info/page_info_downloads.dart';
+import 'package:ux_navigation/page/page_gallery.dart';
+import 'package:ux_navigation/resource/custom_fab/custom_bottombar.dart';
+import 'package:ux_navigation/resource/custom_fab/custom_fab_icons.dart';
+import 'package:ux_navigation/resource/custom_fab/custom_layout.dart';
 
-class PagesInfoMain extends StatefulWidget {
+class PageInfoMain extends StatefulWidget {
   @override
-  _PagesInfoMainState createState() => _PagesInfoMainState();
+  _PageInfoMainState createState() => _PageInfoMainState();
 }
 
-class _PagesInfoMainState extends State<PagesInfoMain>
+class _PageInfoMainState extends State<PageInfoMain>
     with SingleTickerProviderStateMixin {
   int currentTabIndex = 0;
   int currentFabIndex = 0;
@@ -26,14 +26,14 @@ class _PagesInfoMainState extends State<PagesInfoMain>
   /// Listas de Widgets que a bottombar exibirá. Tanto pelos filhos do botao central, quanto
   /// os filhos da bottombar
   final List<Widget> tabItems = [
-    PagesInfoCourse(),
-    PagesInfoClasses(),
-    PagesInfoDownloads(),
-    PagesInfoAchievements(),
+    PageInfoCourse(),
+    PageInfoClasses(),
+    PageInfoDownloads(),
+    PageInfoAchievements(),
   ];
 
   final List<Widget> fabItems = [
-    PagesGallery(),
+    PageGallery(),
   ];
 
   /// Método que altera o valor de index da battombar, quando um de seus filhos

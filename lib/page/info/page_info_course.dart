@@ -3,12 +3,12 @@ import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
 import 'package:ux_navigation/app/app_routes.dart';
 
-class PagesInfoCourse extends StatefulWidget {
+class PageInfoCourse extends StatefulWidget {
   @override
-  _PagesInfoCourseState createState() => _PagesInfoCourseState();
+  _PageInfoCourseState createState() => _PageInfoCourseState();
 }
 
-class _PagesInfoCourseState extends State<PagesInfoCourse> {
+class _PageInfoCourseState extends State<PageInfoCourse> {
   bool _isExpanded = false;
 
   @override

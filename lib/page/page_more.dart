@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:outline_material_icons/outline_material_icons.dart';
 
-class PagesMore extends StatefulWidget {
+class PageMore extends StatefulWidget {
   @override
-  _PagesMoreState createState() => _PagesMoreState();
+  _PageMoreState createState() => _PageMoreState();
 }
 
-class _PagesMoreState extends State<PagesMore> {
+class _PageMoreState extends State<PageMore> {
   @override
   Widget build(BuildContext context) {
     return Column(

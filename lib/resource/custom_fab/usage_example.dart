@@ -1,9 +1,10 @@
 /// Exemplo de como utilizar a FABBottomAppBar
 
 import 'package:flutter/material.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_bottombar.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_fab_icons.dart';
-import 'package:ux_navigation/resources/custom_fab/resources_custom_layout.dart';
+
+import 'custom_bottombar.dart';
+import 'custom_fab_icons.dart';
+import 'custom_layout.dart';
 
 //void main() => runApp(new MyApp());
 

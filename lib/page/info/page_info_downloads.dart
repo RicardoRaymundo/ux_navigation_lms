@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class PagesInfoDownloads extends StatelessWidget {
+class PageInfoDownloads extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(

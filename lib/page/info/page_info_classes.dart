@@ -2,12 +2,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_routes.dart';
 
-class PagesInfoClasses extends StatefulWidget {
+class PageInfoClasses extends StatefulWidget {
   @override
-  _PagesInfoClassesState createState() => _PagesInfoClassesState();
+  _PageInfoClassesState createState() => _PageInfoClassesState();
 }
 
-class _PagesInfoClassesState extends State<PagesInfoClasses> {
+class _PageInfoClassesState extends State<PageInfoClasses> {
   bool _isExpanded = false;
 
   @override

@@ -1,56 +1,49 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-class PagesInfoAchievements extends StatelessWidget {
+class PageGallery extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Padding(
-        padding: const EdgeInsets.all(5.0),
-        child: ListView(
-          children: <Widget>[
-            SizedBox(
-              height: 20,
-            ),
-            Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: Container(
-                height: 40,
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: <Widget>[
-                    Text(
-                      'Título',
-                      style: TextStyle(fontSize: 30),
-                    ),
-                  ],
-                ),
+        body: Padding(
+      padding: const EdgeInsets.only(left: 20.0, right: 20.0),
+      child: ListView(
+        children: <Widget>[
+          Container(
+            height: 50,
+            child: Align(
+              alignment: Alignment.bottomLeft,
+              child: Padding(
+                padding: const EdgeInsets.only(bottom: 10),
+                child: Text('Galeria de Troféus'),
               ),
             ),
-            Padding(
-              padding: const EdgeInsets.all(15.0),
-              child: Column(
-                children: <Widget>[
-                  Align(
-                      alignment: Alignment.centerLeft,
-                      child: Text(
-                        'Conquistas no Curso',
-                        style: TextStyle(fontSize: 20, color: Colors.orange),
-                      ))
-                ],
-              ),
-            ),
-            _buildAchievementsMedals(title: 'Título da Atividade'),
-            SizedBox(height: 10,),
-            _buildAchievementsMedals(title: 'Título da Atividade'),
-            SizedBox(height: 10,),
-            _buildAchievementsMedals(title: 'Título da Atividade'),
-          ],
-        ),
+          ),
+          SizedBox(
+            height: 10,
+          ),
+          _buildClassMedals(title: 'O que é futurismo?'),
+          SizedBox(
+            height: 10,
+          ),
+          _buildClassMedals(title: 'O que é FUTURISMO?'),
+          SizedBox(
+            height: 10,
+          ),
+          _buildClassMedals(title: 'Aqui que ficam suas medalhas!'),
+          SizedBox(
+            height: 10,
+          ),
+          _buildClassMedals(title: 'Arrase nas medalhas!!'),
+          SizedBox(
+            height: 10,
+          ),
+        ],
       ),
-    );
+    ));
   }
-  Widget _buildAchievementsMedals({String title}) {
+
+  Widget _buildClassMedals({String title}) {
     return Container(
       height: 120,
       color: Colors.purple,
