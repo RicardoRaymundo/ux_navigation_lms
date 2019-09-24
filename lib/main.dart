@@ -52,26 +52,6 @@ class _MainState extends State<Main> {
 
       /// Recupera o tema default e configura o tema da aplicação
       home: Scaffold(
-        appBar: AppBar(
-
-          backgroundColor: Theme
-              .of(context)
-              .primaryColor,
-
-          /// Recupera uma cor do tema da aplicação
-          title: Text(
-            'Main Page',
-
-            /// Configurando o texto da app bar para o estilo padrão para titles,
-            /// definido no ThemeData do Material App. Porém com o método 'copyWith',
-            /// o tamanho da fonte é alterado para esse texto.
-            style: Theme
-                .of(context)
-                .textTheme
-                .title
-                .copyWith(fontSize: 20),
-          ),
-        ),
         body: PageSplashScreen(),
       ),
       routes: <String, WidgetBuilder>{

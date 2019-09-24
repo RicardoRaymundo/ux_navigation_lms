@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
 import 'package:ux_navigation/page/fab_placeholder.dart';
 import 'package:ux_navigation/page/page_downloads.dart';
@@ -17,6 +18,13 @@ class PageMain extends StatefulWidget {
 
 class _PageMainState extends State<PageMain>
     with SingleTickerProviderStateMixin {
+
+  /// Reconfigura as configurações de UI Overlays
+  @override
+  void initState() {
+    super.initState();
+    SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
+  }
 
   Widget myButton;
 

@@ -1,16 +1,33 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:ux_navigation/app/app_routes.dart';
 import 'package:ux_navigation/theme/theme_config.dart';
 import 'package:ux_navigation/theme/theme_select.dart';
 
-class PageLogin extends StatelessWidget {
+class PageLogin extends StatefulWidget {
+  @override
+  _PageLoginState createState() => _PageLoginState();
+}
+
+class _PageLoginState extends State<PageLogin> {
+
   final String assetName = 'assets/svg/logo-new-school.svg';
+
+  /// Lista de themes que poderão ser escolhidos pelo seletor de themes
   final List<ThemeAspect> listThemeAspect = [
     ThemeAspect.LIGHT,
     ThemeAspect.DARK,
     ThemeAspect.DARKER,
     ThemeAspect.COLORS,
   ];
+
+
+  /// Reconfigura as configurações de UI Overlays
+  @override
+  void initState() {
+    super.initState();
+    SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
+  }
 
   /// Método que alterna entre os temas, de acordo com o key que é passada
   void _changeTheme(BuildContext context, ThemeAspect aspect) {
