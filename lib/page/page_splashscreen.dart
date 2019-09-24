@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:ux_navigation/page/page_login.dart';
 import 'package:ux_navigation/page/page_main.dart';
+import 'package:ux_navigation/ui/ui_image.dart';
 
 ///
 class PageSplashScreen extends StatefulWidget {
@@ -23,14 +24,7 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
     SystemChrome.setEnabledSystemUIOverlays([]);
 
     /// Método de delay e navegação criado fora do initState
-    loadData();
-
-    /// Outro método de delay e navegação
-    /*
-    Future.delayed(Duration(seconds: 5)).then((_) {
-      Navigator.pushReplacement(context, MaterialPageRoute(builder: (context) => isLogged ? PageMain() : PageLogin()));
-    });
-     */
+    this.loadData();
   }
 
   @override
@@ -41,7 +35,7 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
           child: Container(
             width: 150,
             height: 150,
-            child: Image.asset("assets/images/miranha.png"),
+            child: Image.asset(UiImage.APP_LOGO),
           ),
         )
     );
@@ -49,12 +43,12 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
 
   /// Método que fará um delay, posteriormente chamando outro método
   Future<Timer> loadData() async {
-    return new Timer(Duration(seconds: 5), onDoneLoading);
+    return new Timer(Duration(seconds: 5), this.onDoneLoading);
   }
 
   /// Método que será chamado após o delay
   /// Verifica o status de login e decide para qual página irá navegar
-  onDoneLoading() async {
+  void onDoneLoading() async {
     Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => isLogged ? PageMain() : PageLogin()));
   }
 }

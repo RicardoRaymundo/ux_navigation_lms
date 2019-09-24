@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:ux_navigation/app/app_routes.dart';
+import 'package:ux_navigation/app/app_routing.dart';
 
 class PageInfoClasses extends StatefulWidget {
   @override
@@ -22,7 +22,7 @@ class _PageInfoClassesState extends State<PageInfoClasses> {
               color: Colors.purple,
               child: InkWell(
                 onTap: () {
-                  Navigator.pushNamed(context, AppRoutes.infoVideoPage);
+                  Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                 },
                 child: Center(child: Text('Vídeo introdutório do curso')),
               ),

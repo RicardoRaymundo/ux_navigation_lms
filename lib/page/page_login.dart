@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:ux_navigation/app/app_routes.dart';
-import 'package:ux_navigation/theme/theme_config.dart';
-import 'package:ux_navigation/theme/theme_select.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+import 'package:ux_navigation/app/app_routing.dart';
+import 'package:ux_navigation/ui/ui_image.dart';
 
 class PageLogin extends StatefulWidget {
   @override
@@ -11,55 +11,35 @@ class PageLogin extends StatefulWidget {
 
 class _PageLoginState extends State<PageLogin> {
 
-  final String assetName = 'assets/svg/logo-new-school.svg';
-
-  /// Lista de themes que poderão ser escolhidos pelo seletor de themes
-  final List<ThemeAspect> listThemeAspect = [
-    ThemeAspect.LIGHT,
-    ThemeAspect.DARK,
-    ThemeAspect.DARKER,
-    ThemeAspect.COLORS,
-  ];
 
 
-  /// Reconfigura as configurações de UI Overlays
+  /// Reconfigura as configurações de UI Overlay
   @override
   void initState() {
     super.initState();
     SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
   }
 
-  /// Método que alterna entre os temas, de acordo com o key que é passada
-  void _changeTheme(BuildContext context, ThemeAspect aspect) {
-    /// Usando o método static do InheritedWidget pai para alterar o tema,
-    /// atravéz da key recebida
-    ThemeConfig.instanceOf(context).changeTheme(aspect);
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.transparent,
       body: Center(
-        child: loginBody(context),
+        child: SingleChildScrollView(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: <Widget>[loginHeader(), loginFields(context)],
+          ),
+        ),
       ),
     );
   }
 
-  loginBody(BuildContext context) => SingleChildScrollView(
-    child: Column(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
-      children: <Widget>[loginHeader(), loginFields(context)],
-    ),
-  );
-
-  loginHeader() => Column(
+  Widget loginHeader() => Column(
     mainAxisAlignment: MainAxisAlignment.spaceBetween,
     children: <Widget>[
-      Placeholder(
-        fallbackHeight: 50,
-        fallbackWidth: 50,
-      ),
+
+      // TODO:: Trocar esse widget pelo logo do app da tela de login
+      SvgPicture.asset(UiImage.APP_LOGO_SVG, semanticsLabel: 'Acme Logo'),
       SizedBox(height: 20.0),
       Text(
         "Seja bem-vindo.",
@@ -73,7 +53,7 @@ class _PageLoginState extends State<PageLogin> {
     ],
   );
 
-  loginFields(BuildContext context) => Container(
+  Widget loginFields(BuildContext context) => Container(
     child: Column(
       mainAxisAlignment: MainAxisAlignment.spaceAround,
       mainAxisSize: MainAxisSize.min,
@@ -112,9 +92,7 @@ class _PageLoginState extends State<PageLogin> {
             ),
             color: Color(0xffb2228c),
             onPressed: () {
-              //TODO:: SHOWPLAYER ????
-              //CustomNavigator.showPlayer(context, MainPage(currentTabIndex, selectedTab));
-              Navigator.popAndPushNamed(context, AppRoutes.pagesMain);
+              Navigator.popAndPushNamed(context, AppRouting.PAGE_MAIN);
             },
           ),
         ),
@@ -123,81 +101,7 @@ class _PageLoginState extends State<PageLogin> {
           "CRIAR UMA CONTA",
           style: TextStyle(color: Colors.grey),
         ),
-        _selectPopup(context)
       ],
     ),
-  );
-  Widget _simplePopup() => PopupMenuButton<int>(
-    icon: Icon(Icons.palette),
-    itemBuilder: (context) => [
-      PopupMenuItem(
-        value: 1,
-        child: Text("First"),
-      ),
-      PopupMenuItem(
-        value: 2,
-        child: Text("Second"),
-      ),
-    ],
-  );
-  Widget _threeItemPopup() => PopupMenuButton(
-    itemBuilder: (context) {
-      var list = List<PopupMenuEntry<Object>>();
-      list.add(
-        PopupMenuItem(
-          child: Text("Setting Language"),
-          value: 1,
-        ),
-      );
-      list.add(
-        PopupMenuDivider(
-          height: 10,
-        ),
-      );
-      list.add(
-        CheckedPopupMenuItem(
-          child: Text(
-            "English",
-            style: TextStyle(color: Colors.blue),
-          ),
-          value: 2,
-          checked: true,
-        ),
-      );
-      return list;
-    },
-    icon: Icon(
-      Icons.settings,
-      size: 50,
-      color: Colors.white,
-    ),
-  );
-  Widget _selectPopup(BuildContext context) => PopupMenuButton<int>(
-    itemBuilder: (context) => [
-      PopupMenuItem(
-        value: 0,
-        child: Text("Light"),
-      ),
-      PopupMenuItem(
-        value: 1,
-        child: Text("Dark"),
-      ),
-      PopupMenuItem(
-        value: 3,
-        child: Text("Darker"),
-      ),
-      PopupMenuItem(
-        value: 3,
-        child: Text("Colors"),
-      ),
-    ],
-    initialValue: 2,
-    onCanceled: () {
-      print("You have canceled the menu.");
-    },
-    onSelected: (value) {
-      _changeTheme(context, listThemeAspect[value]);
-    },
-    icon: Icon(Icons.palette),
   );
 }

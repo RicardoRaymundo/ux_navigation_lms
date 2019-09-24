@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
-import 'package:ux_navigation/app/app_routes.dart';
+import 'package:ux_navigation/app/app_routing.dart';
 import 'package:ux_navigation/page/info/page_info_main.dart';
 
 class PagesHome extends StatefulWidget {
@@ -72,7 +72,7 @@ class _PagesHomeState extends State<PagesHome> {
                       color: Colors.black,
                       child: InkWell(
                         onTap: () {
-                          Navigator.pushNamed(context, AppRoutes.infoVideoPage);
+                          Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                         },
                         child: Center(child: Text('${items[index]}')),
                       ),
@@ -89,7 +89,7 @@ class _PagesHomeState extends State<PagesHome> {
               color: Colors.purple,
               child: InkWell(
                 onTap: () {
-                  Navigator.pushNamed(context, AppRoutes.infoVideoPage);
+                  Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                 },
                 child: Center(child: Text('Video de futurismo e Inovação')),
               ),
@@ -108,7 +108,7 @@ class _PagesHomeState extends State<PagesHome> {
                       color: Colors.purple,
                       child: InkWell(
                         onTap: () {
-                          Navigator.pushNamed(context, AppRoutes.infoVideoPage);
+                          Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                         },
                         child: Center(
                           child: Text('Assistir'),
@@ -144,7 +144,7 @@ class _PagesHomeState extends State<PagesHome> {
                         child: InkWell(
                           onTap: () {
                             Navigator.pushNamed(
-                                context, AppRoutes.infoVideoPage);
+                                context, AppRouting.PAGE_INFO_VIDEO);
                           },
                           child: Center(child: Text('${items[index]}')),
                         ) //Center(child: Text('${items[index]}')),

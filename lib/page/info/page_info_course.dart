@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
-import 'package:ux_navigation/app/app_routes.dart';
+import 'package:ux_navigation/app/app_routing.dart';
 
 class PageInfoCourse extends StatefulWidget {
   @override
@@ -23,7 +23,7 @@ class _PageInfoCourseState extends State<PageInfoCourse> {
                 child: InkWell(
                 onTap: () {
                   AppButtonEnable.pagesInfoMain = false;
-                  Navigator.pushNamed(context, AppRoutes.infoVideoPage);
+                  Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                 },
                 child: Center(
                   child: Text('Vídeo introdutório do curso'),

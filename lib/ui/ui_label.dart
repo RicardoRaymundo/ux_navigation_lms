@@ -1,4 +1,5 @@
 class UILabel {
+  static const String APP_TITLE = 'New School';
   static const String COURSES = 'Cursos';
   static const String CLASSES = 'Aulas';
   static const String MY_LIST = 'Minha Lista';

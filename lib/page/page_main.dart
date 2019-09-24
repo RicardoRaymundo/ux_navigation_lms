@@ -19,7 +19,7 @@ class PageMain extends StatefulWidget {
 class _PageMainState extends State<PageMain>
     with SingleTickerProviderStateMixin {
 
-  /// Reconfigura as configurações de UI Overlays
+  /// Reconfigura as configurações de UI Overlay
   @override
   void initState() {
     super.initState();
