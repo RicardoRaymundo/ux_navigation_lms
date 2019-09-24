@@ -55,6 +55,6 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
   /// Método que será chamado após o delay
   /// Verifica o status de login e decide para qual página irá navegar
   onDoneLoading() async {
-    Navigator.of(context).push(MaterialPageRoute(builder: (context) => isLogged ? PageMain() : PageLogin()));
+    Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => isLogged ? PageMain() : PageLogin()));
   }
 }
