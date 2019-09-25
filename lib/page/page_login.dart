@@ -3,6 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/app/app_routing.dart';
 import 'package:ux_navigation/ui/ui_image.dart';
+import 'package:ux_navigation/ui/ui_label.dart';
 
 class PageLogin extends StatefulWidget {
   @override
@@ -10,9 +11,6 @@ class PageLogin extends StatefulWidget {
 }
 
 class _PageLoginState extends State<PageLogin> {
-
-
-
   /// Reconfigura as configurações de UI Overlay
   @override
   void initState() {
@@ -27,33 +25,33 @@ class _PageLoginState extends State<PageLogin> {
         child: SingleChildScrollView(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: <Widget>[loginHeader(), loginFields(context)],
+            children: <Widget>[this.header(), this.form(context)],
           ),
         ),
       ),
     );
   }
 
-  Widget loginHeader() => Column(
-    mainAxisAlignment: MainAxisAlignment.spaceBetween,
-    children: <Widget>[
+  Widget header() =>
+      Column(
+        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+        children: <Widget>[
+          SvgPicture.asset(UiImage.APP_LOGO_SVG, height: 100, width: 100,),
+          SizedBox(height: 20.0),
+          Text(
+            UILabel.WELCOME,
+            style: TextStyle(fontWeight: FontWeight.w700, color: Color(0xffb2228c)),
+          ),
+          SizedBox(height: 5.0),
+          Text(
+            UILabel.LOGIN_TO_CONTINUE,
+            style: TextStyle(color: Colors.grey),
+          ),
+        ],
+      );
 
-      // TODO:: Trocar esse widget pelo logo do app da tela de login
-      SvgPicture.asset(UiImage.APP_LOGO_SVG, semanticsLabel: 'Acme Logo'),
-      SizedBox(height: 20.0),
-      Text(
-        "Seja bem-vindo.",
-        style: TextStyle(fontWeight: FontWeight.w700, color: Color(0xffb2228c)),
-      ),
-      SizedBox(height: 5.0),
-      Text(
-        "Faça login para continuar",
-        style: TextStyle(color: Colors.grey),
-      ),
-    ],
-  );
-
-  Widget loginFields(BuildContext context) => Container(
+  Widget form(BuildContext context) =>
+      Container(
     child: Column(
       mainAxisAlignment: MainAxisAlignment.spaceAround,
       mainAxisSize: MainAxisSize.min,
@@ -63,8 +61,8 @@ class _PageLoginState extends State<PageLogin> {
           child: TextField(
             maxLines: 1,
             decoration: InputDecoration(
-              hintText: "Digite seu nome de usuário",
-              labelText: "Nome de usuário",
+              hintText: UILabel.TYPE_USER_NAME,
+              labelText: UILabel.USER_NAME,
             ),
           ),
         ),
@@ -74,8 +72,8 @@ class _PageLoginState extends State<PageLogin> {
             maxLines: 1,
             obscureText: true,
             decoration: InputDecoration(
-              hintText: "Digite sua senha",
-              labelText: "Senha",
+              hintText: UILabel.TYPE_PASSWORD,
+              labelText: UILabel.PASSWORD,
             ),
           ),
         ),
@@ -86,20 +84,25 @@ class _PageLoginState extends State<PageLogin> {
           child: RaisedButton(
             padding: EdgeInsets.all(12.0),
             shape: StadiumBorder(),
-            child: Text(
-              "ENTRAR",
-              style: TextStyle(color: Colors.white),
-            ),
-            color: Color(0xffb2228c),
+            child: Text(UILabel.ENTER),
             onPressed: () {
               Navigator.popAndPushNamed(context, AppRouting.PAGE_MAIN);
             },
           ),
         ),
-        SizedBox(height: 20.0),
-        Text(
-          "CRIAR UMA CONTA",
-          style: TextStyle(color: Colors.grey),
+        Container(
+          padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
+          width: double.infinity,
+          child: RaisedButton(
+            elevation: 0,
+            color: Theme.of(context).scaffoldBackgroundColor,
+            padding: EdgeInsets.all(12.0),
+            shape: StadiumBorder(),
+            child: Text(UILabel.CREATE_ACCOUNT, style: Theme.of(context).textTheme.button,),
+            onPressed: () {
+              Navigator.popAndPushNamed(context, AppRouting.PAGE_CREATE_ACCOUNT);
+            },
+          ),
         ),
       ],
     ),

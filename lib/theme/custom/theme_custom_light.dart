@@ -8,6 +8,8 @@ class ThemeCustomLight {
     primaryColor: Colors.blue,
     accentColor: Colors.cyan[600],
     cardColor: Colors.purple,
+    backgroundColor: Colors.green,
+    scaffoldBackgroundColor: Colors.red,
     brightness: Brightness.light,
 
     // Define a font family default.

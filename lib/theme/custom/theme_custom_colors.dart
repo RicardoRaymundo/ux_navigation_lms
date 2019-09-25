@@ -8,7 +8,6 @@ class ThemeCustomColors {
     accentColor: Colors.cyan[600],
     cardColor: Colors.purple,
     brightness: Brightness.light,
-
     // Define a font family default.
     fontFamily: 'Montserrat',
 

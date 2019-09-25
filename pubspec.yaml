@@ -46,6 +46,7 @@ flutter:
   assets:
    - assets/images/miranha.png
    - assets/svg/logo-new-school.svg
+   - assets/svg/icon-video.svg
 
   #  - images/a_dot_ham.jpeg
 
