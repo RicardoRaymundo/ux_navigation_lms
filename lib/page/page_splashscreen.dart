@@ -7,7 +7,7 @@ import 'package:ux_navigation/page/page_login.dart';
 import 'package:ux_navigation/page/page_main.dart';
 import 'package:ux_navigation/ui/ui_image.dart';
 
-///
+/// A classe PageSplashScreen é responsavel pela apresentação inicial da logo da aplicação
 class PageSplashScreen extends StatefulWidget {
   @override
   _PageSplashScreenState createState() => _PageSplashScreenState();
