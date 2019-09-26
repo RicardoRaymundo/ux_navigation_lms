@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
-import 'package:ux_navigation/page/fab_placeholder.dart';
 import 'package:ux_navigation/page/page_downloads.dart';
 import 'package:ux_navigation/page/page_gallery.dart';
-import 'package:ux_navigation/page/pages_home.dart';
 import 'package:ux_navigation/page/page_more.dart';
 import 'package:ux_navigation/page/page_search.dart';
+import 'package:ux_navigation/page/pages_home.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_bottombar.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_fab_icons.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_layout.dart';
@@ -23,7 +21,7 @@ class _PageMainState extends State<PageMain>
   @override
   void initState() {
     super.initState();
-    SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
+    //SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
   }
 
   Widget myButton;

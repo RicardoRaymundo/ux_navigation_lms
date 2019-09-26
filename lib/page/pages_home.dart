@@ -14,148 +14,141 @@ class _PagesHomeState extends State<PagesHome> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: ListView(
-        children: <Widget>[
-          Container(
-            height: 300,
-            color: Colors.purple,
-            child: Center(child: Text('Main Banner')),
+    return ListView(
+      children: <Widget>[
+        Container(
+          height: 300,
+          color: Colors.purple,
+          child: Center(child: Text('Main Banner')),
+        ),
+        _buildItemTitle(title: 'Popular na New School'),
+        Container(
+          height: 200,
+          color: Colors.purple,
+          child: ListView.builder(
+            scrollDirection: Axis.horizontal,
+            itemCount: this.items.length,
+            itemBuilder: (context, index) {
+              return Padding(
+                padding: const EdgeInsets.all(5.0),
+                child: Material(
+                  color: Colors.black,
+                  child: InkWell(
+                    onTap: () {
+                      setState(() {
+                        AppButtonEnable.pagesHome = !AppButtonEnable.pagesHome;
+                      });
+                      print(AppButtonEnable.pagesHome);
+                      Navigator.push(context, MaterialPageRoute(builder: (context) => PageInfoMain()));
+                    },
+                    child: Container(
+                      width: 150,
+                      child: Center(child: Text('${items[index]}')),
+                    ),
+                  ),
+                ),
+              );
+            },
           ),
-          _buildItemTitle(title: 'Popular na New School'),
-          Container(
-            height: 200,
-            color: Colors.purple,
-            child: ListView.builder(
-              scrollDirection: Axis.horizontal,
-              itemCount: this.items.length,
-              itemBuilder: (context, index) {
-                return Padding(
-                  padding: const EdgeInsets.all(5.0),
+        ),
+        _buildItemTitle(title: 'Continue Assistindo'),
+        Container(
+          height: 150,
+          color: Colors.purple,
+          child: ListView.builder(
+            scrollDirection: Axis.horizontal,
+            itemCount: this.items.length,
+            itemBuilder: (context, index) {
+              return Padding(
+                padding: const EdgeInsets.all(4.0),
+                child: Container(
+                  width: 100,
                   child: Material(
                     color: Colors.black,
                     child: InkWell(
                       onTap: () {
-                        setState(() {
-                          AppButtonEnable.pagesHome =
-                              !AppButtonEnable.pagesHome;
-                        });
-                        print(AppButtonEnable.pagesHome);
-                        Navigator.push(
-                            context,
-                            MaterialPageRoute(
-                                builder: (context) => PageInfoMain()));
+                        Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                       },
-                      child: Container(
-                        width: 150,
-                        child: Center(child: Text('${items[index]}')),
+                      child: Center(child: Text('${items[index]}')),
+                    ),
+                  ),
+                ),
+              );
+            },
+          ),
+        ),
+        _buildItemTitle(title: 'Disponível Agora'),
+        Container(
+          height: 250,
+          child: Material(
+            color: Colors.purple,
+            child: InkWell(
+              onTap: () {
+                Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
+              },
+              child: Center(child: Text('Video de futurismo e Inovação')),
+            ),
+          ),
+        ),
+        Padding(
+          padding: const EdgeInsets.only(top: 8.0, bottom: 8.0),
+          child: Container(
+            height: 50,
+            child: Row(
+              mainAxisAlignment: MainAxisAlignment.spaceAround,
+              children: <Widget>[
+                Container(
+                  width: 175,
+                  child: Material(
+                    color: Colors.purple,
+                    child: InkWell(
+                      onTap: () {
+                        Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
+                      },
+                      child: Center(
+                        child: Text('Assistir'),
                       ),
                     ),
                   ),
-                );
-              },
+                ),
+                Container(
+                  width: 175,
+                  color: Colors.purple,
+                  child: Center(
+                    child: Text('Minha Lista'),
+                  ),
+                ),
+              ],
             ),
           ),
-          _buildItemTitle(title: 'Continue Assistindo'),
-          Container(
-            height: 150,
-            color: Colors.purple,
-            child: ListView.builder(
-              scrollDirection: Axis.horizontal,
-              itemCount: this.items.length,
-              itemBuilder: (context, index) {
-                return Padding(
-                  padding: const EdgeInsets.all(4.0),
-                  child: Container(
-                    width: 100,
-                    child: Material(
+        ),
+        _buildItemTitle(title: 'ORIGINAIS NEW SCHOOL'),
+        Container(
+          height: 300,
+          color: Colors.purple,
+          child: ListView.builder(
+            scrollDirection: Axis.horizontal,
+            itemCount: this.items.length,
+            itemBuilder: (context, index) {
+              return Padding(
+                padding: const EdgeInsets.all(5.0),
+                child: Container(
+                  width: 250,
+                  child: Material(
                       color: Colors.black,
                       child: InkWell(
                         onTap: () {
                           Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
                         },
                         child: Center(child: Text('${items[index]}')),
+                      ) //Center(child: Text('${items[index]}')),
                       ),
-                    ),
-                  ),
-                );
-              },
-            ),
+                ),
+              );
+            },
           ),
-          _buildItemTitle(title: 'Disponível Agora'),
-          Container(
-            height: 250,
-            child: Material(
-              color: Colors.purple,
-              child: InkWell(
-                onTap: () {
-                  Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
-                },
-                child: Center(child: Text('Video de futurismo e Inovação')),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.only(top: 8.0, bottom: 8.0),
-            child: Container(
-              height: 50,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.spaceAround,
-                children: <Widget>[
-                  Container(
-                    width: 175,
-                    child: Material(
-                      color: Colors.purple,
-                      child: InkWell(
-                        onTap: () {
-                          Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
-                        },
-                        child: Center(
-                          child: Text('Assistir'),
-                        ),
-                      ),
-                    ),
-                  ),
-                  Container(
-                    width: 175,
-                    color: Colors.purple,
-                    child: Center(
-                      child: Text('Minha Lista'),
-                    ),
-                  ),
-                ],
-              ),
-            ),
-          ),
-          _buildItemTitle(title: 'ORIGINAIS NEW SCHOOL'),
-          Container(
-            height: 300,
-            color: Colors.purple,
-            child: ListView.builder(
-              scrollDirection: Axis.horizontal,
-              itemCount: this.items.length,
-              itemBuilder: (context, index) {
-                return Padding(
-                  padding: const EdgeInsets.all(5.0),
-                  child: Container(
-                    width: 250,
-                    child: Material(
-                        color: Colors.black,
-                        child: InkWell(
-                          onTap: () {
-                            Navigator.pushNamed(
-                                context, AppRouting.PAGE_INFO_VIDEO);
-                          },
-                          child: Center(child: Text('${items[index]}')),
-                        ) //Center(child: Text('${items[index]}')),
-                        ),
-                  ),
-                );
-              },
-            ),
-          ),
-        ],
-      ),
+        ),
+      ],
     );
   }
 

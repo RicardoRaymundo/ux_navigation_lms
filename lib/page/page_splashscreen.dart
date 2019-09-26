@@ -2,26 +2,24 @@ import 'dart:async';
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:ux_navigation/page/page_login.dart';
 import 'package:ux_navigation/page/page_main.dart';
 import 'package:ux_navigation/ui/ui_image.dart';
 
-///
+/// A classe PageSplashScreen é responsavel pela apresentação inicial da logo da aplicação
 class PageSplashScreen extends StatefulWidget {
   @override
   _PageSplashScreenState createState() => _PageSplashScreenState();
 }
 
+// TODO:: Implmentar lógica de identifcação de usuário
+// TODO:: Carrega dados da aplicação
 class _PageSplashScreenState extends State<PageSplashScreen> {
   final bool isLogged = false;
 
   @override
   void initState() {
     super.initState();
-
-    /// Limpa as configurações de UI Overlay
-    SystemChrome.setEnabledSystemUIOverlays([]);
 
     /// Método de delay e navegação criado fora do initState
     this.loadData();
@@ -37,8 +35,7 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
             height: 150,
             child: Image.asset(UiImage.APP_LOGO),
           ),
-        )
-    );
+        ));
   }
 
   /// Método que fará um delay, posteriormente chamando outro método
