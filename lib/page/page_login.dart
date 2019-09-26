@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/app/app_routing.dart';
 import 'package:ux_navigation/ui/ui_image.dart';
@@ -11,13 +10,6 @@ class PageLogin extends StatefulWidget {
 }
 
 class _PageLoginState extends State<PageLogin> {
-  /// Reconfigura as configurações de UI Overlay
-  @override
-  void initState() {
-    super.initState();
-    SystemChrome.setEnabledSystemUIOverlays(SystemUiOverlay.values);
-  }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -36,7 +28,11 @@ class _PageLoginState extends State<PageLogin> {
       Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
-          SvgPicture.asset(UiImage.APP_LOGO_SVG, height: 100, width: 100,),
+          SvgPicture.asset(
+            UiImage.APP_LOGO_SVG,
+            height: 100,
+            width: 100,
+          ),
           SizedBox(height: 20.0),
           Text(
             UILabel.WELCOME,
@@ -52,59 +48,67 @@ class _PageLoginState extends State<PageLogin> {
 
   Widget form(BuildContext context) =>
       Container(
-    child: Column(
-      mainAxisAlignment: MainAxisAlignment.spaceAround,
-      mainAxisSize: MainAxisSize.min,
-      children: <Widget>[
-        Container(
-          padding: EdgeInsets.symmetric(vertical: 16.0, horizontal: 30.0),
-          child: TextField(
-            maxLines: 1,
-            decoration: InputDecoration(
-              hintText: UILabel.TYPE_USER_NAME,
-              labelText: UILabel.USER_NAME,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
+          mainAxisSize: MainAxisSize.min,
+          children: <Widget>[
+            Container(
+              padding: EdgeInsets.symmetric(vertical: 16.0, horizontal: 30.0),
+              child: TextField(
+                maxLines: 1,
+                decoration: InputDecoration(
+                  hintText: UILabel.TYPE_USER_NAME,
+                  labelText: UILabel.USER_NAME,
+                ),
+              ),
             ),
-          ),
-        ),
-        Container(
-          padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
-          child: TextField(
-            maxLines: 1,
-            obscureText: true,
-            decoration: InputDecoration(
-              hintText: UILabel.TYPE_PASSWORD,
-              labelText: UILabel.PASSWORD,
+            Container(
+              padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
+              child: TextField(
+                maxLines: 1,
+                obscureText: true,
+                decoration: InputDecoration(
+                  hintText: UILabel.TYPE_PASSWORD,
+                  labelText: UILabel.PASSWORD,
+                ),
+              ),
             ),
-          ),
+            SizedBox(height: 30.0),
+            Container(
+              padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
+              width: double.infinity,
+              child: RaisedButton(
+                padding: EdgeInsets.all(12.0),
+                shape: StadiumBorder(),
+                child: Text(UILabel.ENTER),
+                onPressed: () {
+                  Navigator.popAndPushNamed(context, AppRouting.PAGE_MAIN);
+                },
+              ),
+            ),
+            Container(
+              padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
+              width: double.infinity,
+              child: RaisedButton(
+                elevation: 0,
+                color: Theme
+                    .of(context)
+                    .scaffoldBackgroundColor,
+                padding: EdgeInsets.all(12.0),
+                shape: StadiumBorder(),
+                child: Text(
+                  UILabel.CREATE_ACCOUNT,
+                  style: Theme
+                      .of(context)
+                      .textTheme
+                      .button,
+                ),
+                onPressed: () {
+                  Navigator.popAndPushNamed(context, AppRouting.PAGE_CREATE_ACCOUNT);
+                },
+              ),
+            ),
+          ],
         ),
-        SizedBox(height: 30.0),
-        Container(
-          padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
-          width: double.infinity,
-          child: RaisedButton(
-            padding: EdgeInsets.all(12.0),
-            shape: StadiumBorder(),
-            child: Text(UILabel.ENTER),
-            onPressed: () {
-              Navigator.popAndPushNamed(context, AppRouting.PAGE_MAIN);
-            },
-          ),
-        ),
-        Container(
-          padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
-          width: double.infinity,
-          child: RaisedButton(
-            elevation: 0,
-            color: Theme.of(context).scaffoldBackgroundColor,
-            padding: EdgeInsets.all(12.0),
-            shape: StadiumBorder(),
-            child: Text(UILabel.CREATE_ACCOUNT, style: Theme.of(context).textTheme.button,),
-            onPressed: () {
-              Navigator.popAndPushNamed(context, AppRouting.PAGE_CREATE_ACCOUNT);
-            },
-          ),
-        ),
-      ],
-    ),
-  );
+      );
 }

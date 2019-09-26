@@ -8,7 +8,6 @@ class PagesHome extends StatefulWidget {
   _PagesHomeState createState() => _PagesHomeState();
 }
 
-
 class _PagesHomeState extends State<PagesHome> {
   /// Gera uma lista de itens por iteração
   final items = List<String>.generate(10, (i) => "Item $i");
