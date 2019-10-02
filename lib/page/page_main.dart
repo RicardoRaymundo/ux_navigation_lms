@@ -39,7 +39,6 @@ class _PageMainState extends State<PageMain>
   ];
 
   final List<Widget> fabItems = [
-    // PlaceholderWidget(color: Colors.green,)
     PageGallery(),
   ];
 
