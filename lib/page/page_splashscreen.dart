@@ -1,7 +1,6 @@
-import 'dart:async';
-
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:ux_navigation/data/data.dart';
 import 'package:ux_navigation/page/page_login.dart';
 import 'package:ux_navigation/page/page_main.dart';
 import 'package:ux_navigation/ui/ui_image.dart';
@@ -22,7 +21,10 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
     super.initState();
 
     /// Método de delay e navegação criado fora do initState
-    this.loadData();
+    //this.loadData();
+    Data.generate(this.onDoneLoading);
+
+    //this.onDoneLoading();
   }
 
   @override
@@ -39,9 +41,9 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
   }
 
   /// Método que fará um delay, posteriormente chamando outro método
-  Future<Timer> loadData() async {
+  /*Future<Timer> loadData() async {
     return new Timer(Duration(seconds: 5), this.onDoneLoading);
-  }
+  }*/
 
   /// Método que será chamado após o delay
   /// Verifica o status de login e decide para qual página irá navegar

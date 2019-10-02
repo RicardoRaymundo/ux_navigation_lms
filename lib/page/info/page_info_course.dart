@@ -2,8 +2,13 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/app/app_button_enable.dart';
 import 'package:ux_navigation/app/app_routing.dart';
+import 'package:ux_navigation/resource/course/course.dart';
 
 class PageInfoCourse extends StatefulWidget {
+  Course data;
+
+  PageInfoCourse({this.data});
+
   @override
   _PageInfoCourseState createState() => _PageInfoCourseState();
 }
@@ -19,8 +24,8 @@ class _PageInfoCourseState extends State<PageInfoCourse> {
           Container(
             height: 180,
             child: Material(
-                color: Colors.purple,
-                child: InkWell(
+              color: Colors.purple,
+              child: InkWell(
                 onTap: () {
                   AppButtonEnable.pagesInfoMain = false;
                   Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
@@ -42,17 +47,11 @@ class _PageInfoCourseState extends State<PageInfoCourse> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    'Título',
+                    widget.data.title,
                     style: TextStyle(fontSize: 30),
                   ),
-                  SizedBox(
-                    height: 15,
-                  ),
-                  Text(
-                    'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, '
-                    'totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. '
-                    'Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.',
-                  ),
+                  SizedBox(height: 15),
+                  Text(widget.data.description),
                 ],
               ),
             ),

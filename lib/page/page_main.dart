@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:ux_navigation/app/app_button_enable.dart';
 import 'package:ux_navigation/page/page_downloads.dart';
 import 'package:ux_navigation/page/page_gallery.dart';
+import 'package:ux_navigation/page/page_home.dart';
 import 'package:ux_navigation/page/page_more.dart';
 import 'package:ux_navigation/page/page_search.dart';
-import 'package:ux_navigation/page/pages_home.dart';
-import 'package:ux_navigation/resource/custom_fab/custom_bottombar.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_fab_icons.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_layout.dart';
 
@@ -34,7 +32,7 @@ class _PageMainState extends State<PageMain>
   /// Listas de Widgets que a bottombar exibirá. Tanto pelos filhos do botao central, quanto
   /// os filhos da bottombar
   final List<Widget> tabItems = [
-    PagesHome(),
+    PageHome(),
     PageSearch(),
     PageDownloads(),
     PageMore(),
@@ -83,7 +81,7 @@ class _PageMainState extends State<PageMain>
 
           /// Widget que será exibido atravez da seleção da bottombar
           body: this.isTab ? this.tabItems[currentTabIndex] : this.fabItems[currentFabIndex],
-          bottomNavigationBar: FABBottomAppBar(
+          /*bottomNavigationBar: FABBottomAppBar(
             centerItemText: 'Gallery',
             color: Colors.white,
             selectedColor: Colors.red,
@@ -99,7 +97,7 @@ class _PageMainState extends State<PageMain>
             ],
           ),
           floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
-          floatingActionButton: AppButtonEnable.pagesHome ? this.myButton : null,
+          floatingActionButton: AppButtonEnable.pagesHome ? this.myButton : null,*/
         ),
       ),
     );

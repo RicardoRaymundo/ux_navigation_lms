@@ -6,31 +6,29 @@ import 'package:ux_navigation/page/info/page_info_classes.dart';
 import 'package:ux_navigation/page/info/page_info_course.dart';
 import 'package:ux_navigation/page/info/page_info_downloads.dart';
 import 'package:ux_navigation/page/page_gallery.dart';
+import 'package:ux_navigation/resource/course/course.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_bottombar.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_fab_icons.dart';
 import 'package:ux_navigation/resource/custom_fab/custom_layout.dart';
 
 class PageInfoMain extends StatefulWidget {
+
+  Course data;
+
+  PageInfoMain({this.data});
+
   @override
   _PageInfoMainState createState() => _PageInfoMainState();
 }
 
-class _PageInfoMainState extends State<PageInfoMain>
-    with SingleTickerProviderStateMixin {
+class _PageInfoMainState extends State<PageInfoMain> with SingleTickerProviderStateMixin {
   int currentTabIndex = 0;
   int currentFabIndex = 0;
   bool isTab = true;
   bool isLogged = true;
   bool disableButton = false;
 
-  /// Listas de Widgets que a bottombar exibirá. Tanto pelos filhos do botao central, quanto
-  /// os filhos da bottombar
-  final List<Widget> tabItems = [
-    PageInfoCourse(),
-    PageInfoClasses(),
-    PageInfoDownloads(),
-    PageInfoAchievements(),
-  ];
+
 
   final List<Widget> fabItems = [
     PageGallery(),
@@ -58,18 +56,29 @@ class _PageInfoMainState extends State<PageInfoMain>
 
   @override
   Widget build(BuildContext context) {
+
+    /// Listas de Widgets que a bottombar exibirá. Tanto pelos filhos do botao central, quanto
+    /// os filhos da bottombar
+    final List<Widget> tabItems = [
+      PageInfoCourse(data: widget.data),
+      PageInfoClasses(),
+      PageInfoDownloads(),
+      PageInfoAchievements(),
+    ];
+
     return Opacity(
       opacity:
 
-          /// Verifica a orientação do celular, certificando-se de que seja
-          /// mantida a orientação portrait
-          MediaQuery.of(context).orientation == Orientation.portrait ? 1 : 0,
+      /// Verifica a orientação do celular, certificando-se de que seja
+      /// mantida a orientação portrait
+      MediaQuery.of(context).orientation == Orientation.portrait ? 1 : 0,
       child: WillPopScope(
         onWillPop: _onWillPop,
         child: Scaffold(
-          /// Widget que será exibido atravez da seleção da bottombar
+
+          /// Widget que será exibido através da seleção da bottombar
           body: this.isTab
-              ? this.tabItems[currentTabIndex]
+              ? tabItems[currentTabIndex]
               : this.fabItems[currentFabIndex],
           bottomNavigationBar: FABBottomAppBar(
             centerItemText: 'Gallery',
@@ -78,6 +87,7 @@ class _PageInfoMainState extends State<PageInfoMain>
             notchedShape: CircularNotchedRectangle(),
             onTabSelected: _selectedTab,
             items: [
+
               /// itens da bottombar
               FABBottomAppBarItem(
                   iconData: Icons.arrow_downward, text: 'Curso'),
@@ -88,12 +98,12 @@ class _PageInfoMainState extends State<PageInfoMain>
             ],
           ),
           floatingActionButtonLocation:
-              FloatingActionButtonLocation.centerDocked,
+          FloatingActionButtonLocation.centerDocked,
 
           /// Verifica a variavel static, se for true habilita o botão
           /// e se for false, desabilita o botão
           floatingActionButton:
-              AppButtonEnable.pagesInfoMain ? _buildFab(context) : null,
+          AppButtonEnable.pagesInfoMain ? _buildFab(context) : null,
         ),
       ),
     );
@@ -102,6 +112,7 @@ class _PageInfoMainState extends State<PageInfoMain>
   /// Método que cria o FloatingActionButton(FAB) central que ao ser clicado,
   /// exibe, por animacão, uma coluna de botões
   Widget _buildFab(BuildContext context) {
+
     /// Lista de botões filhos
     final icons = [Icons.outlined_flag];
     return AnchoredOverlay(
