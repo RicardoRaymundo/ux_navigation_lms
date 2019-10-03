@@ -7,9 +7,10 @@ import 'package:ux_navigation/page/info/page_info_course.dart';
 import 'package:ux_navigation/page/info/page_info_downloads.dart';
 import 'package:ux_navigation/page/page_gallery.dart';
 import 'package:ux_navigation/resource/course/course.dart';
-import 'package:ux_navigation/resource/custom_fab/custom_bottombar.dart';
-import 'package:ux_navigation/resource/custom_fab/custom_fab_icons.dart';
-import 'package:ux_navigation/resource/custom_fab/custom_layout.dart';
+import 'package:ux_navigation/resource/custom_fab/OLD/custom_fab_icons.dart';
+import 'package:ux_navigation/resource/custom_fab/OLD/custom_layout.dart';
+import 'package:ux_navigation/resource/custom_fab/fab_bottom_app_bar.dart';
+import 'package:ux_navigation/ui/ui_custom_icons.dart';
 
 class PageInfoMain extends StatefulWidget {
 
@@ -90,11 +91,11 @@ class _PageInfoMainState extends State<PageInfoMain> with SingleTickerProviderSt
 
               /// itens da bottombar
               FABBottomAppBarItem(
-                  iconData: Icons.arrow_downward, text: 'Curso'),
-              FABBottomAppBarItem(iconData: Icons.loupe, text: 'Aulas'),
+                  iconData: CustomIcons.training, text: 'Curso'),
+              FABBottomAppBarItem(iconData: CustomIcons.duplicate, text: 'Aulas'),
               FABBottomAppBarItem(
-                  iconData: Icons.file_download, text: 'Recursos'),
-              FABBottomAppBarItem(iconData: Icons.menu, text: 'Conquistas'),
+                  iconData: CustomIcons.profiles, text: 'Recursos'),
+              FABBottomAppBarItem(iconData: CustomIcons.diamond, text: 'Conquistas'),
             ],
           ),
           floatingActionButtonLocation:
@@ -129,7 +130,7 @@ class _PageInfoMainState extends State<PageInfoMain> with SingleTickerProviderSt
       child: FloatingActionButton(
         onPressed: () {},
         tooltip: 'Increment',
-        child: Icon(Icons.add),
+        child: Icon(CustomIcons.trophy),
         elevation: 2.0,
       ),
     );

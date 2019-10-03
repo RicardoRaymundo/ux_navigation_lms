@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ux_navigation/ui/ui_custom_icons.dart';
 
 // https://stackoverflow.com/questions/46480221/flutter-floating-action-button-with-speed-dail
 class FabWithIcons extends StatefulWidget {
@@ -70,7 +71,7 @@ class FabWithIconsState extends State<FabWithIcons> with TickerProviderStateMixi
         }
       },
       tooltip: 'Increment',
-      child: Icon(Icons.add),
+      child: Icon(CustomIcons.trophy),
       elevation: 2.0,
     );
   }

@@ -66,17 +66,17 @@ class _MyHomePageState extends State<MyHomePage> with TickerProviderStateMixin {
           style: TextStyle(fontSize: 32.0),
         ),
       ),
-      bottomNavigationBar: FABBottomAppBar(
+      bottomNavigationBar: FABBottomAppBarOLD(
         centerItemText: 'A',
         color: Colors.grey,
         selectedColor: Colors.red,
         notchedShape: CircularNotchedRectangle(),
         onTabSelected: _selectedTab,
         items: [
-          FABBottomAppBarItem(iconData: Icons.menu, text: 'This'),
-          FABBottomAppBarItem(iconData: Icons.layers, text: 'Is'),
-          FABBottomAppBarItem(iconData: Icons.dashboard, text: 'Bottom'),
-          FABBottomAppBarItem(iconData: Icons.info, text: 'Bar'),
+          FABBottomAppBarItemOLD(iconData: Icons.menu, text: 'This'),
+          FABBottomAppBarItemOLD(iconData: Icons.layers, text: 'Is'),
+          FABBottomAppBarItemOLD(iconData: Icons.dashboard, text: 'Bottom'),
+          FABBottomAppBarItemOLD(iconData: Icons.info, text: 'Bar'),
         ],
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,

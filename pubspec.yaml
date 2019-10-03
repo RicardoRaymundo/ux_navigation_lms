@@ -68,6 +68,11 @@ flutter:
     - assets/images/11.jpg
     - assets/images/12.jpg
 
+  fonts:
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/CustomIcons.ttf
+
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
