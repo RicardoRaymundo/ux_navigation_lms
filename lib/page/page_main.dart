@@ -51,7 +51,8 @@ class _PageMainState extends State<PageMain>
 
   /// Método que altera o valor de index do botão central, quando um de seus filhos
   /// é clicado
-  void _selectedFab(int index) {
+  /// TODO:: concertar a lógica do botão central
+  void _selectedFab() {
     setState(() {
       print('AAAAAA');
       isTab = false;
@@ -78,9 +79,7 @@ class _PageMainState extends State<PageMain>
           floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
           floatingActionButton: FloatingActionButton(
             backgroundColor: Color(0xffb2208c),
-            onPressed: () {
-              this._selectedFab;
-            },
+            onPressed: this._selectedFab,
             child: Icon(CustomIcons.trophy),
             elevation: 5.0,
           ),
