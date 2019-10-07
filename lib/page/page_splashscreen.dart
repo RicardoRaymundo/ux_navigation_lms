@@ -30,7 +30,6 @@ class _PageSplashScreenState extends State<PageSplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Container(
-        color: Colors.blue,
         child: Center(
           child: Container(
             width: 150,

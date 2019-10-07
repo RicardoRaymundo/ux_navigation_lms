@@ -35,7 +35,6 @@ class _MainState extends State<Main> {
       title: UILabel.APP_TITLE,
       theme: ThemeConfig.of(context),
       debugShowCheckedModeBanner: false,
-
       builder: (context, child) {
         /// Retira effeito de 'barriga' no fim de scroll
         return ScrollConfiguration(

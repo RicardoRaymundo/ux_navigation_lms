@@ -18,11 +18,11 @@
           "description": "Introdução sobre a importância de se aprender Literatura.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
           "youtube": "https://www.youtube.com/watch?v=7R_RVXAp3yA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=35",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Por que estudamos literatura?",
@@ -80,11 +80,11 @@
           "description": "Aprenda mais sobre os movimentos literários.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
           "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=36",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Do que também são chamados os movimentos literários?",
@@ -161,7 +161,7 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "aaa",
           "title": "bbb",
@@ -187,7 +187,7 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "111",
           "title": "222",
@@ -226,11 +226,11 @@
           "description": "Vamos aprender sobre o primeiro movimento literário da História.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333128531/b88f845b66",
           "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=37",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O primeiro movimento literário aconteceu em qual período da história?",
@@ -360,11 +360,11 @@
           "description": "Como eram criadas as cantigas durante o Trovadorismo e de quais elementos elas eram formadas.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333129261/4911740f4d",
           "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=38",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que é uma cantiga da guarvaia?",
@@ -470,11 +470,11 @@
           "description": "Os recursos utilizados pelos trovadores para facilitar a memorização das cantigas.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333129865/42d1c88a79",
           "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=39",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que é um verso redondilho?",
@@ -527,7 +527,7 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
@@ -553,7 +553,7 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
@@ -592,11 +592,11 @@
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: amor e amigo.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333130226/1724ff0fba",
           "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=40",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Sobre o que eram as cantigas de amor?",
@@ -654,11 +654,11 @@
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: escárnio e maldizer.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333130950/eee3fd5e7d",
           "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=41",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Sobre o que eram as cantigas de escárnio?",
@@ -716,11 +716,11 @@
           "description": "Vamos aprender sobre o segundo movimento literário da História.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333131625/759cb297de",
           "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=42",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que estava acontecendo no mundo durante o segundo movimento literário?",
@@ -797,7 +797,7 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
@@ -823,7 +823,7 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
@@ -862,11 +862,11 @@
           "description": "Características mais importantes do Humanismo.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333143366/e68c981f50",
           "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=43",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Onde a poesia era consumida durante o Humanismo?",
@@ -972,11 +972,11 @@
           "description": "A história de Gil Vicente, autor mais importante do Humanismo.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333144267/a8d003a1af",
           "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=44",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que o autor Gil Vicente era considerado?",
@@ -1058,11 +1058,11 @@
           "description": "O Auto da Barca do Inferno e a transformação do teatro brasileiro.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333144905/35699f2629",
           "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=45",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Como era o teatro antes de Gil Vicente?",
@@ -1115,7 +1115,7 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
@@ -1141,7 +1141,7 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
@@ -1180,11 +1180,11 @@
           "description": "Vamos conhecer o terceiro movimento literário da História.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333145484/36a967dea6",
           "youtube": "https://www.youtube.com/watch?v=d3Se2uycb6g&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=46",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Qual o nome do terceiro movimento literário?",
@@ -1266,11 +1266,11 @@
           "description": "O que é Classicismo e quais são suas características principais.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333172090/7d7c00f237",
           "youtube": "https://www.youtube.com/watch?v=CzUtrBks_5c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=47",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que é um clássico?",
@@ -1352,11 +1352,11 @@
           "description": "A lógica de escrita de versos utilizada pelos poetas do Classicismo.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/333172841/16ab403042",
           "youtube": "https://www.youtube.com/watch?v=DerybTK96dY&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=48",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Como eram chamados os versos durante o Classicismo?",
@@ -1409,7 +1409,7 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
@@ -1435,7 +1435,7 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",

@@ -8,7 +8,7 @@ class ThemeCustomLight {
     primaryColor: Colors.blue,
     accentColor: Colors.cyan[600],
     cardColor: Colors.purple,
-    backgroundColor: Colors.green,
+    backgroundColor: Colors.amberAccent,
     scaffoldBackgroundColor: Colors.red,
     brightness: Brightness.light,
 

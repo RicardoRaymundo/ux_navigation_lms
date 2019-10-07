@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/app/app_routing.dart';
-import 'package:ux_navigation/ui/ui_image.dart';
 import 'package:ux_navigation/ui/ui_label.dart';
+import 'package:ux_navigation/ui/ui_svg.dart';
 
 class PageLogin extends StatefulWidget {
   @override
@@ -28,20 +28,27 @@ class _PageLoginState extends State<PageLogin> {
       Column(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: <Widget>[
+          SizedBox(height: 30.0),
           SvgPicture.asset(
-            UiImage.APP_LOGO_SVG,
-            height: 100,
-            width: 100,
+            UiSVG.APP_LOGO,
+            height: 150,
+            width: 150,
           ),
           SizedBox(height: 20.0),
           Text(
             UILabel.WELCOME,
-            style: TextStyle(fontWeight: FontWeight.w700, color: Color(0xffb2228c)),
+            style: Theme
+                .of(context)
+                .primaryTextTheme
+                .display1,
           ),
           SizedBox(height: 5.0),
           Text(
             UILabel.LOGIN_TO_CONTINUE,
-            style: TextStyle(color: Colors.grey),
+            style: Theme
+                .of(context)
+                .accentTextTheme
+                .display2,
           ),
         ],
       );
@@ -73,29 +80,51 @@ class _PageLoginState extends State<PageLogin> {
                 ),
               ),
             ),
-            SizedBox(height: 30.0),
+            SizedBox(height: 40.0),
             Container(
               padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
               width: double.infinity,
               child: RaisedButton(
-                padding: EdgeInsets.all(12.0),
-                shape: StadiumBorder(),
-                child: Text(UILabel.ENTER),
+                child: Text(
+                  UILabel.ENTER,
+                  style: Theme
+                      .of(context)
+                      .textTheme
+                      .button,
+                ),
                 onPressed: () {
                   Navigator.popAndPushNamed(context, AppRouting.PAGE_MAIN);
                 },
               ),
             ),
+            SizedBox(height: 10.0),
             Container(
               padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
               width: double.infinity,
               child: RaisedButton(
-                elevation: 0,
+                child: Text(
+                  UILabel.WHAT_IS_NEW_SCHOOL,
+                  style: Theme
+                      .of(context)
+                      .textTheme
+                      .button,
+                ),
+                color: Colors.blue[800],
+                onPressed: () {
+                  Navigator.popAndPushNamed(context, AppRouting.PAGE_MAIN);
+                },
+              ),
+            ),
+            SizedBox(height: 10.0),
+            Container(
+              padding: EdgeInsets.symmetric(vertical: 0.0, horizontal: 30.0),
+              width: double.infinity,
+              child: RaisedButton(
                 color: Theme
                     .of(context)
                     .scaffoldBackgroundColor,
-                padding: EdgeInsets.all(12.0),
-                shape: StadiumBorder(),
+                elevation: 0,
+                highlightElevation: 0,
                 child: Text(
                   UILabel.CREATE_ACCOUNT,
                   style: Theme
@@ -104,10 +133,11 @@ class _PageLoginState extends State<PageLogin> {
                       .button,
                 ),
                 onPressed: () {
-                  Navigator.popAndPushNamed(context, AppRouting.PAGE_CREATE_ACCOUNT);
+                  // Navigator.popAndPushNamed(context, AppRouting.PAGE_CREATE_ACCOUNT);
                 },
               ),
             ),
+            SizedBox(height: 10.0),
           ],
         ),
       );

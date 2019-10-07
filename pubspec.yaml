@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   outline_material_icons: ^0.1.0
   flutter_svg: ^0.14.0
+  percent_indicator: ^2.1.1+1
 
 dev_dependencies:
   flutter_test:
@@ -50,8 +51,19 @@ flutter:
     - assets/data/data_math.json
     - assets/data/data_photography.json
     - assets/data/data_pnl.json
+    - assets/svg/chart.svg
     - assets/svg/logo-new-school.svg
     - assets/svg/icon-video.svg
+    - assets/svg/info-time.svg
+    - assets/svg/hand-up.svg
+    - assets/svg/hand-down.svg
+    - assets/svg/info-check.svg
+    - assets/svg/metric-fail.svg
+    - assets/svg/metric-medio.svg
+    - assets/svg/metric-success.svg
+    - assets/svg/metric.svg
+    - assets/svg/medalha1.svg
+    - assets/svg/medalha2.svg
     - assets/svg/play.svg
     - assets/images/miranha.png
     - assets/images/birdboxBanner.jpg

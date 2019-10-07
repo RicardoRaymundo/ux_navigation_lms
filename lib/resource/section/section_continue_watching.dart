@@ -63,7 +63,7 @@ class SectionContinueWatching extends StatelessWidget {
                     child: Container(
                       height: 50,
                       width: 50,
-                      child: SvgPicture.asset(assetName, semanticsLabel: 'New School'),
+                      child: SvgPicture.asset(assetName),
                     ),
                   ),
                 ),

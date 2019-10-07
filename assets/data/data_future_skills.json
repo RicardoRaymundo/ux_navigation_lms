@@ -18,17 +18,17 @@
           "description": "Vamos aprender sobre como as mudanças sociais deram origem à sociedade em que vivemos hoje.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334798004/860d2c4b98",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que foi a Revolução Agrícola?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Quando as pessoas começaram a viver de forma civilizada."
@@ -52,7 +52,7 @@
               "title": "O que foi a Era Industrial?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Quando as indústrias se tornaram “donas” de todas as cidades."
@@ -76,7 +76,7 @@
               "title": "Qual das alternativas NÃO representa nenhuma das lógicas da Era Industrial?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Era preciso produzir cada vez mais e em menos tempo para gerar lucro."
@@ -104,17 +104,17 @@
           "description": "Vamos aprender mais sobre a era na qual estamos vivendo.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334798206/509ab1d909",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Como a Era Digital começou?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "As coisas que antes eram manuais foram levadas para o mundo digital."
@@ -138,7 +138,7 @@
               "title": "O que é Economia Colaborativa na prática?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Pessoas que se juntam para decidir coisas juntas sobre a economia de suas empresas."
@@ -162,7 +162,7 @@
               "title": "Qual é uma das características mais importantes da Economia Colaborativa?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Colaboração"
@@ -186,7 +186,7 @@
               "title": "Segundo a professora Camile, qual é a semelhança mais importante entre o Uber e o Airbnb?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Os dois são aplicativos que surgiram com a Era Digital."
@@ -214,17 +214,17 @@
           "description": "Vamos aprender mais sobre a nova economia e suas características principais.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334798395/388f930a46",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Qual é o princípio da Economia Criativa?",
               "correct": "a",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "A matéria prima intelectual é mais importante e mais valorosa do que a matéria prima física, como o petróleo e os produtos industriais."
@@ -248,7 +248,7 @@
               "title": "Quais são os três componentes da \"nova economia\"?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Economia Criativa, Economia Tradicional e Economia Colaborativa."
@@ -272,7 +272,7 @@
               "title": "Quais eram os centros de comunicação e conteúdo anteriores à Era Digital?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Apenas os jornais."
@@ -296,7 +296,7 @@
               "title": "Qual é a característica mais importante da comunicação na Era Digital?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Redes sociais e blogs dominam a comunicação na Era Digital."
@@ -319,13 +319,13 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -345,13 +345,13 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -384,17 +384,17 @@
           "description": "Vamos entender a diferença entre emprego e trabalho.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334797874/6ae57ab98d",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que é emprego?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "É aquilo que você é obrigado a fazer apenas para ganhar um salário."
@@ -418,7 +418,7 @@
               "title": "O que é trabalho?",
               "correct": "a",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Produzir algo que tem a ver com você, que você gosta, que acrescenta algo ao mundo e que também pode te dar dinheiro."
@@ -446,17 +446,17 @@
           "description": "Vamos aprender as características dessa economia e como é possível trabalhar sem ter um emprego.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334845187/95d8c05295",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que é a Gig Economy ou Economia Freelancer?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Trabalhos aleatórios e mal remunerados."
@@ -480,7 +480,7 @@
               "title": "O que o Freelancer faz?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Trabalha em projetos diferentes fora da sua profissão."
@@ -504,7 +504,7 @@
               "title": "Qual é a diferença entre empreender e ter uma empresa?",
               "correct": "a",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Ter uma empresa envolve ser líder e trabalhar com diversas pessoas. Empreender é possível sem ter uma empresa e trabalhando sozinho."
@@ -532,17 +532,17 @@
           "description": "Vamos entender a origem dos novos tipos de negócio e do que é preciso para empreender.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334845414/2817285247",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Como os novos negócios surgem?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "A partir dos erros das empresas antigas e tradicionais. Por exemplo, as indústrias."
@@ -566,7 +566,7 @@
               "title": "O que é preciso para começar a empreender?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Ter um registro oficial como empreendedor."
@@ -589,13 +589,13 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -615,13 +615,13 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -654,17 +654,17 @@
           "description": "Vamos aprender o que é o MEI e como ele pode ser utilizado na prática.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334845553/17670158eb",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que significa MEI?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Um registro para quem quer ter mais de uma ocupação de trabalho."
@@ -688,7 +688,7 @@
               "title": "Qual das alternativas NÃO é um dos benefícios do MEI?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Registro como empreendedor."
@@ -712,7 +712,7 @@
               "title": "O que são serviços remotos?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Serviços prestados em casa."
@@ -740,17 +740,17 @@
           "description": "Vamos aprender mais sobre as empresas e outros tipos de empreendedorismo.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334845733/ff54885eec",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Quais são os benefícios do MEI?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Ter o registro necessário para ser um empreendedor."
@@ -774,7 +774,7 @@
               "title": "O que podemos usar para gerenciar nosso trabalho virtualmente?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Organizar as atividades em uma agenda virtual."
@@ -798,7 +798,7 @@
               "title": "O que é uma empresa?",
               "correct": "a",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Um grupo de pessoas que se organiza, ou é organizado por um líder, para trabalhar junto por um propósito."
@@ -826,17 +826,17 @@
           "description": "Vamos ver o que é empreendedorismo em rede na teoria e na prática.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334845946/55fb9ea22d",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que é empreendedorismo coletivo?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Profissionais que trabalham juntos para uma mesma marca."
@@ -860,7 +860,7 @@
               "title": "Como acontece o empreendedorismo em rede?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "As pessoas criam uma rede de empreendedores que se apoiam, mesmo trabalhando separados."
@@ -883,13 +883,13 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -909,13 +909,13 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -948,17 +948,17 @@
           "description": "Vamos conhecer as habilidades mais importantes do futuro do trabalho.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334846084/1e3027099c",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "O que são as habilidades do futuro?",
               "correct": "a",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Habilidades que nos fazem mais humanos."
@@ -982,7 +982,7 @@
               "title": "Como são divididas as habilidades do futuro?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Habilidades comportamentais e habilidades mentais."
@@ -1006,7 +1006,7 @@
               "title": "Quais dessas alternativas NÃO fazem parte das habilidades comportamentais?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Gestão do tempo"
@@ -1034,17 +1034,17 @@
           "description": "Vamos continuar aprendendo sobre as habilidades comportamentais e cognitivas.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334846383/c6f4aeab7f",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Quais dessas alternativas NÃO fazem parte das habilidades cognitivas?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Solução de problemas"
@@ -1068,7 +1068,7 @@
               "title": "Segundo a professora, no que se resumem as habilidades do futuro?",
               "correct": "b",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Autoconhecimento, autonomia e liderança."
@@ -1092,7 +1092,7 @@
               "title": "O que é empatia?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Decifrar os sentimentos e pensamentos do outro."
@@ -1120,17 +1120,17 @@
           "description": "Vamos aprender o que é Lifelong Learning e qual a importância dele para o futuro.",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "https://vimeo.com/334846644/92b09c4496",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo a professora, o que o mundo está exigindo dos profissionais?",
               "correct": "c",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Autonomia e liderança."
@@ -1154,7 +1154,7 @@
               "title": "O que é Lifelong Learning?",
               "correct": "a",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Continuar sempre aprendendo ao longo da vida."
@@ -1178,7 +1178,7 @@
               "title": "De quem é o futuro?",
               "correct": "d",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": "Dos robôs."
@@ -1201,13 +1201,13 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -1227,13 +1227,13 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""

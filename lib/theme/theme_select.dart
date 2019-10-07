@@ -1,13 +1,10 @@
 import 'package:flutter/material.dart';
 
-import 'custom/theme_custom_colors.dart';
 import 'custom/theme_custom_dark.dart';
-import 'custom/theme_custom_darker.dart';
 import 'custom/theme_custom_light.dart';
 
-
 /// Opções de temas do app
-enum ThemeAspect { LIGHT, DARK, DARKER, COLORS }
+enum ThemeAspect { LIGHT, DARK }
 
 class ThemeSelect {
   /// Método que retorna o tema corresponde à opção recebida
@@ -17,13 +14,8 @@ class ThemeSelect {
         return ThemeCustomLight.data;
       case ThemeAspect.DARK:
         return ThemeCustomDark.data;
-      case ThemeAspect.DARKER:
-        return ThemeCustomDarker.data;
-      case ThemeAspect.COLORS:
-        return ThemeCustomColors.data;
       default:
-        return ThemeCustomLight.data;
+        return ThemeCustomDark.data;
     }
   }
 }
-//ThemeCustomColors

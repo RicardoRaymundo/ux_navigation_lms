@@ -20,7 +20,14 @@ class Data {
   /// Lista de nomes de cursos que deve ser carregado
   /// TODO:: Implementar lógica para carregar essa lista diretamente do banco de dados
   static void loadData(next) {
-    List<String> listCourses = ['data_literature', 'data_literature', 'data_literature'];
+    List<String> listCourses = [
+      'data_literature',
+      'data_math',
+      'data_photography',
+      'data_pnl',
+      'data_future_skills',
+      'data_futurism_and_Innovation'
+    ];
 
     /// Carregando os dados do curso
     /// Carrega dados de arquivos json que ficam dentro de assets

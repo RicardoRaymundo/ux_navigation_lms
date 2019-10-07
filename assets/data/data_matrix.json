@@ -18,17 +18,17 @@
           "description": "",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -52,7 +52,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -76,7 +76,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -100,7 +100,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -128,17 +128,17 @@
           "description": "",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -162,7 +162,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -186,7 +186,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -210,7 +210,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -238,17 +238,17 @@
           "description": "",
           "number": 0,
           "part": 0,
-          "duration": "",
+          "duration": "00:15",
           "vimeo": "",
           "youtube": "",
           "image": "",
-          "comprehension_test": [
+          "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -272,7 +272,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -296,7 +296,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -320,7 +320,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "answers": [
+              "alternatives": [
                 {
                   "id": "a",
                   "title": ""
@@ -343,13 +343,13 @@
         }
 
       ],
-      "placement_test": [
+      "test_placement": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""
@@ -369,13 +369,13 @@
           ]
         }
       ],
-      "finalTest" : [
+      "test_final": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "answers": [
+          "alternatives": [
             {
               "id": "",
               "title": ""

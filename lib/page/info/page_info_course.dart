@@ -1,107 +1,137 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:ux_navigation/app/app_button_enable.dart';
-import 'package:ux_navigation/app/app_routing.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/resource/course/course.dart';
+import 'package:ux_navigation/resource/course/lesson/lesson.dart';
+import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
+import 'package:ux_navigation/resource/expansion_panel/expansion_panel_lesson_list.dart';
+import 'package:ux_navigation/resource/util.dart';
+import 'package:ux_navigation/ui/ui_label.dart';
+import 'package:ux_navigation/ui/ui_svg.dart';
 
-class PageInfoCourse extends StatefulWidget {
-  Course data;
+class PageInfoCourse extends StatelessWidget {
+  final Course data;
 
   PageInfoCourse({this.data});
 
   @override
-  _PageInfoCourseState createState() => _PageInfoCourseState();
-}
-
-class _PageInfoCourseState extends State<PageInfoCourse> {
-  bool _isExpanded = false;
-
-  @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: ListView(
-        children: <Widget>[
-          Container(
-            height: 180,
-            child: Material(
-              color: Colors.purple,
-              child: InkWell(
-                onTap: () {
-                  AppButtonEnable.pagesInfoMain = false;
-                  Navigator.pushNamed(context, AppRouting.PAGE_INFO_VIDEO);
-                },
-                child: Center(
-                  child: Text('Vídeo introdutório do curso'),
-                ),
-              ),
-            ),
-          ),
-          SizedBox(
-            height: 20,
-          ),
-          Padding(
-            padding: const EdgeInsets.all(8.0),
-            child: Container(
-              height: 170,
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+        body: Center(
+          child: ListView(
+            padding: EdgeInsets.all(0),
+            children: <Widget>[
+              Stack(
                 children: <Widget>[
-                  Text(
-                    widget.data.title,
-                    style: TextStyle(fontSize: 30),
+                  Container(
+                    height: 220,
+                    decoration: new BoxDecoration(
+                      //image: new DecorationImage(image: AssetImage('${UiImage.PATH}/${widget.data.id}'), fit: BoxFit.fill),
+                    ),
+                    child: FlatButton(
+                        onPressed: () {
+                          // CustomNavigator.showPlayer(context, Player());
+                        },
+                        child: Center(
+                          child: Container(
+                            height: 60,
+                            width: 60,
+                            child: SvgPicture.asset(UiSVG.PLAY),
+                          ),
+                        )),
                   ),
-                  SizedBox(height: 15),
-                  Text(widget.data.description),
+                  Positioned(
+                    bottom: 0,
+                    child: Container(
+                      height: 50,
+                      // Add box decoration
+                      decoration: BoxDecoration(
+                        // Box decoration takes a gradient
+                        gradient: LinearGradient(
+                          // Where the linear gradient begins and ends
+                          begin: Alignment.topCenter,
+                          end: Alignment.bottomCenter,
+                          // Add one stop for each color. Stops should increase from 0 to 1
+                          stops: [0.1, 1.0],
+                          colors: [
+                            // Colors are easy thanks to Flutter's Colors class.
+                            Colors.transparent,
+                            Color(0xff2e2e2e),
+                          ],
+                        ),
+                      ),
+                    ),
+                  ),
+
+                  /// Botão Voltar
+                  Positioned(
+                      top: 30,
+                      left: 10,
+                      child: GestureDetector(
+                        onTap: () {
+                          Navigator.pop(context);
+                        },
+                        child: Container(child: Icon(Icons.arrow_back, size: 26)),
+                      )),
+
+                  /// Botão ChromeCast
+                  Positioned(
+                      top: 30,
+                      right: 15,
+                      child: GestureDetector(
+                        onTap: () {
+                          Navigator.pop(context);
+                        },
+                        child: Container(child: Icon(Icons.cast, size: 26)),
+                      ))
                 ],
-              ),
-            ),
           ),
           Padding(
-            padding: const EdgeInsets.all(5.0),
-            child: ExpansionPanelList(
-              /// Cria uma lista de Expanion Panel
-              animationDuration: Duration(seconds: 1),
-              expansionCallback: (int index, bool isExpanded) {
-                setState(() {
-                  ///Alterna o estado do ExpansionPanel
-                  return _isExpanded = !_isExpanded;
-                });
-              },
-              children: <ExpansionPanel>[
-                _buildExpansionPanel(),
+            padding: const EdgeInsets.all(15.0),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: <Widget>[
+
+                /// Titulo do curso
+                Text(this.data.title, style: Theme
+                    .of(context)
+                    .primaryTextTheme
+                    .title),
+                SizedBox(height: 10),
+
+                /// Informações geral do curso Ano/Author/Lições/Tempo de Duração
+                Text(
+                  "${this.data.year}   ${this.data.author}   ${this.data.lessons.length.toString()} ${UILabel.LESSONS}   ${this._time()}",
+                  style: Theme
+                      .of(context)
+                      .accentTextTheme
+                      .display2,
+                ),
+                SizedBox(height: 15),
+
+                /// Descrição do curso
+                Text(this.data.description, style: Theme
+                    .of(context)
+                    .primaryTextTheme
+                    .body1),
+                SizedBox(height: 15),
               ],
             ),
-          )
+          ),
+              ExpansionPanelLessonList(this.data.lessons),
+              SizedBox(height: 20)
         ],
       ),
-    );
+        ));
   }
 
-  /// Método que cria cada ExpansionPanel
-  ExpansionPanel _buildExpansionPanel() {
-    return ExpansionPanel(
-      headerBuilder: (BuildContext context, bool isExpanded) {
-        return ListTile(
-          title: Row(
-            children: <Widget>[
-              Icon(Icons.trip_origin),
-              SizedBox(
-                width: 10,
-              ),
-              Text('Título da atividade'),
-            ],
-          ),
-        );
-      },
-      body: ListTile(
-        title: Text(
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-          ' Sed eu tincidunt orci. Integer a posuere massa. Aliquam finibus felis tortor, et volutpat dolor lacinia quis.'
-          'Curabitur aliquet in ex eu lacinia. Sed non quam nisl. Aliquam blandit mi vel odio tempor convallis fermentum nec lorem.',
-        ),
-        subtitle: Text('To delete this panel, tap the trash can icon'),
-      ),
-      isExpanded: this._isExpanded,
-    );
+  /// Cálcula o tempo total dos vídeos na lição
+  String _time() {
+    String result = '00:00';
+    for (Lesson lesson in this.data.lessons) {
+      lesson.activities.forEach((LessonActivity item) {
+        result = Util.calculateTime(result, item.duration);
+      });
+    }
+    return result;
   }
 }

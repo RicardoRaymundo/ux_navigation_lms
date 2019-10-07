@@ -17,12 +17,6 @@ class SectionPopular extends StatefulWidget {
 class _SectionPopularState extends State<SectionPopular> {
   @override
   Widget build(BuildContext context) {
-    print('DATA POPULAR');
-    print(widget.title);
-
-    print('AQUIIIIII');
-    print(widget.data);
-
     return Container(
       padding: EdgeInsets.only(left: 0, right: 0),
       height: 220,

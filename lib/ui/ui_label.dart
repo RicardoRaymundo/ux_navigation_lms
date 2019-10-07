@@ -17,5 +17,7 @@ class UILabel {
   static const String LOGIN_TO_CONTINUE = 'Faça login para continuar';
   static const String WELCOME = 'Seja bem-vindo!';
   static const String CREATE_ACCOUNT = 'CRIAR UMA CONTA';
-
+  static const String WHAT_IS_NEW_SCHOOL = 'O que é a NEW SCHOOL';
+  static const String LESSONS = 'lições';
+  static const String OF = 'de';
 }
