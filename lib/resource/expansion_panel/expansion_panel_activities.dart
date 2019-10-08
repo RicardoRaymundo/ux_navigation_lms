@@ -8,8 +8,31 @@ class ExpansionPanelActivities extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Text('ExpansionPanelActivities'),
-    );
+    return Column(children: <Widget>[
+      Row(children: <Widget>[
+        Container(width: 30, height: 30, color: Colors.red),
+        Container(width: 30, height: 30, color: Colors.blueAccent),
+        SizedBox(width: 10),
+        Text('ExpansionPanelActivities'),
+        Spacer(),
+        Container(width: 30, height: 30, color: Colors.red),
+      ]),
+      Row(children: <Widget>[
+        Container(width: 30, height: 30, color: Colors.red),
+        Container(width: 30, height: 30, color: Colors.blueAccent),
+        SizedBox(width: 10),
+        Text('ExpansionPanelActivities'),
+        Spacer(),
+        Container(width: 30, height: 30, color: Colors.red),
+      ]),
+      Row(children: <Widget>[
+        Container(width: 30, height: 30, color: Colors.red),
+        Container(width: 30, height: 30, color: Colors.blueAccent),
+        SizedBox(width: 10),
+        Text('ExpansionPanelActivities'),
+        Spacer(),
+        Container(width: 30, height: 30, color: Colors.red),
+      ])
+    ],);
   }
 }

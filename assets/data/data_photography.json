@@ -399,6 +399,32 @@
       "id": "2",
       "title": "O Mundo das Cores",
       "description": "Entendendo tudo sobre as cores, suas origens e significados.",
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
       "activities": [
         {
           "id": "",
@@ -505,6 +531,152 @@
                 {
                   "id": "d",
                   "title": "Otimista de clareza e calor (amarelo)."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "",
+              "href": "",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_comprehension": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "",
+              "title": "",
+              "href": "",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_comprehension": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -727,32 +899,6 @@
                   "title": "Semáforo aberto"
                 }
               ]
-            }
-          ]
-        }
-      ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
             }
           ]
         }

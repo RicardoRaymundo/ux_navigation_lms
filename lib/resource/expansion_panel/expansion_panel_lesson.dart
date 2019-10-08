@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_activities.dart';
+import 'package:ux_navigation/resource/expansion_panel/expansion_panel_content.dart';
 import 'package:ux_navigation/resource/expansion_panel/expansion_panel_description.dart';
 import 'package:ux_navigation/resource/expansion_panel/expansion_panel_info.dart';
 import 'package:ux_navigation/resource/expansion_panel/expansion_panel_title.dart';
-import 'package:ux_navigation/resource/expansion_panel/test/expansion_panel_test_comprehension.dart';
-import 'package:ux_navigation/resource/expansion_panel/test/expansion_panel_test_placement.dart';
 import 'package:ux_navigation/resource/util.dart';
 
 /// A classe ExpansionPanelLesson é responsavel pelo gerenciamento das informações de cada lição do curso dentro do painel de expansão
@@ -67,9 +65,7 @@ class _ExpansionPanelLessonState extends State<ExpansionPanelLesson> {
                 SizedBox(height: 15),
                 ExpansionPanelInfo(index: widget.index, total: widget.total, time: this._time(), performance: 0.75, badge: 2),
                 SizedBox(height: 10),
-                ExpansionPanelTestPlacement(lesson: widget.data),
-                ExpansionPanelActivities(lesson: widget.data),
-                ExpansionPanelTestComprehension(lesson: widget.data)
+                ExpansionPanelContent(widget.data)
               ],
             )),
         crossFadeState: isExpanded ? CrossFadeState.showSecond : CrossFadeState.showFirst,

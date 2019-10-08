@@ -8,8 +8,13 @@ class ExpansionPanelTestPlacement extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: Text('ExpansionPanelTestPlacement'),
-    );
+    return Row(children: <Widget>[
+      Container(width: 30, height: 30, color: Colors.red),
+      Container(width: 30, height: 30, color: Colors.blueAccent),
+      SizedBox(width: 10),
+      Text('ExpansionPanelTestPlacement'),
+      Spacer(),
+      Container(width: 30, height: 30, color: Colors.red),
+    ]);
   }
 }
