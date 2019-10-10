@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_lesson.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_lesson.dart';
 
 /// A classe ExpansionPanelLessonList é responsável pela criação da lista de componentes de ExpansionPanelLesson
 class ExpansionPanelLessonList extends StatelessWidget {

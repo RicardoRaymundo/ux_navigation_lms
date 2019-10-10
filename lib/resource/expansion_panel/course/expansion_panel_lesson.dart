@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_content.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_description.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_info.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_title.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_content.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_description.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_info.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_title.dart';
 import 'package:ux_navigation/resource/util.dart';
 
 /// A classe ExpansionPanelLesson é responsavel pelo gerenciamento das informações de cada lição do curso dentro do painel de expansão

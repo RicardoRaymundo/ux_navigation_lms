@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
-
-import 'expansion_panel_description.dart';
-import 'expansion_panel_info_video.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_description.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_info_video.dart';
 
 class ExpansionPanelVideoItem extends StatefulWidget {
   final LessonActivity activity;

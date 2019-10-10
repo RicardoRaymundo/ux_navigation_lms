@@ -16,6 +16,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -54,6 +55,7 @@
               "title": "O que é fotografia para você?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -78,6 +80,7 @@
               "title": "Qual é a função da fotografia?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -102,6 +105,7 @@
               "title": "Qual foi a graduação em que o professor se formou?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -126,6 +130,7 @@
               "title": "Segundo o professor, o que significa a palavra PHOTO?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -164,6 +169,7 @@
               "title": "O que significa ultravioleta?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -188,6 +194,7 @@
               "title": "O que é o SOL?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -212,6 +219,7 @@
               "title": "Segundo o professor, quais são as 3 principais cores do espectro visível de luz?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -236,6 +244,7 @@
               "title": "Quais são as siglas em inglês que definem as principais cores de um espectro de luz?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -274,6 +283,7 @@
               "title": "Quantos olhos um humano normal deve ter?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -298,6 +308,7 @@
               "title": "Qual é a função dos olhos no corpo humano?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -322,6 +333,7 @@
               "title": "Segundo o professor, dentro dos nossos olhos existe uma lente que também pode ser chamada de...?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -346,6 +358,7 @@
               "title": "Existe uma cor dentro do espectro de luz que reflete todas as outras cores. Qual é esta cor?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -374,6 +387,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -405,6 +419,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -443,6 +458,7 @@
               "title": "Quem criou a Fotografia?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -467,6 +483,7 @@
               "title": "Quando foi reconhecida a primeira fotografia?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -491,6 +508,7 @@
               "title": "Quantas cores diferentes o professor apresentou nessa aula?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -515,6 +533,7 @@
               "title": "O famoso restaurante McDonald's está classificado em qual categoria de cor?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -546,6 +565,7 @@
                   "title": "",
                   "correct": "",
                   "score": 0,
+                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "",
@@ -568,6 +588,7 @@
                   "title": "",
                   "correct": "a",
                   "score": 0,
+                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "a",
@@ -590,6 +611,7 @@
                   "title": "",
                   "correct": "a",
                   "score": 0,
+                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "a",
@@ -619,6 +641,7 @@
                   "title": "",
                   "correct": "",
                   "score": 0,
+                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "",
@@ -641,6 +664,7 @@
                   "title": "",
                   "correct": "a",
                   "score": 0,
+                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "a",
@@ -663,6 +687,7 @@
                   "title": "",
                   "correct": "a",
                   "score": 0,
+                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "a",
@@ -699,6 +724,7 @@
               "title": "Segundo o vídeo anterior, qual cor transmite segurança?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -723,6 +749,7 @@
               "title": "No vídeo, em qual categoria de cor está a famosa empresa de refrigerantes Coca-Cola?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -747,6 +774,7 @@
               "title": "Quais são as principais cores que, quando misturadas, dão origem às outras cores?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -771,6 +799,7 @@
               "title": "Qual dessas empresas está classificada na cor roxa?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -809,6 +838,7 @@
               "title": "Dessas categorias de cores, qual faz parte das cores primárias?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -833,6 +863,7 @@
               "title": "Dessas categorias de cores, quais fazem parte das cores secundárias?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -857,6 +888,7 @@
               "title": "Segundo o vídeo, a cor vermelha traz qual referência?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -881,6 +913,7 @@
               "title": "Segundo o vídeo, a cor verde traz qual referência?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -909,6 +942,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -952,6 +986,7 @@
               "title": "Segundo a aula anterior, qual é a cor que remete a paz?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -976,6 +1011,7 @@
               "title": "Ainda no mundo das cores, o que significa dramaticidade de cor?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1000,6 +1036,7 @@
               "title": "Qual é a melhor luz para uma foto?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1024,6 +1061,7 @@
               "title": "Qual é a função de um difusor?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1062,6 +1100,7 @@
               "title": "Segundo o professor, dentro de casa, temos um objeto que pode ser usado como difusor. Que objeto é esse?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1086,6 +1125,7 @@
               "title": "Quando surgiu a primeira máquina digital?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1110,6 +1150,7 @@
               "title": "No exemplo usado pelo professor, onde tem a foto de uma modelo, qual foi o objetivo do difusor?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1134,6 +1175,7 @@
               "title": "Quais são os pontos negativos de usar lâmpadas que não são de leds em um estúdio de gravação?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1172,6 +1214,7 @@
               "title": "O que é um Sangan?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1196,6 +1239,7 @@
               "title": "Quem foi o principal inventor da lâmpada?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1220,6 +1264,7 @@
               "title": "O que é um flash?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1244,6 +1289,7 @@
               "title": "Qual é a importância de um flash ao tirar uma foto?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1272,6 +1318,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1298,6 +1345,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1341,6 +1389,7 @@
               "title": "Como é chamado o time de fotografia que são feitas com jogadores de futebol?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1365,6 +1414,7 @@
               "title": "A fotografia still como é conhecida, também pode ser chamada de fotografia de...?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1403,6 +1453,7 @@
               "title": "Por que são tão importantes as fotos dos produtos?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1427,6 +1478,7 @@
               "title": "Quantos tipos de fotografia existem?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1451,6 +1503,7 @@
               "title": "Segundo a explicação, fotos de produto também pode ser utilizada para…?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1475,6 +1528,7 @@
               "title": "Como são chamados aqueles objetos “falsos”, para representar algum produto em uma fotografia? ",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1513,6 +1567,7 @@
               "title": "Segundo o vídeo anterior, quantas fotos de uma câmera profissional podem ser tiradas em apenas 1 segundo?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1537,6 +1592,7 @@
               "title": "Qual é o objetivo de deixar as fotos de gastronomia com tons mais quentes?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1561,6 +1617,7 @@
               "title": "Como é chamado a fotografia que captura as moléculas, bactérias e fungos?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1589,6 +1646,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1615,6 +1673,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1658,6 +1717,7 @@
               "title": "Como é chamado os equipamentos que conseguimos olhar os planetas?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1682,6 +1742,7 @@
               "title": "Qual é o tipo de fotografia realizada embaixo do mar?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1706,6 +1767,7 @@
               "title": "O que é distribuição espacial?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1730,6 +1792,7 @@
               "title": "O que significa a expressão \"regra dos terços” para a Fotografia?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1768,6 +1831,7 @@
               "title": "Segundo o professor, no mundo da fotografia “um nada” significa...?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1792,6 +1856,7 @@
               "title": "Também segundo o professor, o que significa um vazio na distribuição espacial?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1830,6 +1895,7 @@
               "title": "Onde foi tirado a foto da lhama do vídeo?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1854,6 +1920,7 @@
               "title": "Nesta aula, existe uma foto com um macaco e mais um objeto representando a distribuição espacial. O que é esse objeto?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1882,6 +1949,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1908,6 +1976,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1951,6 +2020,7 @@
               "title": "Qual é a característica da fotografia do plano geral?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1975,6 +2045,7 @@
               "title": "Em que local do Peru foi tirada a foto do enquadramento plano geral, segundo o professor?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2013,6 +2084,7 @@
               "title": "Qual é a característica da fotografia do plano aberto?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2037,6 +2109,7 @@
               "title": "Na explicação da fotografia de plano médio, qual foi o programa utilizado para exemplificar o modelo fotográfico?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2075,6 +2148,7 @@
               "title": "Qual é a característica do primeiro plano?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2099,6 +2173,7 @@
               "title": "Qual é a característica da fotografia em close? ",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2123,6 +2198,7 @@
               "title": "Para economizar verba na produção de um filme, qual é uma das estratégias de plano fotográfico que as produtoras utilizam para gravar um filme por exemplo?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2151,6 +2227,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -2177,6 +2254,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",

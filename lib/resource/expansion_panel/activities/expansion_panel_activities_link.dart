@@ -4,21 +4,15 @@ import 'package:ux_navigation/resource/chart/chart_box.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson.dart';
 import 'package:ux_navigation/ui/ui_svg.dart';
 
-class ExpansionPanelTestComprehension extends StatelessWidget {
+class ExpansionPanelActivitiesLink extends StatelessWidget {
   Lesson lesson;
 
-  ExpansionPanelTestComprehension({this.lesson});
+  ExpansionPanelActivitiesLink({this.lesson});
 
   @override
   Widget build(BuildContext context) {
-    double width = (MediaQuery
-        .of(context)
-        .size
-        .width - 132);
-    double widthLeft = (MediaQuery
-        .of(context)
-        .size
-        .width - 162);
+    double width = (MediaQuery.of(context).size.width - 132);
+    double widthLeft = (MediaQuery.of(context).size.width - 162);
 
     return IntrinsicHeight(
       child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
@@ -52,7 +46,7 @@ class ExpansionPanelTestComprehension extends StatelessWidget {
         Container(
           width: 32,
           height: 40,
-          child: SvgPicture.asset(UiSVG.ICON_TEST),
+          child: SvgPicture.asset(UiSVG.ICON_LINK),
         ),
         ConstrainedBox(
             constraints: BoxConstraints(maxWidth: widthLeft, minHeight: 40),
@@ -63,7 +57,7 @@ class ExpansionPanelTestComprehension extends StatelessWidget {
                     padding: EdgeInsets.only(top: 18, right: 10),
                     width: width,
                     child: Text(
-                      'Teste (02 de 03)',
+                      'Introdução a fotografia digital',
                       style: TextStyle(fontSize: 14),
                       textAlign: TextAlign.left,
                     ),

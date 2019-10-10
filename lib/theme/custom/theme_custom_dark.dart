@@ -127,7 +127,7 @@ class ThemeCustomDark {
     accentTextTheme: TextTheme(
       display1: TextStyle(color: Colors.grey[500], fontSize: 13),
       display2: TextStyle(color: Colors.grey[500], fontSize: 15),
-      display3: TextStyle(color: Colors.grey[500], fontSize: 17),
+      display3: TextStyle(color: Colors.grey[500], fontSize: 12, fontWeight: FontWeight.w500),
       display4: TextStyle(color: Colors.grey[500], fontSize: 19),
       body1: TextStyle(),
       body2: TextStyle(),

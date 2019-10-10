@@ -28,6 +28,7 @@
               "title": "O que é PNL?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -52,6 +53,7 @@
               "title": "Quem criou a PNL?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -76,6 +78,7 @@
               "title": "Qual é a vantagem da PNL?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -114,6 +117,7 @@
               "title": "Como funciona o processamento do nosso cérebro?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -138,6 +142,7 @@
               "title": "No que a PNL pode nos ajudar?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -162,6 +167,7 @@
               "title": "Do que é formada a nossa realidade?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -200,6 +206,7 @@
               "title": "Quem é Tony Robbins?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -224,6 +231,7 @@
               "title": "O que significa a frase “o mapa não é o território”?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -248,6 +256,7 @@
               "title": "Qual é o resultado da PNL em nossas vidas?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -269,7 +278,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -277,6 +285,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -303,6 +312,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -346,6 +356,7 @@
               "title": "O que é o gênero homo?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -370,6 +381,7 @@
               "title": "Há quanto tempo existe o gênero homo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -394,6 +406,7 @@
               "title": "Para que serve o sistema natural de programação do nosso cérebro?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -432,6 +445,7 @@
               "title": "Há quanto tempo existe a civilização moderna?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -456,6 +470,7 @@
               "title": "O que é pareidolia?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -480,6 +495,7 @@
               "title": "Se nossas mentes já vêm pré-programas com uma série de “softwares” desde o nosso nascimento, qual é o papel da PNL em nossas vidas?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -508,6 +524,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -534,6 +551,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -577,6 +595,7 @@
               "title": "O que mais prejudica nosso desempenho?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -601,6 +620,7 @@
               "title": "Qual é o significado da palavra “entusiasmado”?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -625,6 +645,7 @@
               "title": "Quais são os pilares da tríade do Método Tony Robbins?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -663,6 +684,7 @@
               "title": "Em qual pilar da tríade devemos mexer para mudar nosso estado mental/emocional? ",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -687,6 +709,7 @@
               "title": "Pensando no que você aprendeu sobre PNL, complete a frase: Nossos pensamentos têm o poder de…",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -711,6 +734,7 @@
               "title": "Qual é a característica principal que pode impactar os resultados de uma pessoa?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -739,6 +763,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -765,6 +790,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -808,6 +834,7 @@
               "title": "Segundo o professor, o que é o Peak State?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -832,6 +859,7 @@
               "title": "Quais das alternativas seguintes NÃO é uma dica do Tony Robbins?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -856,6 +884,7 @@
               "title": "Qual é a ordem do Ciclo do Sucesso, que estava na apresentação do professor? Você deu aquela espiada?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -894,6 +923,7 @@
               "title": "Como quebramos o ciclo para alcançar o sucesso?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -918,6 +948,7 @@
               "title": "O que podemos fazer para mudar nossas crenças e aumentar os nossos resultados?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -942,6 +973,7 @@
               "title": "O que o estado emocional e a fisiologia fazem com o nosso corpo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -963,7 +995,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -971,6 +1002,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -997,6 +1029,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1040,6 +1073,7 @@
               "title": "Quais são as necessidades fisiológicas básicas do ser humano?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1064,6 +1098,7 @@
               "title": "As pessoas fazem as coisas para suprir qual necessidade humana?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1088,6 +1123,7 @@
               "title": "Como definimos a “certeza”, primeira necessidade emocional do ser humano?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1126,6 +1162,7 @@
               "title": "Como nosso instinto toma decisões?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1150,6 +1187,7 @@
               "title": "O que significa a necessidade de significância?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1174,6 +1212,7 @@
               "title": "Quais das alternativas NÃO pertencem às 6 necessidades emocionais?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1212,6 +1251,7 @@
               "title": "Qual é o grande segredo das 6 necessidades emocionais?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1236,6 +1276,7 @@
               "title": "Como as 6 necessidades emocionais impactam as nossas vidas?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1260,6 +1301,7 @@
               "title": "Qual é a importância de conhecer suas necessidades emocionais?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1281,7 +1323,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -1289,6 +1330,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1315,6 +1357,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1358,6 +1401,7 @@
               "title": "Pelo que as nossas crenças e valores são definidas?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1382,6 +1426,7 @@
               "title": "O que acontece quando deixamos essas crenças e valores agirem de forma automática?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1420,6 +1465,7 @@
               "title": "O que NÃO devemos fazer para dar significados positivos às experiências da vida?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1458,6 +1504,7 @@
               "title": "De que forma podemos contribuir para a sociedade?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1479,7 +1526,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -1487,6 +1533,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1513,6 +1560,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",

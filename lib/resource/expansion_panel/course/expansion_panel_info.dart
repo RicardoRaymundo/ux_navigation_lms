@@ -32,7 +32,7 @@ class ExpansionPanelInfo extends StatelessWidget {
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
-          SizedBox(width: 50),
+          SizedBox(width: 20),
           SizedBox(width: 17, height: 17, child: SvgPicture.asset(UiSVG.INFO_CHECK)),
           SizedBox(width: 5),
           Text((this.index + 1).toString() + ' ${UILabel.OF} ' + this.total.toString(),

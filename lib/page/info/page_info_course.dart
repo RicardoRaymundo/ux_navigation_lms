@@ -3,7 +3,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/resource/course/course.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
-import 'package:ux_navigation/resource/expansion_panel/expansion_panel_lesson_list.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_lesson_list.dart';
 import 'package:ux_navigation/resource/util.dart';
 import 'package:ux_navigation/ui/ui_label.dart';
 import 'package:ux_navigation/ui/ui_svg.dart';

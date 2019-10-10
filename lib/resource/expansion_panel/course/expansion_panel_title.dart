@@ -11,7 +11,7 @@ class ExpansionPanelTitle extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    Color percentCompleted(double value) {
+    Color colorCompleted(double value) {
       var color;
       if (value > 0.70) {
         color = Colors.greenAccent;
@@ -43,7 +43,7 @@ class ExpansionPanelTitle extends StatelessWidget {
                   (this.index + 1).toString(),
                   style: TextStyle(fontSize: 12, fontWeight: FontWeight.w900),
                 ),
-                progressColor: percentCompleted(this.completed),
+                progressColor: colorCompleted(this.completed),
                 backgroundColor: Color(0xff222222),
               ),
             ),

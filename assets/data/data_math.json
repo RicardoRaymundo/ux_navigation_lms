@@ -28,6 +28,7 @@
               "title": "Do que são formados os conjuntos?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -52,6 +53,7 @@
               "title": "Quais são as linguagens dos conjuntos?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -90,6 +92,7 @@
               "title": "O que são conjuntos unitários?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -114,6 +117,7 @@
               "title": "O que é um conjunto universo?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -135,7 +139,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -143,6 +146,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -169,6 +173,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -212,6 +217,7 @@
               "title": "Qual das afirmações está correta?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -250,6 +256,7 @@
               "title": "Do que se trata a intersecção de conjuntos? ",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -274,6 +281,7 @@
               "title": "Do que se trata conjuntos complementares?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -302,6 +310,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -328,6 +337,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -371,6 +381,7 @@
               "title": "Do que se trata o conjunto dos números inteiros?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -395,6 +406,7 @@
               "title": "Por que existe o conjunto de números racionais?",
               "correct": "2",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -433,6 +445,7 @@
               "title": "Em que consistem os números irracionais?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -457,6 +470,7 @@
               "title": "Em que consiste o conjunto de números reais?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -485,6 +499,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -511,6 +526,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -554,6 +570,7 @@
               "title": "Em que consistem as relações binárias?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -578,6 +595,7 @@
               "title": "Qual das afirmativas é correta?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -616,6 +634,7 @@
               "title": "Qual das afirmativas pode ser considerada correta?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -640,6 +659,7 @@
               "title": "Basicamente, como é formado um plano cartesiano?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -668,6 +688,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -694,6 +715,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -737,6 +759,7 @@
               "title": "Em que consiste o produto cartesiano?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -761,6 +784,7 @@
               "title": "Qual das afirmativas é correta?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -799,6 +823,7 @@
               "title": "Em funções, o que significa a imagem?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -823,6 +848,7 @@
               "title": "Em funções, o que significa domínio?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -851,6 +877,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -877,6 +904,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -920,6 +948,7 @@
               "title": "Em que consiste uma função de primeiro-grau do ponto de vista geométrico?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -944,6 +973,7 @@
               "title": "Em que consiste uma função do segundo-grau do ponto de vista geométrico?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -982,6 +1012,7 @@
               "title": "Quais podem ser chamadas de espécies exóticas de funções? ",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1006,6 +1037,7 @@
               "title": "Qual das afirmações é correta?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1034,6 +1066,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1060,6 +1093,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1103,6 +1137,7 @@
               "title": "O que as funções são ótimas em fazer?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1127,6 +1162,7 @@
               "title": "Em que consiste a função composta?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1155,6 +1191,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1181,6 +1218,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",

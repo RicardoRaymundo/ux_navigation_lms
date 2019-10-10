@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="enable-background:new 0 0 30 45;" id="Layer_1" version="1.1" viewBox="0 0 30 45" x="0px"
+    xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve">
+<circle style="fill:#363636;" cx="15" cy="17.5" r="6.19" />
+    <g>
+	<circle style="fill:#1A1A1A;" cx="15" cy="17.5" r="3.28" />
+</g>
+    <rect style="opacity:0;fill:#363636;" height="45" width="30" />
+    <rect style="fill:#363636;" height="45" width="4.38" x="12.81" />
+</svg>

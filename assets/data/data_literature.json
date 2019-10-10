@@ -28,6 +28,7 @@
               "title": "Por que estudamos literatura?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -52,6 +53,7 @@
               "title": "Quantos movimentos literários existem?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -90,6 +92,7 @@
               "title": "Do que também são chamados os movimentos literários?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -114,6 +117,7 @@
               "title": "O que os movimentos literários têm em comum com um pêndulo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -138,6 +142,7 @@
               "title": "Quais são as duas características principais que utilizamos para dividir e memorizar os movimentos literários?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -159,7 +164,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -167,6 +171,7 @@
           "title": "bbb",
           "correct": "ccc",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "ddd",
@@ -193,6 +198,7 @@
           "title": "222",
           "correct": "333",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "444",
@@ -236,6 +242,7 @@
               "title": "O primeiro movimento literário aconteceu em qual período da história?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -260,6 +267,7 @@
               "title": "Por que as pessoas não consumiam literatura naquela época?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -284,6 +292,7 @@
               "title": "Como os poetas divulgavam suas criações na Idade Média?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -308,6 +317,7 @@
               "title": "Por que o primeiro movimento literário se chamava Trovadorismo?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -332,6 +342,7 @@
               "title": "Como eram chamadas as poesias no Trovadorismo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -370,6 +381,7 @@
               "title": "O que é uma cantiga da guarvaia?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -394,6 +406,7 @@
               "title": "O que é um verso?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -418,6 +431,7 @@
               "title": "O que é poesia?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -442,6 +456,7 @@
               "title": " O que é prosa?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -480,6 +495,7 @@
               "title": "O que é um verso redondilho?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -504,6 +520,7 @@
               "title": "Quais são os 4 tipos de cantiga?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -525,7 +542,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -533,6 +549,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -559,6 +576,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -602,6 +620,7 @@
               "title": "Sobre o que eram as cantigas de amor?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -626,6 +645,7 @@
               "title": "Como eram as cantigas de amigo?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -664,6 +684,7 @@
               "title": "Sobre o que eram as cantigas de escárnio?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -688,6 +709,7 @@
               "title": "Sobre o que eram as cantigas de maldizer?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -726,6 +748,7 @@
               "title": "O que estava acontecendo no mundo durante o segundo movimento literário?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -750,6 +773,7 @@
               "title": "Qual é a característica mais importante do movimento Humanismo?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -774,6 +798,7 @@
               "title": "Qual é o nome da poesia escrita durante o Humanismo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -795,7 +820,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -803,6 +827,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -829,6 +854,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -872,6 +898,7 @@
               "title": "Onde a poesia era consumida durante o Humanismo?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -896,6 +923,7 @@
               "title": "Qual a principal diferença entre a poesia do Trovadorismo e do Humanismo?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -920,6 +948,7 @@
               "title": "O que é verdade sobre o artificialismo amoroso no Humanismo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -944,6 +973,7 @@
               "title": "O que é medida velha?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -982,6 +1012,7 @@
               "title": "O que o autor Gil Vicente era considerado?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1006,6 +1037,7 @@
               "title": "Para que o rei utilizava o teatro de Gil Vicente?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1030,6 +1062,7 @@
               "title": "Qual o nome da obra mais importante de Gil Vicente?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1068,6 +1101,7 @@
               "title": "Como era o teatro antes de Gil Vicente?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1092,6 +1126,7 @@
               "title": "Qual é a novidade introduzida por Gil Vicente no teatro?",
               "correct": "c",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1113,7 +1148,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -1121,6 +1155,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1147,6 +1182,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1190,6 +1226,7 @@
               "title": "Qual o nome do terceiro movimento literário?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1214,6 +1251,7 @@
               "title": "O que é mitologia?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1238,6 +1276,7 @@
               "title": "Qual é o período histórico do Classicismo?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1276,6 +1315,7 @@
               "title": "O que é um clássico?",
               "correct": "a",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1300,6 +1340,7 @@
               "title": "Qual era a prioridade do Classicismo?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1324,6 +1365,7 @@
               "title": "Como o Classicismo selecionava os melhores poetas?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1362,6 +1404,7 @@
               "title": "Como eram chamados os versos durante o Classicismo?",
               "correct": "d",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1386,6 +1429,7 @@
               "title": "O que é um soneto?",
               "correct": "b",
               "score": 0,
+              "time": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1407,7 +1451,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -1415,6 +1458,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1441,6 +1485,7 @@
           "title": "",
           "correct": "",
           "score": 0,
+          "time": "00:00",
           "alternatives": [
             {
               "id": "",

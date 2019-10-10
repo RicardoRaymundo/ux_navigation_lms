@@ -11,7 +11,7 @@ class ExpansionPanelDescription extends StatelessWidget {
       child: Row(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
-          SizedBox(width: 50),
+          SizedBox(width: 20),
           Expanded(
             child: Text(
               this.description,

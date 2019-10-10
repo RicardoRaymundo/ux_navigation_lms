@@ -52,6 +52,44 @@ flutter:
     - assets/data/data_photography.json
     - assets/data/data_pnl.json
     - assets/svg/chart.svg
+    - assets/svg/chart/box/chart_box.svg
+    - assets/svg/chart/box/chart_box_10.svg
+    - assets/svg/chart/box/chart_box_20.svg
+    - assets/svg/chart/box/chart_box_30.svg
+    - assets/svg/chart/box/chart_box_40.svg
+    - assets/svg/chart/box/chart_box_50.svg
+    - assets/svg/chart/box/chart_box_60.svg
+    - assets/svg/chart/box/chart_box_70.svg
+    - assets/svg/chart/box/chart_box_80.svg
+    - assets/svg/chart/box/chart_box_90.svg
+    - assets/svg/chart/box/chart_box_100.svg
+    - assets/svg/chart/progress/chart_progress.svg
+    - assets/svg/chart/progress/chart_progress_10.svg
+    - assets/svg/chart/progress/chart_progress_20.svg
+    - assets/svg/chart/progress/chart_progress_30.svg
+    - assets/svg/chart/progress/chart_progress_40.svg
+    - assets/svg/chart/progress/chart_progress_50.svg
+    - assets/svg/chart/progress/chart_progress_60.svg
+    - assets/svg/chart/progress/chart_progress_70.svg
+    - assets/svg/chart/progress/chart_progress_80.svg
+    - assets/svg/chart/progress/chart_progress_90.svg
+    - assets/svg/chart/progress/chart_progress_100.svg
+    - assets/svg/chart/marker/chart_marker.svg
+    - assets/svg/chart/marker/chart_marker_blue.svg
+    - assets/svg/chart/marker/chart_marker_green.svg
+    - assets/svg/chart/marker/chart_marker_red.svg
+    - assets/svg/chart/marker/chart_marker_yellow.svg
+    - assets/svg/chart/marker/chart_marker_final.svg
+    - assets/svg/chart/marker/chart_marker_blue_final.svg
+    - assets/svg/chart/marker/chart_marker_green_final.svg
+    - assets/svg/chart/marker/chart_marker_red_final.svg
+    - assets/svg/chart/marker/chart_marker_yellow_final.svg
+    - assets/svg/chart/marker/chart_marker_left.svg
+    - assets/svg/chart/marker/chart_marker_left_line.svg
+    - assets/svg/icon/icon_test.svg
+    - assets/svg/icon/icon_video.svg
+    - assets/svg/icon/icon_link.svg
+    - assets/svg/icon/icon_doc.svg
     - assets/svg/logo-new-school.svg
     - assets/svg/icon-video.svg
     - assets/svg/info-time.svg
