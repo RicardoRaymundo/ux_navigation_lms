@@ -13,11 +13,12 @@
       "activities": [
         {
           "id": "",
+          "index": 1,
           "title": "Introdução Introdução sobre a importância de se aprender Literatura.",
           "description": "Introdução sobre a importância de se aprender Literatura.",
-          "duration": "00:15",
+          "duration": "03:31",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
-          "youtube": "https://www.youtube.com/watch?v=7R_RVXAp3yA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=35",
+          "youtube": "https://www.youtube.com/watch?v=7R_RVXAp3yA",
 
           "test_comprehension": [
             {
@@ -70,6 +71,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -77,9 +185,9 @@
           "index": 2,
           "title": "Escolas Literárias",
           "description": "Aprenda mais sobre os movimentos literários.",
-          "duration": "00:15",
+          "duration": "03:18",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
-          "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=36",
+          "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM",
 
           "test_comprehension": [
             {
@@ -157,6 +265,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
       ],
@@ -222,12 +437,12 @@
       "activities": [
         {
           "id": "",
-
+          "index": 1,
           "title": "Trovadorismo",
           "description": "Vamos aprender sobre o primeiro movimento literário da História.",
-          "duration": "00:15",
+          "duration": "03:05",
           "vimeo": "https://vimeo.com/333128531/b88f845b66",
-          "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=37",
+          "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA",
 
           "test_comprehension": [
             {
@@ -355,6 +570,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -362,9 +684,9 @@
           "index": 2,
           "title": "Cantigas",
           "description": "Como eram criadas as cantigas durante o Trovadorismo e de quais elementos elas eram formadas.",
-          "duration": "00:15",
+          "duration": "02:44",
           "vimeo": "https://vimeo.com/333129261/4911740f4d",
-          "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=38",
+          "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ",
 
           "test_comprehension": [
             {
@@ -467,6 +789,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -474,9 +903,9 @@
           "index": 3,
           "title": "Recursos dos trovadores",
           "description": "Os recursos utilizados pelos trovadores para facilitar a memorização das cantigas.",
-          "duration": "00:15",
+          "duration": "01:51",
           "vimeo": "https://vimeo.com/333129865/42d1c88a79",
-          "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=39",
+          "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic",
 
           "test_comprehension": [
             {
@@ -526,6 +955,113 @@
                 {
                   "id": "d",
                   "title": "Cantiga de amor, cantiga de amigo, cantiga sem nome e cantiga nomeada."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -594,12 +1130,12 @@
       "activities": [
         {
           "id": "",
-
+          "index": 1,
           "title": "Amor ou amigo?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: amor e amigo.",
-          "duration": "00:15",
+          "duration": "03:25",
           "vimeo": "https://vimeo.com/333130226/1724ff0fba",
-          "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=40",
+          "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc",
 
           "test_comprehension": [
             {
@@ -652,6 +1188,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -659,9 +1302,9 @@
           "index": 2,
           "title": "Escárnio ou maldizer?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: escárnio e maldizer.",
-          "duration": "00:15",
+          "duration": "03:14",
           "vimeo": "https://vimeo.com/333130950/eee3fd5e7d",
-          "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=41",
+          "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA",
 
           "test_comprehension": [
             {
@@ -714,6 +1357,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -721,9 +1471,9 @@
           "index": 3,
           "title": "Segundo Movimento Literário",
           "description": "Vamos aprender sobre o segundo movimento literário da História.",
-          "duration": "00:15",
+          "duration": "03:47",
           "vimeo": "https://vimeo.com/333131625/759cb297de",
-          "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=42",
+          "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E",
 
           "test_comprehension": [
             {
@@ -801,6 +1551,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         }
       ],
@@ -866,12 +1723,12 @@
       "activities": [
         {
           "id": "",
-
+          "index": 1,
           "title": "Características de Humanismo",
           "description": "Características mais importantes do Humanismo.",
-          "duration": "00:15",
+          "duration": "04:05",
           "vimeo": "https://vimeo.com/333143366/e68c981f50",
-          "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=43",
+          "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU",
 
           "test_comprehension": [
             {
@@ -974,6 +1831,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -981,9 +1945,9 @@
           "index": 2,
           "title": "Gil Vicente",
           "description": "A história de Gil Vicente, autor mais importante do Humanismo.",
-          "duration": "00:15",
+          "duration": "02:47",
           "vimeo": "https://vimeo.com/333144267/a8d003a1af",
-          "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=44",
+          "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM",
 
           "test_comprehension": [
             {
@@ -1061,6 +2025,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -1068,9 +2139,9 @@
           "index": 3,
           "title": "Auto da Barca do Inferno",
           "description": "O Auto da Barca do Inferno e a transformação do teatro brasileiro.",
-          "duration": "00:15",
+          "duration": "02:52",
           "vimeo": "https://vimeo.com/333144905/35699f2629",
-          "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=45",
+          "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M",
 
           "test_comprehension": [
             {
@@ -1120,6 +2191,113 @@
                 {
                   "id": "d",
                   "title": "O teatro poético."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -1188,11 +2366,12 @@
       "activities": [
         {
           "id": "",
+          "index": 1,
           "title": "Terceiro Movimento Literário",
           "description": "Vamos conhecer o terceiro movimento literário da História.",
-          "duration": "00:15",
+          "duration": "03:48",
           "vimeo": "https://vimeo.com/333145484/36a967dea6",
-          "youtube": "https://www.youtube.com/watch?v=d3Se2uycb6g&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=46",
+          "youtube": "https://www.youtube.com/watch?v=d3Se2uycb6g",
           "test_comprehension": [
             {
               "id": "1",
@@ -1269,6 +2448,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -1276,9 +2562,9 @@
           "index": 2,
           "title": "Classicismo",
           "description": "O que é Classicismo e quais são suas características principais.",
-          "duration": "00:15",
+          "duration": "03:32",
           "vimeo": "https://vimeo.com/333172090/7d7c00f237",
-          "youtube": "https://www.youtube.com/watch?v=CzUtrBks_5c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=47",
+          "youtube": "https://www.youtube.com/watch?v=CzUtrBks_5c",
           "test_comprehension": [
             {
               "id": "1",
@@ -1355,6 +2641,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -1362,9 +2755,9 @@
           "index": 3,
           "title": "Versos",
           "description": "A lógica de escrita de versos utilizada pelos poetas do Classicismo.",
-          "duration": "00:15",
+          "duration": "02:20",
           "vimeo": "https://vimeo.com/333172841/16ab403042",
-          "youtube": "https://www.youtube.com/watch?v=DerybTK96dY&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=48",
+          "youtube": "https://www.youtube.com/watch?v=DerybTK96dY",
           "test_comprehension": [
             {
               "id": "1",
@@ -1413,6 +2806,113 @@
                 {
                   "id": "d",
                   "title": "Um poema composto pelo dobro de versos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }

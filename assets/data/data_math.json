@@ -13,12 +13,11 @@
       "activities": [
         {
           "id": "",
-
           "title": "Conjuntos simples",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
-          "duration": "00:15",
+          "duration": "04:08",
           "vimeo": "https://vimeo.com/329803993/2b514f49a3",
-          "youtube": "https://www.youtube.com/watch?v=nbenA-xPz4w&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=49",
+          "youtube": "https://www.youtube.com/watch?v=nbenA-xPz4w",
 
           "test_comprehension": [
             {
@@ -71,6 +70,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -78,9 +184,9 @@
           "index": 2,
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
-          "duration": "00:15",
+          "duration": "04:42",
           "vimeo": "https://vimeo.com/329805004/6024d9d5c1",
-          "youtube": "https://www.youtube.com/watch?v=RE0JuMuuV2c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=50",
+          "youtube": "https://www.youtube.com/watch?v=RE0JuMuuV2c",
 
           "test_comprehension": [
             {
@@ -130,6 +236,113 @@
                 {
                   "id": "d",
                   "title": "Aquele que independe de outros conjuntos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -201,9 +414,9 @@
 
           "title": "Conjuntos das partes e Subconjuntos",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
-          "duration": "00:15",
+          "duration": "04:08",
           "vimeo": "https://vimeo.com/329805820/b3e24e3269",
-          "youtube": "https://www.youtube.com/watch?v=50v8RLFuCBI&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=51",
+          "youtube": "https://www.youtube.com/watch?v=50v8RLFuCBI",
 
           "test_comprehension": [
             {
@@ -231,6 +444,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -238,9 +558,9 @@
           "index": 2,
           "title": "Espécies de operações",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
-          "duration": "00:15",
+          "duration": "05:29",
           "vimeo": "https://vimeo.com/329806660/86a946f5c5",
-          "youtube": "https://www.youtube.com/watch?v=TD9zA0QdED4&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=52",
+          "youtube": "https://www.youtube.com/watch?v=TD9zA0QdED4",
 
           "test_comprehension": [
             {
@@ -290,6 +610,113 @@
                 {
                   "id": "d",
                   "title": "Compreende um conjunto que não possui elementos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -361,9 +788,9 @@
 
           "title": "Conjuntos numéricos",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
-          "duration": "00:15",
+          "duration": "05:09",
           "vimeo": "https://vimeo.com/329807861/db9117c4e6",
-          "youtube": "https://www.youtube.com/watch?v=ma_jYoNsI2A&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=53",
+          "youtube": "https://www.youtube.com/watch?v=ma_jYoNsI2A",
 
           "test_comprehension": [
             {
@@ -416,6 +843,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -423,9 +957,9 @@
           "index": 2,
           "title": "Derivados",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
-          "duration": "00:15",
+          "duration": "04:13",
           "vimeo": "https://vimeo.com/329808898/7d74b3cb7d",
-          "youtube": "https://www.youtube.com/watch?v=Oo5EiHyBTcs&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=54",
+          "youtube": "https://www.youtube.com/watch?v=Oo5EiHyBTcs",
 
           "test_comprehension": [
             {
@@ -475,6 +1009,113 @@
                 {
                   "id": "d",
                   "title": "O conjunto mais completo de números."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -546,9 +1187,9 @@
 
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas.",
-          "duration": "00:15",
+          "duration": "03:51",
           "vimeo": "https://vimeo.com/329810552/bbd68d87a3",
-          "youtube": "https://www.youtube.com/watch?v=YkzDO5vvrHQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=56",
+          "youtube": "https://www.youtube.com/watch?v=vvqk_Y_35eU",
 
           "test_comprehension": [
             {
@@ -601,6 +1242,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -608,10 +1356,9 @@
           "index": 2,
           "title": "Conceituação técnica",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas",
-          "duration": "00:15",
+          "duration": "03:51",
           "vimeo": "https://vimeo.com/329809786/2b6a304171",
-          "youtube": "https://www.youtube.com/watch?v=vvqk_Y_35eU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=55",
-
+          "youtube": "https://www.youtube.com/watch?v=YkzDO5vvrHQ",
           "test_comprehension": [
             {
               "id": "1",
@@ -660,6 +1407,113 @@
                 {
                   "id": "d",
                   "title": "Da relação entre as abcissas e as ordenadas."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -731,9 +1585,9 @@
 
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
-          "duration": "00:15",
+          "duration": "05:17",
           "vimeo": "https://vimeo.com/329811425/995b23f285",
-          "youtube": "https://www.youtube.com/watch?v=WvuBksLCvP0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=57",
+          "youtube": "https://www.youtube.com/watch?v=WvuBksLCvP0",
 
           "test_comprehension": [
             {
@@ -786,6 +1640,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -793,9 +1754,9 @@
           "index": 2,
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
-          "duration": "00:15",
+          "duration": "04:33",
           "vimeo": "https://vimeo.com/329812445/e938cc44ad",
-          "youtube": "https://www.youtube.com/watch?v=Wy8xCx98PUQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=58",
+          "youtube": "https://www.youtube.com/watch?v=Wy8xCx98PUQ",
 
           "test_comprehension": [
             {
@@ -845,6 +1806,113 @@
                 {
                   "id": "d",
                   "title": "É o conjunto de números irracionais."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -915,9 +1983,9 @@
           "id": "",
           "title": "Funções de primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
-          "duration": "00:15",
+          "duration": "06:09",
           "vimeo": "https://vimeo.com/329813423/4d132cc5ad",
-          "youtube": "https://www.youtube.com/watch?v=JzDaCTmPrW0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=59",
+          "youtube": "https://www.youtube.com/watch?v=JzDaCTmPrW0",
           "test_comprehension": [
             {
               "id": "1",
@@ -969,6 +2037,113 @@
                 }
               ]
             }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
           ]
         },
         {
@@ -976,9 +2151,9 @@
           "index": 2,
           "title": "Como identificar funções do primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
-          "duration": "00:15",
+          "duration": "03:37",
           "vimeo": "https://vimeo.com/329815188/3f44dccac2",
-          "youtube": "https://www.youtube.com/watch?v=f80GSRemVJ0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=60",
+          "youtube": "https://www.youtube.com/watch?v=f80GSRemVJ0",
           "test_comprehension": [
             {
               "id": "1",
@@ -1027,6 +2202,113 @@
                 {
                   "id": "d",
                   "title": "As funções não têm qualquer relação com conjuntos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }
@@ -1097,9 +2379,9 @@
           "id": "",
           "title": "Conceito e aplicabilidade",
           "description": "Conceito, como identificá-las e suas aplicabilidades.",
-          "duration": "00:15",
+          "duration": "07:57",
           "vimeo": "https://vimeo.com/329816024/b981c8128c",
-          "youtube": "https://www.youtube.com/watch?v=yP1uBmSJCM4&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=61",
+          "youtube": "https://www.youtube.com/watch?v=yP1uBmSJCM4",
           "test_comprehension": [
             {
               "id": "1",
@@ -1148,6 +2430,113 @@
                 {
                   "id": "d",
                   "title": "Trata-se de uma função que não precisa de elementos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
                 }
               ]
             }

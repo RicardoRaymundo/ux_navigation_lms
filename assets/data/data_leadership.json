@@ -1,148 +1,72 @@
 {
-  "id": "gggggggg",
-  "title": "Fotografia",
-  "description": "Você é daquelas pessoas que curte tirar fotos para o Instagram, mas nunca acerta o ângulo ou a luz para a fotografia perfeita? Então, se prepare e coloca o capacete!",
-  "author": "Felipe Tiê",
-  "author_info": "Felipe, que prefere ser chamado de Tiê, é um cara pra lá de especial. Sabe falar de qualquer assunto. Tem pouco idade, mas já trabalhou de tudo nessa vida. Agora, se tem uma coisa que ele curte e sabe melhor que ninguém, é fotografia e equipamentos de audiovisual. Ah, quer saber de uma coisa particular sobre o prof? Tiê cria 2 fêmeas de sagui em casa. Judite e Gertrudes.",
+  "id": "",
+  "title": "Liderança",
+  "description": "Mano, já pensou em aprender liderança com referências de Filosofia, Sociologia e Ciências Políticas? Tudo isso apresentadas pelo prof mais top das galáxias que vai ensinar como ser um líder legítimo? Então, cola na grade e #partiu aprender.",
+  "author": "Thiago Lima",
+  "author_info": "O nome do cara é Thiago Lima, mas pode chamar de Kapivara. Um trocadilho do animal que te representa no mundo. Amigo leal, que não esconde sua ambição de fazer a diferença no planeta Terra. Por trás desse menino sonhador, existe alguém que não abre mão de praticar mais uma de suas paixões, o MMA. Um garoto humilde, e que honra seu sonhos realizando e inspirando as pessoas por onde passa. Uma coisa particular sobre o prof: ele não abre mão de ajudar o próximo sempre que pode.",
   "year": 2019,
   "lessons": [
     {
       "id": "1",
-      "title": "Introdução à Fotografia",
-      "description": "Aprendendo sobre a fotografia, o corpo humano e os raios.",
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
+      "title": "A Legitimidade",
+      "description": "Entendendo os princípios da legitimidade.",
       "activities": [
         {
           "id": "",
-          "title": "(Primeiros passos) Fotografia",
-          "description": "Vamos descobrir o significado de PHOTO-GRAFIA?",
-          "duration": "02:57",
-          "vimeo": "https://vimeo.com/329821479/57a50d4e25",
-          "youtube": "https://www.youtube.com/watch?v=CVP2TX7xd68",
+          "index": 1,
+          "title": "Introdução",
+          "description": "Vamos conhecer um pouco melhor nosso professor Thiago Lima e começar a entender a importância deste curso.",
+          "duration": "03:28",
+          "vimeo": "",
+          "youtube": "https://youtu.be/vD8qX3v2A0w",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "O que é fotografia para você?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Desenho de um artista famoso em um quadro caro."
-                },
-                {
-                  "id": "b",
-                  "title": "Uma publicação no Instagram."
-                },
-                {
-                  "id": "c",
-                  "title": "Arte ou processo de reproduzir imagens sobre uma superfície fotossensível."
-                },
-                {
-                  "id": "d",
-                  "title": "Aquela mensagem compartilhada de \"bom dia\" da sua tia no WhatsApp."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Qual é a função da fotografia?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Registrar e guardar momentos em imagens."
-                },
-                {
-                  "id": "b",
-                  "title": "Causar constrangimento nas pessoas."
-                },
-                {
-                  "id": "c",
-                  "title": "É uma ocupação para as pessoas ganharem dinheiro."
-                },
-                {
-                  "id": "d",
-                  "title": "Tirar várias selfies."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Qual foi a graduação em que o professor se formou?",
-              "correct": "d",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Direito."
-                },
-                {
-                  "id": "b",
-                  "title": "Geografia."
-                },
-                {
-                  "id": "c",
-                  "title": "Biologia."
-                },
-                {
-                  "id": "d",
-                  "title": "Publicidade."
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "Segundo o professor, o que significa a palavra PHOTO?",
+              "title": "O que você aprendeu sobre a palavra legitimidade?",
               "correct": "b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Câmera"
+                  "title": "Ela possui apenas um significado desde a antiguidade."
                 },
                 {
                   "id": "b",
-                  "title": "Luz"
+                  "title": "Dependendo do contexto, ela pode ter um significado diferente."
                 },
                 {
                   "id": "c",
-                  "title": "Ação"
+                  "title": "Ela não está presente na liderança da atualidade."
                 },
                 {
                   "id": "d",
-                  "title": "Gravação"
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual é o significado que estava na tela do professor?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "“Aquele que segue a ordem.”"
+                },
+                {
+                  "id": "b",
+                  "title": "“Aquele que busca a verdade.”"
+                },
+                {
+                  "id": "c",
+                  "title": "“Aquele que é justo.”"
+                },
+                {
+                  "id": "d",
+                  "title": "“Aquele que segue a lei.”"
                 }
               ]
             }
@@ -258,109 +182,84 @@
         {
           "id": "",
           "index": 2,
-          "title": "Raios invisíveis",
-          "description": "Você sabia que existem vários tipos de raios invisíveis ao olho humano?",
-          "duration": "02:48",
-          "vimeo": "https://vimeo.com/329817402/d1e9dd8165",
-          "youtube": "https://www.youtube.com/watch?v=klvstVNHU0E",
+          "title": "O Saber",
+          "description": "Vamos entender a primeira característica específica por trás da legitimidade.",
+          "duration": "02:54",
+          "vimeo": "",
+          "youtube": "https://youtu.be/RVVGpQ2fXNc",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "O que significa ultravioleta?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Uma flor amarela e azul."
-                },
-                {
-                  "id": "b",
-                  "title": "Radiação eletromagnética de comprimento de onda."
-                },
-                {
-                  "id": "c",
-                  "title": "Um exame médico."
-                },
-                {
-                  "id": "d",
-                  "title": "Um nome de um planeta."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "O que é o SOL?",
+              "title": "De que época da história vem o conceito de legitimidade que estudaremos neste curso?",
               "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "O Sol é a lua de dia."
+                  "title": "Renascimento"
                 },
                 {
                   "id": "b",
-                  "title": "O Sol é um vulcão em erupção."
+                  "title": "Egito Antigo"
                 },
                 {
                   "id": "c",
-                  "title": "O Sol é uma estrela do sistema solar."
+                  "title": "Roma Antiga"
                 },
                 {
                   "id": "d",
-                  "title": "O Sol é o centro da terra."
+                  "title": "Mundo Moderno"
                 }
               ]
             },
             {
-              "id": "3",
-              "title": "Segundo o professor, quais são as 3 principais cores do espectro visível de luz?",
+              "id": "2",
+              "title": "O que significa auctoritas?",
               "correct": "a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Vermelho, verde e azul violeta - RGB"
+                  "title": "Quando você já conhece um assunto e tem o conhecimento necessário para colocar em prática ou ensinar outras pessoas."
                 },
                 {
                   "id": "b",
-                  "title": "Vermelho, verde e roxo - KLB"
+                  "title": "Quando você tem autoridade sobre alguém."
                 },
                 {
                   "id": "c",
-                  "title": "Amarelo, verde e azul bebê - MTV"
+                  "title": "Quando o seu conhecimento não é suficiente para que você tenha poder."
                 },
                 {
                   "id": "d",
-                  "title": "Preto, branco e verde - SBT"
+                  "title": "Quando outra pessoa reconhece o seu poder."
                 }
               ]
             },
             {
-              "id": "4",
-              "title": "Quais são as siglas em inglês que definem as principais cores de um espectro de luz?",
+              "id": "3",
+              "title": "O que é competência?",
               "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "KLB"
+                  "title": "Aquilo que você conquista dentro de um cargo."
                 },
                 {
                   "id": "b",
-                  "title": "LGBT"
+                  "title": "Todas as habilidades que você tem de uma área."
                 },
                 {
                   "id": "c",
-                  "title": "RGB"
+                  "title": "“Capital” acumulado em um contexto específico."
                 },
                 {
                   "id": "d",
-                  "title": "SBT"
+                  "title": "Nenhuma das anteriores."
                 }
               ]
             }
@@ -476,109 +375,59 @@
         {
           "id": "",
           "index": 3,
-          "title": "Reflexo",
-          "description": "Você sabia que tudo que visualizamos é refletido no nosso consciente de ponta cabeça?",
-          "duration": "03:41",
-          "vimeo": "https://vimeo.com/329818536/ca0e5612b9",
-          "youtube": "https://www.youtube.com/watch?v=LBEB30-1srY",
+          "title": "O Poder",
+          "description": "Vamos entender a segunda características específica por trás da legitimidade.",
+          "duration": "02:48",
+          "vimeo": "",
+          "youtube": "https://youtu.be/Iv7HqwW4GLg",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Quantos olhos um humano normal deve ter?",
-              "correct": "c",
+              "title": "O que significa potestas?",
+              "correct": "b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Três olhos."
+                  "title": "Protestar pelo seu direito de fazer algo."
                 },
                 {
                   "id": "b",
-                  "title": "Um olho."
+                  "title": "Saber exercer o poder."
                 },
                 {
                   "id": "c",
-                  "title": "Dois olhos."
+                  "title": "Usar seu conhecimento para manipular as pessoas."
                 },
                 {
                   "id": "d",
-                  "title": "Quatro olhos."
+                  "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
               "id": "2",
-              "title": "Qual é a função dos olhos no corpo humano?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "O olho é o órgão responsável pelo sentido da visão."
-                },
-                {
-                  "id": "b",
-                  "title": "O olho tem o objetivo de enfeitar o rosto."
-                },
-                {
-                  "id": "c",
-                  "title": "O olho faz um conjunto com o nariz e boca."
-                },
-                {
-                  "id": "d",
-                  "title": "O olho não serve para nada."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Segundo o professor, dentro dos nossos olhos existe uma lente que também pode ser chamada de...?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Lente de contato."
-                },
-                {
-                  "id": "b",
-                  "title": "Óculos de grau."
-                },
-                {
-                  "id": "c",
-                  "title": "Cristalino."
-                },
-                {
-                  "id": "d",
-                  "title": "Visão Raio X."
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "Existe uma cor dentro do espectro de luz que reflete todas as outras cores. Qual é esta cor?",
+              "title": "O que é a liderança neste contexto?",
               "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Vermelho."
+                  "title": "A arte de manipular as pessoas com base no que você sabe sobre elas."
                 },
                 {
                   "id": "b",
-                  "title": "Verde."
+                  "title": "A arte de usar seu poder para obter conhecimento."
                 },
                 {
                   "id": "c",
-                  "title": "Azul violeta."
+                  "title": "A arte de usar sua competência para obter mais poder."
                 },
                 {
                   "id": "d",
-                  "title": "Branco."
+                  "title": "A arte de saber exercer o poder com base no seu saber."
                 }
               ]
             }
@@ -688,6 +537,33 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
             }
           ]
         }
@@ -722,141 +598,65 @@
     },
     {
       "id": "2",
-      "title": "O Mundo das Cores",
-      "description": "Entendendo tudo sobre as cores, suas origens e significados.",
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
+      "title": "Exercício do poder",
+      "description": "Entendendo a importância do exercício do poder para a liderança.",
       "activities": [
         {
-          "id": "tyrtyertyertydfgh",
-          "title": "O inventor",
-          "description": "Você sabia que as cores das marcas têm significado?",
-          "duration": "02:32",
-          "vimeo": "https://vimeo.com/329819774/26bdec7a8a",
-          "youtube": "https://www.youtube.com/watch?v=0mjSfiVN46A",
+          "id": "",
+          "index": 1,
+          "title": "Meio ou fim?",
+          "description": "Vamos começar a aprender mais sobre o exercício do poder.",
+          "duration": "01:40",
+          "vimeo": "",
+          "youtube": "https://youtu.be/dWUyF0F0QGA",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Quem criou a Fotografia?",
-              "correct": "a",
-              "score": 0,
-              "time_position;": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Joseph Nicéphore Niépce"
-                },
-                {
-                  "id": "b",
-                  "title": "Barack Obama"
-                },
-                {
-                  "id": "c",
-                  "title": "Henry Ford"
-                },
-                {
-                  "id": "d",
-                  "title": "Jorge Paulo Lemann"
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Quando foi reconhecida a primeira fotografia?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "503"
-                },
-                {
-                  "id": "b",
-                  "title": "1200"
-                },
-                {
-                  "id": "c",
-                  "title": "1826"
-                },
-                {
-                  "id": "d",
-                  "title": "1945"
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Quantas cores diferentes o professor apresentou nessa aula?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "11 cores"
-                },
-                {
-                  "id": "b",
-                  "title": "7 cores"
-                },
-                {
-                  "id": "c",
-                  "title": "8 cores"
-                },
-                {
-                  "id": "d",
-                  "title": "9 cores"
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "O famoso restaurante McDonald's está classificado em qual categoria de cor?",
+              "title": "E aí, o que você acha? Poder é meio ou fim?",
               "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Diversidade ou colorido."
+                  "title": "Meio!"
                 },
                 {
                   "id": "b",
-                  "title": "Amigável de alegria e confiança (laranja)."
+                  "title": "Fim!"
                 },
                 {
                   "id": "c",
-                  "title": "Criativo de imaginativo e sabedoria (roxo)."
+                  "title": "Os dois."
                 },
                 {
                   "id": "d",
-                  "title": "Otimista de clareza e calor (amarelo)."
+                  "title": "Vixe, não faço ideia."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual o nome do livro de Maquiavel que veremos aqui na aula?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "“O Príncipe”"
+                },
+                {
+                  "id": "b",
+                  "title": "“O Lince”"
+                },
+                {
+                  "id": "c",
+                  "title": "“O Principado”"
+                },
+                {
+                  "id": "d",
+                  "title": "“O Poder”"
                 }
               ]
             }
@@ -972,109 +772,59 @@
         {
           "id": "",
           "index": 2,
-          "title": "Cores",
-          "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-          "duration": "03:00",
-          "vimeo": "https://vimeo.com/329820310/373ce8e145",
-          "youtube": "https://www.youtube.com/watch?v=mSgyrA7TFiI",
+          "title": "Maquiavel",
+          "description": "Vamos aprender o conceito de poder de Maquiavel.",
+          "duration": "03:05",
+          "vimeo": "",
+          "youtube": "https://youtu.be/16BOArHzqZ4",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Segundo o vídeo anterior, qual cor transmite segurança?",
-              "correct": "b",
+              "title": "Segundo o professor Thiago, por que o poder é o fim?",
+              "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Vermelho"
+                  "title": "Ao usar suas competências, você está adquirindo mais poder."
                 },
                 {
                   "id": "b",
-                  "title": "Azul"
+                  "title": "Quanto mais conhecimento você possui, mais poder você tem."
                 },
                 {
                   "id": "c",
-                  "title": "Roxo"
+                  "title": "Quando você exerce a liderança, você está fazendo algo para crescer o seu poder."
                 },
                 {
                   "id": "d",
-                  "title": "Cinza"
+                  "title": "Um líder só começa um projeto pelo poder."
                 }
               ]
             },
             {
               "id": "2",
-              "title": "No vídeo, em qual categoria de cor está a famosa empresa de refrigerantes Coca-Cola?",
-              "correct": "c",
+              "title": "Do que um líder precisa?",
+              "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Amarelo."
+                  "title": "De uma graduação em alguma universidade."
                 },
                 {
                   "id": "b",
-                  "title": "Preto e vermelho."
+                  "title": "Saber influenciar e manipular as pessoas para que elas confiem o poder a ele."
                 },
                 {
                   "id": "c",
-                  "title": "Vermelho."
+                  "title": "Praticar seus conhecimentos para ser mais competente como líder."
                 },
                 {
                   "id": "d",
-                  "title": "Preto."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Quais são as principais cores que, quando misturadas, dão origem às outras cores?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Roxo, Azul e Amarelo."
-                },
-                {
-                  "id": "b",
-                  "title": "Amarelo, Azul e Vermelho."
-                },
-                {
-                  "id": "c",
-                  "title": "Preto, Vermelho e Branco."
-                },
-                {
-                  "id": "d",
-                  "title": "Azul, Laranja e Preto."
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "Qual dessas empresas está classificada na cor roxa?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Nike"
-                },
-                {
-                  "id": "b",
-                  "title": "Google"
-                },
-                {
-                  "id": "c",
-                  "title": "New School"
-                },
-                {
-                  "id": "d",
-                  "title": "Apple"
+                  "title": "Aprender a exercer o poder para conseguir dialogar com as pessoas, construir uma empresa, entre outras coisas."
                 }
               ]
             }
@@ -1190,113 +940,12 @@
         {
           "id": "",
           "index": 3,
-          "title": "Cores quentes e frias",
-          "description": "Sabia que as cores também são classificadas como cores quentes e cores frias?",
-          "duration": "02:42",
-          "vimeo": "https://vimeo.com/329820947/7b71b33886",
-          "youtube": "https://www.youtube.com/watch?v=HluX0UqytVk ",
-          "test_comprehension": [
-            {
-              "id": "1",
-              "title": "Dessas categorias de cores, qual faz parte das cores primárias?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Vermelho, Azul e Amarelo."
-                },
-                {
-                  "id": "b",
-                  "title": "Branco e Preto."
-                },
-                {
-                  "id": "c",
-                  "title": "Azul e Verde."
-                },
-                {
-                  "id": "d",
-                  "title": "Verde, Laranja e Violeta."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Dessas categorias de cores, quais fazem parte das cores secundárias?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Amarelo, Vermelho e Preto."
-                },
-                {
-                  "id": "b",
-                  "title": "Laranja, Violeta e Verde."
-                },
-                {
-                  "id": "c",
-                  "title": "Cinza."
-                },
-                {
-                  "id": "d",
-                  "title": "Branco."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Segundo o vídeo, a cor vermelha traz qual referência?",
-              "correct": "d",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Sangue"
-                },
-                {
-                  "id": "b",
-                  "title": "Coração"
-                },
-                {
-                  "id": "c",
-                  "title": "Semáforo fechado"
-                },
-                {
-                  "id": "d",
-                  "title": "Sedução"
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "Segundo o vídeo, a cor verde traz qual referência?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Natureza"
-                },
-                {
-                  "id": "b",
-                  "title": "Chá de capim-santo"
-                },
-                {
-                  "id": "c",
-                  "title": "Chimarrão"
-                },
-                {
-                  "id": "d",
-                  "title": "Semáforo aberto"
-                }
-              ]
-            }
-          ],
+          "title": "Highlights da aula",
+          "description": "Vamos entender o que define a liderança no exercício do poder.",
+          "duration": "01:49",
+          "vimeo": "",
+          "youtube": "https://youtu.be/Ft3gbSbVLzc",
+          "test_comprehension": [],
           "weblink": [
             {
               "id": "",
@@ -1402,6 +1051,33 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
             }
           ]
         }
@@ -1436,141 +1112,90 @@
     },
     {
       "id": "3",
-      "title": "Tudo sobre a luz",
-      "description": "Descobrindo os segredos da luz na fotografia e como utilizar o flash.",
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
+      "title": "Tipos de Exercício do Poder",
+      "description": "Conhecendo os tipos de exercício do poder na prática.",
       "activities": [
         {
           "id": "",
-          "title": "A luz perfeita",
-          "description": "Quer saber qual é a melhor luz para a foto perfeita?",
-          "duration": "03:41",
-          "vimeo": "https://vimeo.com/329821479/57a50d4e25 ",
-          "youtube": "https://www.youtube.com/watch?v=Kdm2Op_fGIM",
+          "index": 1,
+          "title": "Soberania",
+          "description": "Vamos entender mais sobre o primeiro tipo de exercício de poder.",
+          "duration": "02:08",
+          "vimeo": "",
+          "youtube": "https://youtu.be/DO1A2kPj8ZU",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Segundo a aula anterior, qual é a cor que remete a paz?",
-              "correct": "c",
+              "title": "Quais são os dois tipos de exercício do poder?",
+              "correct": "b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Verde"
+                  "title": "Soberania e Autoritarismo"
                 },
                 {
                   "id": "b",
-                  "title": "Azul"
+                  "title": "Soberania e Autonomia"
                 },
                 {
                   "id": "c",
-                  "title": "Branco"
+                  "title": "Autonomia e Democracia"
                 },
                 {
                   "id": "d",
-                  "title": "Amarelo"
+                  "title": "Autonomia e Comunismo"
                 }
               ]
             },
             {
               "id": "2",
-              "title": "Ainda no mundo das cores, o que significa dramaticidade de cor?",
-              "correct": "b",
+              "title": "Qual é a diferença entre os dois tipos de exercício do poder?",
+              "correct": "a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "A cor da lágrima"
+                  "title": "Eles dependem da consequência que você espera, da expectativa que você possui daquele cenário."
                 },
                 {
                   "id": "b",
-                  "title": "A ausência de cor"
+                  "title": "Um está certo, e o outro está completamente errado."
                 },
                 {
                   "id": "c",
-                  "title": "A cor do elefante"
+                  "title": "Os líderes da atualidade não utilizam mais o exercício de poder de soberania."
                 },
                 {
                   "id": "d",
-                  "title": "O Raio X"
+                  "title": "Líderes soberanos são mais competentes do que líderes autônomos."
                 }
               ]
             },
             {
               "id": "3",
-              "title": "Qual é a melhor luz para uma foto?",
-              "correct": "c",
+              "title": "Qual é a consequência da soberania?",
+              "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "O sol do meio dia."
+                  "title": "O conflito causa perdas."
                 },
                 {
                   "id": "b",
-                  "title": "É o flash de uma câmera."
+                  "title": "O conflito causa desastres."
                 },
                 {
                   "id": "c",
-                  "title": "É a luz disponível."
+                  "title": "O confronto causa desastres."
                 },
                 {
                   "id": "d",
-                  "title": "É a luz de um studio."
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "Qual é a função de um difusor?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Bloquear a luz."
-                },
-                {
-                  "id": "b",
-                  "title": "Difundir a luz."
-                },
-                {
-                  "id": "c",
-                  "title": "Multiplicar a luz."
-                },
-                {
-                  "id": "d",
-                  "title": "Apagar a luz."
+                  "title": "O confronto causa perdas."
                 }
               ]
             }
@@ -1686,109 +1311,59 @@
         {
           "id": "",
           "index": 2,
-          "title": "Difusor",
-          "description": "Saiba aproveitar os benefícios de um difusor.",
-          "duration": "02:34",
-          "vimeo": "https://vimeo.com/329822314/04287e478a",
-          "youtube": "https://www.youtube.com/watch?v=i6vSxJrssTo",
+          "title": "Autonomia",
+          "description": "Vamos aprender mais sobre o segundo tipo de exercício de poder.",
+          "duration": "02:42",
+          "vimeo": "",
+          "youtube": "https://youtu.be/5TNBII7cees",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Segundo o professor, dentro de casa, temos um objeto que pode ser usado como difusor. Que objeto é esse?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "A cortina."
-                },
-                {
-                  "id": "b",
-                  "title": "A mesa da cozinha."
-                },
-                {
-                  "id": "c",
-                  "title": " O pano de prato."
-                },
-                {
-                  "id": "d",
-                  "title": "O guardanapo."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Quando surgiu a primeira máquina digital?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "1875"
-                },
-                {
-                  "id": "b",
-                  "title": "1785"
-                },
-                {
-                  "id": "c",
-                  "title": "1975"
-                },
-                {
-                  "id": "d",
-                  "title": "2005"
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "No exemplo usado pelo professor, onde tem a foto de uma modelo, qual foi o objetivo do difusor?",
+              "title": "Qual é a consequência da autonomia?",
               "correct": "b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Colocar o difusor como plano de fundo."
+                  "title": "O conflito gera desastres."
                 },
                 {
                   "id": "b",
-                  "title": "Deixar a pele da modelo suave."
+                  "title": "O conflito gera mudanças."
                 },
                 {
                   "id": "c",
-                  "title": "Carregar peso para o ensaio fotográfico."
+                  "title": "O confronto gera mudanças."
                 },
                 {
                   "id": "d",
-                  "title": "Esconder as cicatrizes da modelo."
+                  "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "4",
-              "title": "Quais são os pontos negativos de usar lâmpadas que não são de leds em um estúdio de gravação?",
+              "id": "2",
+              "title": "O que uma liderança baseada na autonomia faz diante de um conflito?",
               "correct": "a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Gastam muita energia e esquentam rápido."
+                  "title": "Debate-se o tema para chegar a um novo modelo que faça sentido para todos."
                 },
                 {
                   "id": "b",
-                  "title": "Deixa o ambiente mais claro."
+                  "title": "Debate-se até que um novo tema seja sugerido."
                 },
                 {
                   "id": "c",
-                  "title": "Menos trabalho na manutenção."
+                  "title": "O líder impõe sua opinião para os liderados."
                 },
                 {
                   "id": "d",
-                  "title": "Deixam o ambiente mais escuro."
+                  "title": "O líder influencia os liderados a concordarem com sua opinião."
                 }
               ]
             }
@@ -1904,109 +1479,59 @@
         {
           "id": "",
           "index": 3,
-          "title": "Flash",
-          "description": "O flash tem um papel fundamental na fotografia. Saiba o porquê!",
-          "duration": "01:54",
-          "vimeo": "https://vimeo.com/329822880/a995fe615d",
-          "youtube": "https://www.youtube.com/watch?v=_TvuOdYu3zg",
+          "title": "Centralizado ou descentralizado?",
+          "description": "Vamos aprender mais sobre os modelos dos tipos de exercício de poder.",
+          "duration": "02:32",
+          "vimeo": "",
+          "youtube": "https://youtu.be/FK59wQ4kCR0",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "O que é um Sangan?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Uma espécie de animal."
-                },
-                {
-                  "id": "b",
-                  "title": "Um iluminador de luz."
-                },
-                {
-                  "id": "c",
-                  "title": "Uma câmera digital."
-                },
-                {
-                  "id": "d",
-                  "title": "Uma impressora 3D."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Quem foi o principal inventor da lâmpada?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Henry Ford"
-                },
-                {
-                  "id": "b",
-                  "title": "Ayrton Senna"
-                },
-                {
-                  "id": "c",
-                  "title": "Thomas Edison"
-                },
-                {
-                  "id": "d",
-                  "title": "Martin Luther King"
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "O que é um flash?",
-              "correct": "d",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Uma luz constante."
-                },
-                {
-                  "id": "b",
-                  "title": "Um super herói vermelho."
-                },
-                {
-                  "id": "c",
-                  "title": "Uma lâmpada mágica."
-                },
-                {
-                  "id": "d",
-                  "title": "Uma rajada de luz."
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "Qual é a importância de um flash ao tirar uma foto?",
+              "title": "Qual dos dois tipos de exercício de poder é centralizado?",
               "correct": "a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Porque ele proporciona uma rajada de luz ao capturar uma fotografia."
+                  "title": "Soberania."
                 },
                 {
                   "id": "b",
-                  "title": "Porque ele corre na velocidade da luz."
+                  "title": "Autonomia."
                 },
                 {
                   "id": "c",
-                  "title": "Porque ele deixa a câmera com um design mais moderno."
+                  "title": "Os dois."
                 },
                 {
                   "id": "d",
-                  "title": "Porque ele faz barulho na hora da foto."
+                  "title": "Nenhum dos dois."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual dos dois tipos de exercício de poder é descentralizado?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Os dois."
+                },
+                {
+                  "id": "b",
+                  "title": "Nenhum dos dois."
+                },
+                {
+                  "id": "c",
+                  "title": "Autonomia."
+                },
+                {
+                  "id": "d",
+                  "title": "Soberania."
                 }
               ]
             }
@@ -2116,6 +1641,33 @@
                   ]
                 }
               ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
             }
           ]
         }
@@ -2150,64 +1702,90 @@
     },
     {
       "id": "4",
-      "title": "A Fotografia na Publicidade",
-      "description": "Entendendo como a Fotografia pode influenciar na atenção e na tomada de decisão das pessoas.",
+      "title": "Liderança + Autonomia",
+      "description": "Entendendo a ligação entre autonomia e liderança.",
       "activities": [
         {
           "id": "",
-          "title": "As bases da fotografia",
-          "description": "Existem várias bases para fotografia. Vamos falar sobre algumas delas?",
-          "duration": "03:00",
-          "vimeo": "https://vimeo.com/329823294/aa205e1d25",
-          "youtube": "https://www.youtube.com/watch?v=L6G5qtEe3yg",
+          "index": 1,
+          "title": "Autonomia em outros contextos",
+          "description": "Vamos ver como a autonomia se aplica a diferentes contextos.",
+          "duration": "02:12",
+          "vimeo": "",
+          "youtube": "https://youtu.be/idAwKchqjCc",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Como é chamado o time de fotografia que são feitas com jogadores de futebol?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Fotografia esportiva."
-                },
-                {
-                  "id": "b",
-                  "title": "Fotografia jornalista."
-                },
-                {
-                  "id": "c",
-                  "title": "Fotografia de retrato."
-                },
-                {
-                  "id": "d",
-                  "title": "Fotografia artística."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "A fotografia still como é conhecida, também pode ser chamada de fotografia de...?",
+              "title": "Segundo o professor Thiago, o que é uma pessoa autônoma?",
               "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Milkshake"
+                  "title": "Pessoa que manda em si mesma."
                 },
                 {
                   "id": "b",
-                  "title": "Mulheres grávidas"
+                  "title": "Pessoa que segue suas próprias regras."
                 },
                 {
                   "id": "c",
-                  "title": "Produto"
+                  "title": "Pessoa que tem propriedade sobre si mesma."
                 },
                 {
                   "id": "d",
-                  "title": "Casamento"
+                  "title": "Pessoa que respeita a opinião do outro."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é um estado autônomo?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Um estado que não possui líderes."
+                },
+                {
+                  "id": "b",
+                  "title": "Um estado que tem o poder de criar suas próprias leis."
+                },
+                {
+                  "id": "c",
+                  "title": "Um estado em que o poder está nas mãos do povo."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é um líder autônomo?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Aquele que responde a alguma autoridade acima dele."
+                },
+                {
+                  "id": "b",
+                  "title": "Aquele que segue as regras impostas por outras pessoas."
+                },
+                {
+                  "id": "c",
+                  "title": "Aquele que sabe exercer poder sobre as pessoas."
+                },
+                {
+                  "id": "d",
+                  "title": "Aquele que efetua racionalmente suas escolhas segundo seu próprio projeto."
                 }
               ]
             }
@@ -2323,109 +1901,84 @@
         {
           "id": "",
           "index": 2,
-          "title": "Tipos de fotografia",
-          "description": "Conheça outros tipos de bases para fotografia bem interessantes! #Partiu",
-          "duration": "04:11",
-          "vimeo": "https://vimeo.com/329823937/d7c087632d",
-          "youtube": "https://www.youtube.com/watch?v=5pooBlE-AOA",
+          "title": "Líder autônomo",
+          "description": "Vamos entender do que um líder precisa para ser autônomo.",
+          "duration": "02:33",
+          "vimeo": "",
+          "youtube": "https://youtu.be/4_sxGB615S4",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Por que são tão importantes as fotos dos produtos?",
-              "correct": "d",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Para cativar os concorrentes."
-                },
-                {
-                  "id": "b",
-                  "title": "Para manipular a venda."
-                },
-                {
-                  "id": "c",
-                  "title": "Para enganar os consumidores."
-                },
-                {
-                  "id": "d",
-                  "title": "Para cativar o público-alvo para a venda."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Quantos tipos de fotografia existem?",
-              "correct": "d",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Apenas 1 tipo de fotografia."
-                },
-                {
-                  "id": "b",
-                  "title": "2 tipos, fotografia frente e verso da câmera."
-                },
-                {
-                  "id": "c",
-                  "title": "4 Tipos de fotografia."
-                },
-                {
-                  "id": "d",
-                  "title": "Existem inúmeros tipos de fotografia."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Segundo a explicação, fotos de produto também pode ser utilizada para…?",
+              "title": "Segundo a filosofia, qual é o primeiro passo de um líder autônomo?",
               "correct": "a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Foto publicitária."
+                  "title": "Identificar qual é o seu projeto, seu propósito de vida."
                 },
                 {
                   "id": "b",
-                  "title": "Foto de vacinação."
+                  "title": "Identificar quem são seus liderados."
                 },
                 {
                   "id": "c",
-                  "title": "Foto de crianças."
+                  "title": "Identificar com que tipo de exercício de poder ele se identifica."
                 },
                 {
                   "id": "d",
-                  "title": "Foto de jogador de futebol."
+                  "title": "Identificar qual é o curso que ele vai fazer na universidade."
                 }
               ]
             },
             {
-              "id": "4",
-              "title": "Como são chamados aqueles objetos “falsos”, para representar algum produto em uma fotografia? ",
-              "correct": "b",
+              "id": "2",
+              "title": "Qual é o nome do filósofo responsável pela teoria de que todos temos um propósito no mundo?",
+              "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Picape"
+                  "title": "Pitágoras"
                 },
                 {
                   "id": "b",
-                  "title": "Mockup"
+                  "title": "Sócrates"
                 },
                 {
                   "id": "c",
-                  "title": "Mussum"
+                  "title": "Aristóteles"
                 },
                 {
                   "id": "d",
-                  "title": "Alicate"
+                  "title": "Platão"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é a relação entre o projeto e as escolhas de um líder autônomo?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "O projeto deste líder depende de suas escolhas ao longo da vida."
+                },
+                {
+                  "id": "b",
+                  "title": "O projeto deste líder não está relacionado às suas escolhas."
+                },
+                {
+                  "id": "c",
+                  "title": "As escolhas deste líder estão voltadas para o seu projeto e seu propósito de vida."
+                },
+                {
+                  "id": "d",
+                  "title": "As escolhas deste líder não interferem no propósito de vida dele."
                 }
               ]
             }
@@ -2541,84 +2094,34 @@
         {
           "id": "",
           "index": 3,
-          "title": "Segredo das fotos perfeitas",
-          "description": "Descubra os segredos por trás das fotos que deixam água na boca.",
-          "duration": "02:40",
-          "vimeo": "https://vimeo.com/329825058/c92e2bde11",
-          "youtube": "https://www.youtube.com/watch?v=1DsEjY4UoTI",
+          "title": "Highlights da aula",
+          "description": "Vamos ver a importância da autonomia e quais foram os destaques da aula.",
+          "duration": "02:00",
+          "vimeo": "",
+          "youtube": "https://youtu.be/eX8X6hCCHH8",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Segundo o vídeo anterior, quantas fotos de uma câmera profissional podem ser tiradas em apenas 1 segundo?",
-              "correct": "c",
+              "title": "Quem precisa ser autônomo?",
+              "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Até 2 fotos."
+                  "title": "Os líderes."
                 },
                 {
                   "id": "b",
-                  "title": "Até 5 fotos."
+                  "title": "Os donos de grandes empresas."
                 },
                 {
                   "id": "c",
-                  "title": "Até 30 fotos."
+                  "title": "Os políticos."
                 },
                 {
                   "id": "d",
-                  "title": "Apenas 1 foto pode ser tirada por segundo."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Qual é o objetivo de deixar as fotos de gastronomia com tons mais quentes?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Para induzir as pessoas a ficar com vontade de consumir aquele produto ou alimento."
-                },
-                {
-                  "id": "b",
-                  "title": "Para combinar com a cor da marca."
-                },
-                {
-                  "id": "c",
-                  "title": "Para equilibrar os sabores dos produtos."
-                },
-                {
-                  "id": "d",
-                  "title": "Não tem objetivo nenhum, apenas é a cor do produto."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Como é chamado a fotografia que captura as moléculas, bactérias e fungos?",
-              "correct": "c",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Fotografia universal"
-                },
-                {
-                  "id": "b",
-                  "title": "Fotografia biológica"
-                },
-                {
-                  "id": "c",
-                  "title": "Fotografia científica"
-                },
-                {
-                  "id": "d",
-                  "title": "Fotografia jornalística"
+                  "title": "Todos nós."
                 }
               ]
             }
@@ -2789,114 +2292,65 @@
     },
     {
       "id": "5",
-      "title": "Fotografia fora da caixa",
-      "description": "Aprendendo como explorar a Fotografia em outros espaços e contextos.",
+      "title": "Exercício Prático",
+      "description": "Descobrindo como isso tudo funciona na prática.",
       "activities": [
         {
           "id": "",
-          "title": "Telescópio",
-          "description": "Já ouviu falar em distribuição espacial para fotografia? Se não, agora você vai!",
-          "duration": "02:14",
-          "vimeo": "https://vimeo.com/329825758/2df01fbac7",
-          "youtube": "https://www.youtube.com/watch?v=VgkYe0QmfHY",
+          "index": 1,
+          "title": "Relação de poder (EXEMPLO PRÁTICO)",
+          "description": "Vamos conhecer um exemplo prático de relação de poder.",
+          "duration": "03:05",
+          "vimeo": "",
+          "youtube": "https://youtu.be/3RTX6xDyct8",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Como é chamado os equipamentos que conseguimos olhar os planetas?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Telescópico"
-                },
-                {
-                  "id": "b",
-                  "title": "Microscópio"
-                },
-                {
-                  "id": "c",
-                  "title": "Binóculo"
-                },
-                {
-                  "id": "d",
-                  "title": "Lupa"
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Qual é o tipo de fotografia realizada embaixo do mar?",
+              "title": "O que o pai faz?",
               "correct": "b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Fotografia de luz negra"
+                  "title": "Deixa o filho jogar videogame."
                 },
                 {
                   "id": "b",
-                  "title": "Fotografia subaquática"
+                  "title": "Ameaça tirar a mesada do filho."
                 },
                 {
                   "id": "c",
-                  "title": "Fotografia submarina"
+                  "title": "Ameaça tirar o videogame do filho."
                 },
                 {
                   "id": "d",
-                  "title": "Fotografia à prova d’água"
+                  "title": "Grita com o filho."
                 }
               ]
             },
             {
-              "id": "3",
-              "title": "O que é distribuição espacial?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Enquadramento da fotografia"
-                },
-                {
-                  "id": "b",
-                  "title": "Enquadramento do espaço"
-                },
-                {
-                  "id": "c",
-                  "title": "Fotos dos planetas"
-                },
-                {
-                  "id": "d",
-                  "title": "Separação das estrelas no espaço"
-                }
-              ]
-            },
-            {
-              "id": "4",
-              "title": "O que significa a expressão \"regra dos terços” para a Fotografia?",
+              "id": "2",
+              "title": "O que a mãe faz?",
               "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "É uma régua dividida em 2."
+                  "title": "Deixa o filho jogar videogame."
                 },
                 {
                   "id": "b",
-                  "title": "É uma arara com o rosto virado para o lado."
+                  "title": "Ameaça tirar o filho da escola."
                 },
                 {
                   "id": "c",
-                  "title": "É onde você pode direcionar a sua fotografia."
+                  "title": "Ameaça dar uma surra no filho."
                 },
                 {
                   "id": "d",
-                  "title": "É uma bolinha vermelha."
+                  "title": "Faz um acordo amigável com o filho."
                 }
               ]
             }
@@ -3012,59 +2466,109 @@
         {
           "id": "",
           "index": 2,
-          "title": "Fotografia de celular",
-          "description": "Quer aprender como tirar uma foto top pelo celular?",
-          "duration": "02:44",
-          "vimeo": "https://vimeo.com/329826281/40a88faf3c ",
-          "youtube": "https://www.youtube.com/watch?v=VzmdmsnnhBE",
+          "title": "Relação de poder — Parte 2",
+          "description": "Vamos analisar o exemplo prático para entender o que é relação de poder.",
+          "duration": "03:02",
+          "vimeo": "",
+          "youtube": "https://youtu.be/339XntmZwYw",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Segundo o professor, no mundo da fotografia “um nada” significa...?",
+              "title": "Qual é o exercício de poder usado pelo pai quando ele volta?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Ideológico."
+                },
+                {
+                  "id": "b",
+                  "title": "Agressivo."
+                },
+                {
+                  "id": "c",
+                  "title": "Autoritário."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual dos dois parentes usou a soberania?",
               "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Um nada significa um nada."
+                  "title": "O filho."
                 },
                 {
                   "id": "b",
-                  "title": "Um nada significa um nadador."
+                  "title": "O pai."
                 },
                 {
                   "id": "c",
-                  "title": "Um nada significa alguma coisa."
+                  "title": "A mãe."
                 },
                 {
                   "id": "d",
-                  "title": "Um nada significa dois nadas."
+                  "title": "Nenhum deles."
                 }
               ]
             },
             {
-              "id": "2",
-              "title": "Também segundo o professor, o que significa um vazio na distribuição espacial?",
+              "id": "3",
+              "title": "Qual dos dois parentes usou a autonomia?",
               "correct": "b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Um vazio é um espaço em branco"
+                  "title": "O filho."
                 },
                 {
                   "id": "b",
-                  "title": "Um vazio é uma linguagem"
+                  "title": "O pai."
                 },
                 {
                   "id": "c",
-                  "title": "Um vazio é uma reflexão na vida"
+                  "title": "A mãe."
                 },
                 {
                   "id": "d",
-                  "title": "Um vazio é onde coloca uma animal"
+                  "title": "Nenhum deles."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "O que acontece na relação de poder?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Um lado ganha e o outro perde."
+                },
+                {
+                  "id": "b",
+                  "title": "Nenhum dos lados ganha nada."
+                },
+                {
+                  "id": "c",
+                  "title": "Um lado atinge seu objetivo e o outro simplesmente concorda sem haver mudanças."
+                },
+                {
+                  "id": "d",
+                  "title": "Um lado atinge seu objetivo e o outro altera seu comportamento."
                 }
               ]
             }
@@ -3180,63 +2684,12 @@
         {
           "id": "",
           "index": 3,
-          "title": "Peru",
-          "description": "Você sabe onde fica o ponto central de uma fotografia?",
-          "duration": "02:15",
-          "vimeo": "https://vimeo.com/329826967/4b9a0f1a45",
-          "youtube": "https://www.youtube.com/watch?v=N2_-VxfMlQ0",
-          "test_comprehension": [
-            {
-              "id": "1",
-              "title": "Onde foi tirado a foto da lhama do vídeo?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Em uma fazendo de lhamas no Peru."
-                },
-                {
-                  "id": "b",
-                  "title": "No zoológico da cidade em Guarulhos-SP."
-                },
-                {
-                  "id": "c",
-                  "title": "No zoológico do Peru."
-                },
-                {
-                  "id": "d",
-                  "title": "Em uma fazenda no Brasil."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Nesta aula, existe uma foto com um macaco e mais um objeto representando a distribuição espacial. O que é esse objeto?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Um carro"
-                },
-                {
-                  "id": "b",
-                  "title": "O tronco de uma árvore"
-                },
-                {
-                  "id": "c",
-                  "title": "Um coqueiro"
-                },
-                {
-                  "id": "d",
-                  "title": "Uma palmeira imperial"
-                }
-              ]
-            }
-          ],
+          "title": "Conclusão do exemplo",
+          "description": "Vamos concluir a análise do exemplo prático e ver os highlights da aula.",
+          "duration": "02:23",
+          "vimeo": "",
+          "youtube": "",
+          "test_comprehension": [],
           "weblink": [
             {
               "id": "",
@@ -3403,64 +2856,40 @@
     },
     {
       "id": "6",
-      "title": "Enquadramentos de fotografia",
-      "description": "Aprendendo a utilizar diversos tipos de enquadramentos nas suas fotografias.",
+      "title": "O Exemplo do Líder",
+      "description": "Aprendendo a ser um exemplo como líder na prática.",
       "activities": [
         {
           "id": "",
-          "title": "Plano geral",
-          "description": "Quer aprender como se posicionar para tirar uma foto bacana? Então, assiste aí!",
-          "duration": "03:04",
-          "vimeo": "https://vimeo.com/329827528/d47b05efaf ",
-          "youtube": "https://www.youtube.com/watch?v=nmvU5QKDl5Q",
+          "index": 1,
+          "title": "Certo e errado",
+          "description": "Vamos ver como usar o exercício de poder na prática",
+          "duration": "01:33",
+          "vimeo": "",
+          "youtube": "https://youtu.be/YWdR0eTTfog",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Qual é a característica da fotografia do plano geral?",
+              "title": "Qual é o exercício de poder certo para a liderança?",
               "correct": "d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "Mostrar as pessoas em primeiro plano."
+                  "title": "A soberania."
                 },
                 {
                   "id": "b",
-                  "title": "Mostrar um monumento."
+                  "title": "A autonomia."
                 },
                 {
                   "id": "c",
-                  "title": "Não tem características."
+                  "title": "Nenhum dos dois."
                 },
                 {
                   "id": "d",
-                  "title": "Mostrar o ambiente inteiro da fotografia."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Em que local do Peru foi tirada a foto do enquadramento plano geral, segundo o professor?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "Machu Picchu"
-                },
-                {
-                  "id": "b",
-                  "title": "Plaza de Las Armas"
-                },
-                {
-                  "id": "c",
-                  "title": "Catedral de Lima"
-                },
-                {
-                  "id": "d",
-                  "title": "Templo do Sol"
+                  "title": "Não existe certo e errado, apenas o que funciona melhor em cada contexto."
                 }
               ]
             }
@@ -3576,252 +3005,109 @@
         {
           "id": "",
           "index": 2,
-          "title": "Enquadramento",
-          "description": "O que você acha de aprender a enquadrar suas fotos?",
-          "duration": "02:35",
-          "vimeo": "https://vimeo.com/329828271/d005317e28",
-          "youtube": "https://www.youtube.com/watch?v=X_wC3fMz1s8",
+          "title": "Exemplo e legitimidade",
+          "description": "Vamos aprender o que é essencial em um líder e como a construção da legitimidade pode ajudar.",
+          "duration": "02:24",
+          "vimeo": "",
+          "youtube": "https://youtu.be/ehENKfRTzb0",
           "test_comprehension": [
             {
               "id": "1",
-              "title": "Qual é a característica da fotografia do plano aberto?",
+              "title": "O que é essencial em um líder?",
               "correct": "a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "A pessoa em foco está de corpo inteiro na foto."
+                  "title": "Dar o exemplo para seus liderados."
                 },
                 {
                   "id": "b",
-                  "title": "A pessoa em foco está apenas com o rosto na foto."
+                  "title": "Ter mais conhecimento do que os outros."
                 },
                 {
                   "id": "c",
-                  "title": "A pessoa em foco está com um animal na foto."
+                  "title": "Usar o jogo de cintura."
                 },
                 {
                   "id": "d",
-                  "title": "A pessoa em foco não aparece na foto."
+                  "title": "Saber influenciar pessoas."
                 }
               ]
             },
             {
               "id": "2",
-              "title": "Na explicação da fotografia de plano médio, qual foi o programa utilizado para exemplificar o modelo fotográfico?",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "TV Globinho"
-                },
-                {
-                  "id": "b",
-                  "title": "Jornal Nacional"
-                },
-                {
-                  "id": "c",
-                  "title": "Bom dia e Cia"
-                },
-                {
-                  "id": "d",
-                  "title": "Cidade Alerta"
-                }
-              ]
-            }
-          ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "",
-          "index": 3,
-          "title": "Fotografando pets",
-          "description": "Saiba qual é a melhor estratégia para tirar foto do seu bichinho de estimação.",
-          "duration": "02:01",
-          "vimeo": "https://vimeo.com/329828895/04aec42cf4",
-          "youtube": "https://www.youtube.com/watch?v=15d-bOK1xaU",
-          "test_comprehension": [
-            {
-              "id": "1",
-              "title": "Qual é a característica do primeiro plano?",
-              "correct": "a",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "A fotografia mostra apenas o rosto e busto da pessoa. "
-                },
-                {
-                  "id": "b",
-                  "title": "O fotógrafo é obrigado tirar a foto de um tripé."
-                },
-                {
-                  "id": "c",
-                  "title": "A pessoa da foto necessita esta sorrindo."
-                },
-                {
-                  "id": "d",
-                  "title": "Primeiro plano, significa primeira foto."
-                }
-              ]
-            },
-            {
-              "id": "2",
-              "title": "Qual é a característica da fotografia em close? ",
-              "correct": "b",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": "A fotografia é tirada dentro do closet da casa da pessoa."
-                },
-                {
-                  "id": "b",
-                  "title": "A fotografia é focada no rosto de uma pessoa."
-                },
-                {
-                  "id": "c",
-                  "title": "A fotografia é feita por câmeras de cinema."
-                },
-                {
-                  "id": "d",
-                  "title": "A fotografia necessita de um figurino."
-                }
-              ]
-            },
-            {
-              "id": "3",
-              "title": "Para economizar verba na produção de um filme, qual é uma das estratégias de plano fotográfico que as produtoras utilizam para gravar um filme por exemplo?",
+              "title": "Qual é a definição de legitimidade?",
               "correct": "c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
-                  "title": "O plano aberto"
+                  "title": "É quando um sujeito A é obrigado a aceitar as ordens do sujeito B."
                 },
                 {
                   "id": "b",
-                  "title": "O plano médio"
+                  "title": "É quando um sujeito A tem o dever de seguir as ordens do sujeito B."
                 },
                 {
                   "id": "c",
-                  "title": "O plano close"
+                  "title": "É quando um sujeito A reconhece que o sujeito B pode dar ordens."
                 },
                 {
                   "id": "d",
-                  "title": "O plano detalhe"
+                  "title": "É quando um sujeito A reconhece que o sujeito B sabe mais do que ele."
+                }
+              ]
+            },
+            {
+              "id": "",
+              "title": "",
+              "correct": "",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": ""
+                },
+                {
+                  "id": "b",
+                  "title": ""
+                },
+                {
+                  "id": "c",
+                  "title": ""
+                },
+                {
+                  "id": "d",
+                  "title": ""
+                }
+              ]
+            },
+            {
+              "id": "",
+              "title": "",
+              "correct": "",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": ""
+                },
+                {
+                  "id": "b",
+                  "title": ""
+                },
+                {
+                  "id": "c",
+                  "title": ""
+                },
+                {
+                  "id": "d",
+                  "title": ""
                 }
               ]
             }
