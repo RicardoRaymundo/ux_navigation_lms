@@ -4,8 +4,8 @@ import 'package:flutter_svg/flutter_svg.dart';
 
 class SectionContinueWatching extends StatelessWidget {
   int counter = 0;
-  String title;
-  var data;
+  final String title;
+  final data;
   final String assetName = 'assets/svg/play.svg';
 
   SectionContinueWatching({this.title, this.data}) : super();
@@ -31,18 +31,18 @@ class SectionContinueWatching extends StatelessWidget {
                 padding: EdgeInsets.all(3),
                 scrollDirection: Axis.horizontal,
                 //shrinkWrap: true,
-                children: makeContinueContainers()),
+                children: generateContinueWatching()),
           )
         ],
       ),
     );
   }
 
-  List<Widget> makeContinueContainers() {
-    List<Container> movieList = [];
+  List<Widget> generateContinueWatching() {
+    List<Container> listConteinerMovie = [];
     for (int i = 0; i < 6; i++) {
       counter++;
-      movieList.add(Container(
+      listConteinerMovie.add(Container(
           color: Colors.transparent,
           padding: EdgeInsets.all(2),
           height: 200,
@@ -94,6 +94,6 @@ class SectionContinueWatching extends StatelessWidget {
         counter = 0;
       }
     }
-    return movieList;
+    return listConteinerMovie;
   }
 }

@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "ssssssss",
   "title": "Futurismo e Inovação",
   "description": "Carros voadores, robôs por todos os lados… Será que tudo isso faz sentido? Bem vindo a bordo da nave espacial! Neste curso, vamos abordar tudo isso com o professor Thiago Lima. Aproveita a viagem, galera!",
   "author": "Thiago Lima",
@@ -13,22 +13,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Conceito de Futurismo",
           "description": "Vamos ver o conceito de Futurismo como ciência, os três pilares da inovação e alguns exemplos atuais de projetos inovadores.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328787587",
           "youtube": "https://www.youtube.com/watch?v=f3-1eJQyQ4w&t=13s",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é Futurismo?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -53,7 +51,7 @@
               "title": "O que é inovação?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -80,19 +78,17 @@
           "index": 2,
           "title": "O que é inovação",
           "description": "Agora, o professor vai se aprofundar nos 3 pilares que definem o que é inovação, dando exemplos práticos de como funciona no dia a dia.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328787830",
           "youtube": "https://www.youtube.com/watch?v=HfEG_Ju2SIU",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é inovar?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -117,7 +113,7 @@
               "title": "A inovação está diretamente ligada a tempo, eficiência e...?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -146,7 +142,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -173,7 +169,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -202,22 +198,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Decisões do futuro",
           "description": "Como tomar melhores decisões no presente sobre o futuro.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328788153",
           "youtube": "https://www.youtube.com/watch?v=0yubxtvpOaU",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que podemos fazer com o nosso futuro? ",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -242,7 +236,7 @@
               "title": "O que significa a sigla TI nas empresas?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -269,19 +263,17 @@
           "index": 2,
           "title": "A velha tecnologia",
           "description": "Vamos falar sobre tecnologias criadas recentemente e que “tecnicamente” deveriam ser novas, mas estão ultrapassadas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328788411",
           "youtube": "https://www.youtube.com/watch?v=u_hYtpPZyPc",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é importante na carreira profissional?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -306,7 +298,7 @@
               "title": "Qual é o papel de um profissional que trabalha com desenvolvimento de software?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -333,19 +325,17 @@
           "index": 0,
           "title": "",
           "description": "",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "",
@@ -374,7 +364,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -401,7 +391,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -430,22 +420,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Linear x Exponencial",
           "description": "Diferença conceitual de mentalidade linear versus exponencial, sua importância para a inovação e como identificar projetos exponenciais.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328784685",
           "youtube": "https://www.youtube.com/watch?v=C19htyqQOmo",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que significa mindset ou mentalidade?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -470,7 +458,7 @@
               "title": "Qual é o papel de um líder moderno?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -497,19 +485,17 @@
           "index": 2,
           "title": "Aplicabilidade",
           "description": "Agora que você já sabe o que é mentalidade e mindset, vamos falar sobre a aplicabilidade disso?\n",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328784896",
           "youtube": "https://www.youtube.com/watch?v=WfQKLopmwXg",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que significa pensamento linear?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -534,7 +520,7 @@
               "title": "Qual a diferença entre o líder e o chefe?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -563,7 +549,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -590,7 +576,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -619,22 +605,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Mentalidade futurista",
           "description": "Mentalidade de liderança no âmbito futurista, características de um líder do futuro, diferenciais entre o modelo de liderança atual e futurista.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328785252",
           "youtube": "https://www.youtube.com/watch?v=IYcSvyfZKBw",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual a característica do líder futurista?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -659,7 +643,7 @@
               "title": "Qual a característica do líder atual?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -686,19 +670,17 @@
           "index": 2,
           "title": "Stand Up Comedy",
           "description": "Nessa segunda parte, tem uma história bem legal e engraçada. Bora saber o que é?",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328785531",
           "youtube": "https://www.youtube.com/watch?v=nb0Tvh4OfPw",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Um aluno comum de uma escola pública pode ser um líder?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -723,7 +705,7 @@
               "title": "Segundo o vídeo, se o chuveiro da sua casa queimar, quais pontos podem ser fundamentais para resolução desse problema?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -752,7 +734,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -779,7 +761,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -808,22 +790,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Dimensões sociais e tecnológicas",
           "description": "Metodologias relacionadas à análise de contexto nas dimensões políticas, tecnológicas, sociais e ecológicas, horizonte de tempo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328785873",
           "youtube": "https://www.youtube.com/watch?v=tTfOqJ03Bfo",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é metodologia?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -848,7 +828,7 @@
               "title": "Segundo o professor, o que pode ser considerado curto prazo no tema Futurismo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -875,19 +855,17 @@
           "index": 2,
           "title": "Netflix",
           "description": "Você deve adorar assistir filmes e séries, né? Se não, sabe quem curte. Nessa aula, vamos falar de onde vem esse conceito de vídeos.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328783214/293e41e378",
           "youtube": "https://www.youtube.com/watch?v=Xuh6gWDZAcI",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quais dessas empresas se encaixam no modelo futurista?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -912,7 +890,7 @@
               "title": "Qual foi o grande erro da empresa Kodak ao ter falido?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -939,19 +917,17 @@
           "index": 3,
           "title": "Tecnologia e Sociedade",
           "description": "Falaremos sobre as dimensões da análise, que vai da tecnologia à sociedade.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328783446",
           "youtube": "https://www.youtube.com/watch?v=iZaUAAe5OMU",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quais são as dimensões da análise?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -976,7 +952,7 @@
               "title": "Qual é o país que mais consome tecnologia no mundo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1005,7 +981,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1032,7 +1008,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1061,22 +1037,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Projetando o futuro",
           "description": "Análise de métodos avançados de avaliação do presente e projeção do futuro.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328783666",
           "youtube": "https://www.youtube.com/watch?v=JwmLZbeggGs",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "No vídeo, ensinamos a dividir o método prospectivo, certo? Até quantas vezes pode ser feito isso segundo a aula?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1101,7 +1075,7 @@
               "title": "Segundo o carinha tatuado, qual é a segunda etapa do método prospectivo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1128,19 +1102,17 @@
           "index": 2,
           "title": "Verdade ou Desafio?",
           "description": "Já pensou em desafiar o presente? Nesta aula, vamos falar sobre isso.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328783931",
           "youtube": "https://www.youtube.com/watch?v=uSUMkVs7zFE",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que pode ser considerado foresight?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1165,7 +1137,7 @@
               "title": "O que é um insight?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1194,7 +1166,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1221,7 +1193,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1250,22 +1222,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Sustentabilidade",
           "description": "Como avaliar a sustentabilidade de determinado negócio frente às demandas do futuro.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328784227",
           "youtube": "https://www.youtube.com/watch?v=W6P8RF11So8",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que significa analisar algo?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1290,7 +1258,7 @@
               "title": "Segundo o vídeo, é importante questionar padrões da sociedade e das empresas?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1317,19 +1285,16 @@
           "index": 2,
           "title": "Geladeira inteligente",
           "description": "Imagine uma tecnologia que pudesse saber o que falta na geladeira sem você precisar ir no mercado, e ainda comprasse o que estivesse faltando.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328786051",
           "youtube": "https://www.youtube.com/watch?v=6XkdMXxj4M0",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Digamos que você tem uma empresa e precisa tomar uma decisão. É importante você avaliar os riscos antes de alguma ação?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1354,7 +1319,7 @@
               "title": "O que significa ser uma “mosca branca” no mundo corporativo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1383,7 +1348,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1410,7 +1375,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1439,22 +1404,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Previsões futuras",
           "description": "Previsões para a tecnologia, cidades, estilo de vida, mobilidade, dentre outros temas e áreas, e como isso vai impactar o dia a dia das pessoas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328786570",
           "youtube": "https://www.youtube.com/watch?v=AU9vJtM9zrM",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Você sabe o que significa previsões para o futuro?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1479,7 +1440,7 @@
               "title": "O que é um carro autônomo?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1506,19 +1467,16 @@
           "index": 2,
           "title": "Internet das Coisas",
           "description": "Nessa segunda parte, vamos continuar falando sobre previsões para o futuro. Você já ouviu falar sobre IoT?",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328786922",
           "youtube": "https://www.youtube.com/watch?v=C7onr0fR0Vc",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual o significado de IoT?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1543,7 +1501,7 @@
               "title": "Qual é a vantagem de usar o IoT?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1570,19 +1528,16 @@
           "index": 3,
           "title": "Realidade virtual",
           "description": "Chegamos na reta final digna de continuidade. Aqui, vamos falar sobre realidade virtual. Tá preparado?",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328787133",
           "youtube": "",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é realidade virtual?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1607,7 +1562,7 @@
               "title": "Qual é a definição de inteligência artificial?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1636,7 +1591,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1663,7 +1618,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",

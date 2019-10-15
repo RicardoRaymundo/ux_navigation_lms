@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-class ExpansionPanelDescription extends StatelessWidget {
+class CourseHeaderDescription extends StatelessWidget {
   final String description;
 
-  ExpansionPanelDescription({this.description});
+  CourseHeaderDescription({this.description});
 
   @override
   Widget build(BuildContext context) {

@@ -3,7 +3,7 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/resource/course/course.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
-import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_lesson_list.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/course_list.dart';
 import 'package:ux_navigation/resource/util.dart';
 import 'package:ux_navigation/ui/ui_label.dart';
 import 'package:ux_navigation/ui/ui_svg.dart';
@@ -100,7 +100,8 @@ class PageInfoCourse extends StatelessWidget {
 
                 /// Informações geral do curso Ano/Author/Lições/Tempo de Duração
                 Text(
-                  "${this.data.year}   ${this.data.author}   ${this.data.lessons.length.toString()} ${UILabel.LESSONS}   ${this._time()}",
+                  "${this.data.year}   ${this.data.author}   ${this.data.listLesson.length.toString()} ${UILabel.LESSONS}   ${this
+                      ._time()}",
                   style: Theme
                       .of(context)
                       .accentTextTheme
@@ -117,7 +118,7 @@ class PageInfoCourse extends StatelessWidget {
               ],
             ),
           ),
-              ExpansionPanelLessonList(this.data.lessons),
+              CourseList(this.data.listLesson),
               SizedBox(height: 20)
         ],
       ),
@@ -127,8 +128,8 @@ class PageInfoCourse extends StatelessWidget {
   /// Cálcula o tempo total dos vídeos na lição
   String _time() {
     String result = '00:00';
-    for (Lesson lesson in this.data.lessons) {
-      lesson.activities.forEach((LessonActivity item) {
+    for (Lesson lesson in this.data.listLesson) {
+      lesson.listLessonActivity.forEach((LessonActivity item) {
         result = Util.calculateTime(result, item.duration);
       });
     }

@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "aaaaaaaa",
   "title": "Habilidades do Futuro",
   "description": "Neste curso, falaremos das habilidades necessárias para o mercado de trabalho do futuro. Você sabia que mais da metade das profissões que existem hoje serão extintas nos próximos anos? Cola na grade e vamos desvendar isso juntos!",
   "author": "Camile Just",
@@ -13,22 +13,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Revolução Agrícola + Era Industrial",
           "description": "Vamos aprender sobre como as mudanças sociais deram origem à sociedade em que vivemos hoje.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334798004/860d2c4b98",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que foi a Revolução Agrícola?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -53,7 +51,7 @@
               "title": "O que foi a Era Industrial?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -78,7 +76,7 @@
               "title": "Qual das alternativas NÃO representa nenhuma das lógicas da Era Industrial?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -105,19 +103,17 @@
           "index": 2,
           "title": "A Era Digital",
           "description": "Vamos aprender mais sobre a era na qual estamos vivendo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334798206/509ab1d909",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Como a Era Digital começou?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -142,7 +138,7 @@
               "title": "O que é Economia Colaborativa na prática?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -167,7 +163,7 @@
               "title": "Qual é uma das características mais importantes da Economia Colaborativa?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -192,7 +188,7 @@
               "title": "Segundo a professora Camile, qual é a semelhança mais importante entre o Uber e o Airbnb?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -219,19 +215,17 @@
           "index": 3,
           "title": "Características da nova economia",
           "description": "Vamos aprender mais sobre a nova economia e suas características principais.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334798395/388f930a46",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual é o princípio da Economia Criativa?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -256,7 +250,7 @@
               "title": "Quais são os três componentes da \"nova economia\"?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -281,7 +275,7 @@
               "title": "Quais eram os centros de comunicação e conteúdo anteriores à Era Digital?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -306,7 +300,7 @@
               "title": "Qual é a característica mais importante da comunicação na Era Digital?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -336,7 +330,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -363,7 +357,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -392,15 +386,13 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Emprego x Trabalho",
           "description": "Vamos entender a diferença entre emprego e trabalho.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334797874/6ae57ab98d",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
@@ -457,12 +449,10 @@
           "index": 2,
           "title": "A Economia Freelancer",
           "description": "Vamos aprender as características dessa economia e como é possível trabalhar sem ter um emprego.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845187/95d8c05295",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
@@ -543,12 +533,10 @@
           "index": 3,
           "title": "Novos negócios do futuro",
           "description": "Vamos entender a origem dos novos tipos de negócio e do que é preciso para empreender.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845414/2817285247",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
@@ -608,7 +596,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -635,7 +623,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -664,22 +652,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Novas formas de trabalho",
           "description": "Vamos aprender o que é o MEI e como ele pode ser utilizado na prática.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845553/17670158eb",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que significa MEI?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -704,7 +690,7 @@
               "title": "Qual das alternativas NÃO é um dos benefícios do MEI?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -729,7 +715,7 @@
               "title": "O que são serviços remotos?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -756,19 +742,17 @@
           "index": 2,
           "title": "Mudanças do mercado de trabalho",
           "description": "Vamos aprender mais sobre as empresas e outros tipos de empreendedorismo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845733/ff54885eec",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quais são os benefícios do MEI?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -793,7 +777,7 @@
               "title": "O que podemos usar para gerenciar nosso trabalho virtualmente?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -818,7 +802,7 @@
               "title": "O que é uma empresa?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -845,19 +829,17 @@
           "index": 3,
           "title": "Empreendedorismo em rede",
           "description": "Vamos ver o que é empreendedorismo em rede na teoria e na prática.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845946/55fb9ea22d",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é empreendedorismo coletivo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -882,7 +864,7 @@
               "title": "Como acontece o empreendedorismo em rede?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -912,7 +894,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -939,7 +921,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -968,22 +950,19 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Habilidades comportamentais e cognitivas",
           "description": "Vamos conhecer as habilidades mais importantes do futuro do trabalho.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334846084/1e3027099c",
           "youtube": "",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que são as habilidades do futuro?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1008,7 +987,7 @@
               "title": "Como são divididas as habilidades do futuro?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1033,7 +1012,7 @@
               "title": "Quais dessas alternativas NÃO fazem parte das habilidades comportamentais?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1060,19 +1039,16 @@
           "index": 2,
           "title": "Outras habilidades do futuro",
           "description": "Vamos continuar aprendendo sobre as habilidades comportamentais e cognitivas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334846383/c6f4aeab7f",
           "youtube": "",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quais dessas alternativas NÃO fazem parte das habilidades cognitivas?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1097,7 +1073,7 @@
               "title": "Segundo a professora, no que se resumem as habilidades do futuro?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1122,7 +1098,7 @@
               "title": "O que é empatia?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1149,19 +1125,16 @@
           "index": 3,
           "title": "Lifelong Learning",
           "description": "Vamos aprender o que é Lifelong Learning e qual a importância dele para o futuro.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334846644/92b09c4496",
           "youtube": "",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo a professora, o que o mundo está exigindo dos profissionais?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1186,7 +1159,7 @@
               "title": "O que é Lifelong Learning?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1211,7 +1184,7 @@
               "title": "De quem é o futuro?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1241,7 +1214,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1268,7 +1241,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",

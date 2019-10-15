@@ -42,14 +42,13 @@ class ChartBox extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(top: 10),
       child: Container(
-        height: 35,
+        height: 28,
         width: 70,
         child: Row(
           children: <Widget>[
             Container(
               width: 20,
               height: 20,
-              padding: EdgeInsets.fromLTRB(0, 0, 1, 0),
               child: colorCompleted(this.progress),
             ),
             Container(

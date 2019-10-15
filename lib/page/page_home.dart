@@ -5,22 +5,21 @@ import 'package:ux_navigation/resource/section/section_continue_watching.dart';
 import 'package:ux_navigation/resource/section/section_originals.dart';
 import 'package:ux_navigation/resource/section/section_popular.dart';
 
-class PageHome extends StatefulWidget {
-  @override
-  _PageHomeState createState() => _PageHomeState();
-}
-
-class _PageHomeState extends State<PageHome> {
-  @override
+class PageHome extends StatelessWidget {
   Widget build(BuildContext context) {
-    return ListView(
-      children: <Widget>[
-        SectionPopular(title: 'Popular na New School', data: Data.popular),
-        SectionPopular(title: 'Disponível Agora', data: Data.available),
-        SectionBanner(title: 'Lançamento', data: Data.banner),
-        SectionContinueWatching(title: 'Continue Assistindo', data: Data.continueWatching),
-        SectionOriginals(title: 'Originais New School', data: Data.originals)
-      ],
+    return Container(
+      color: Theme
+          .of(context)
+          .backgroundColor,
+      child: ListView(
+        children: <Widget>[
+          SectionPopular(title: 'Popular na New School', data: Data.listCoursePopular, parent: this),
+          //SectionPopular(title: 'Disponível Agora', data: Data.listCourseAvailable),
+          SectionBanner(title: 'Lançamento', data: Data.listCourseBanner),
+          SectionContinueWatching(title: 'Continue Assistindo', data: Data.listCourseContinueWatching),
+          SectionOriginals(title: 'Originais New School', listCourse: Data.listCourseOriginals)
+        ],
+      ),
     );
   }
 }

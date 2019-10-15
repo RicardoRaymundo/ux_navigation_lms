@@ -4,8 +4,9 @@ import 'package:ux_navigation/ui/ui_svg.dart';
 
 class ChartMarker extends StatelessWidget {
   final double progress;
+  final bool showMarker;
 
-  ChartMarker({this.progress = 0.0});
+  ChartMarker({this.progress = 0.0, this.showMarker = true});
 
   @override
   Widget build(BuildContext context) {
@@ -47,10 +48,7 @@ class ChartMarker extends StatelessWidget {
             color: Color(0xff363636),
             width: 4,
           ),
-          Container(
-            width: 30,
-            child: SvgPicture.asset(UiSVG.CHART_MARKER_GREEN),
-          ),
+          this.showMarker ? Container(width: 30, child: SvgPicture.asset(UiSVG.CHART_MARKER_GREEN)) : Container(width: 30),
         ],
       ),
     );

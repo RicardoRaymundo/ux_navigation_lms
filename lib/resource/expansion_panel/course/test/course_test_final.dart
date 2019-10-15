@@ -2,14 +2,14 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/resource/chart/chart_box.dart';
 import 'package:ux_navigation/resource/chart/chart_marker_final.dart';
-import 'package:ux_navigation/resource/course/lesson/lesson.dart';
+import 'package:ux_navigation/resource/course/lesson/test/test_final.dart';
 import 'package:ux_navigation/ui/ui_label.dart';
 import 'package:ux_navigation/ui/ui_svg.dart';
 
-class ExpansionPanelTestFinal extends StatelessWidget {
-  Lesson lesson;
+class CourseTestFinal extends StatelessWidget {
+  final List<TestFinal> listTestFinal;
 
-  ExpansionPanelTestFinal({this.lesson});
+  CourseTestFinal({this.listTestFinal});
 
   @override
   Widget build(BuildContext context) {
@@ -31,18 +31,18 @@ class ExpansionPanelTestFinal extends StatelessWidget {
               children: <Widget>[
                 Center(
                   child: Container(
-                    padding: EdgeInsets.only(top: 18, right: 10, bottom: 40),
+                    padding: EdgeInsets.only(top: 16, right: 10, bottom: 20),
                     width: width,
                     child: Text(
                       UILabel.FINAL_TEST,
-                      style: TextStyle(fontSize: 14),
+                      style: TextStyle(fontSize: 15),
                       textAlign: TextAlign.left,
                     ),
                   ),
                 )
               ],
             )),
-        ChartBox(progress: 0.4)
+        ChartBox(progress: 0.3)
       ]),
     );
   }

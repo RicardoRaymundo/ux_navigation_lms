@@ -3,14 +3,14 @@ import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/ui/ui_label.dart';
 import 'package:ux_navigation/ui/ui_svg.dart';
 
-class ExpansionPanelInfo extends StatelessWidget {
+class CourseHeaderInfo extends StatelessWidget {
   final int index;
   final int total;
   final String time;
   final double performance;
   final int badge;
 
-  ExpansionPanelInfo({this.index, this.total, this.time, this.performance = 0, this.badge = 0});
+  CourseHeaderInfo({this.index, this.total, this.time, this.performance = 0, this.badge = 0});
 
   @override
   Widget build(BuildContext context) {

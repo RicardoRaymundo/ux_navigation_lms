@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
-import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_description.dart';
-import 'package:ux_navigation/resource/expansion_panel/course/expansion_panel_info_video.dart';
+import 'package:ux_navigation/resource/expansion_panel/course/header/course_header_description.dart';
+import 'package:ux_navigation/resource/expansion_panel/lixo/expansion_panel_info_video.dart';
 
 class ExpansionPanelVideoItem extends StatefulWidget {
   final LessonActivity activity;
@@ -34,21 +34,21 @@ class _ExpansionPanelVideoItemState extends State<ExpansionPanelVideoItem> with 
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
-              //GestureDetector(onTap: _expand, child: ExpansionPanelTitle(activity)),
+              //GestureDetector(onTap: _expand, child: CourseHeaderTitle(activity)),
               SizedBox(
                 height: 5,
               ),
-              //ExpansionPanelDescription(activity),
+              //CourseHeaderDescription(activity),
               SizedBox(
                 height: 10,
               ),
-              ExpansionPanelInfoVideo(activity),
+              CourseHeaderInfoVideo(activity),
               SizedBox(
                 height: 10,
               ),
             ],
           ),
-          // 363636 child: GestureDetector(onTap: _expand, child: ExpansionPanelTitle()),
+          // 363636 child: GestureDetector(onTap: _expand, child: CourseHeaderTitle()),
         ),
         secondChild: Container(
             child: Column(
@@ -56,18 +56,18 @@ class _ExpansionPanelVideoItemState extends State<ExpansionPanelVideoItem> with 
           children: <Widget>[
             GestureDetector(
               onTap: _expand,
-              //child: ExpansionPanelTitle(activity),
+              //child: CourseHeaderTitle(activity),
             ),
             SizedBox(
               height: 5,
             ),
-            ExpansionPanelDescription(
+            CourseHeaderDescription(
               description: 'ssdsd',
             ),
             SizedBox(
               height: 10,
             ),
-            ExpansionPanelInfoVideo(activity),
+            CourseHeaderInfoVideo(activity),
             SizedBox(
               height: 10,
             ),

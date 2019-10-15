@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 
-class ExpansionPanelTitle extends StatelessWidget {
+class CourseHeaderTitle extends StatelessWidget {
   final String title;
   final int index;
   final double completed;
   final bool isExpanded;
 
-  ExpansionPanelTitle({this.index, this.title, this.completed, this.isExpanded});
+  CourseHeaderTitle({this.index, this.title, this.completed, this.isExpanded});
 
   @override
   Widget build(BuildContext context) {

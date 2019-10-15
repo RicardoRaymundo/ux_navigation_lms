@@ -7,7 +7,7 @@ class Course {
   String author;
   String authorInfo;
   int year;
-  List<Lesson> lessons;
+  List<Lesson> listLesson;
 
   Course(Map<String, dynamic> data) {
     this._config(data);
@@ -17,7 +17,7 @@ class Course {
     int len = data['lessons'].length;
 
     // Converte o List<Map<String, dynamic> em uma List<Lesson>.
-    final List<Lesson> listData = List.generate(len, (i) {
+    final List<Lesson> listLessonData = List.generate(len, (i) {
       return Lesson.generate(data['lessons'][i]);
     });
 
@@ -27,7 +27,7 @@ class Course {
     this.author = data['author'] as String;
     this.authorInfo = data['author_info'] as String;
     this.year = data['year'] as int;
-    this.lessons = listData;
+    this.listLesson = listLessonData;
   }
 
   factory Course.generate(Map<String, dynamic> data) {

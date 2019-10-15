@@ -16,19 +16,17 @@
           "index": 0,
           "title": "",
           "description": "",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -53,7 +51,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -78,7 +76,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -103,7 +101,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -130,19 +128,17 @@
           "index": 0,
           "title": "",
           "description": "",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -167,7 +163,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -192,7 +188,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -217,7 +213,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -244,19 +240,17 @@
           "index": 0,
           "title": "",
           "description": "",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "",
           "youtube": "",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "",
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -281,7 +275,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -306,7 +300,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -331,7 +325,7 @@
               "title": "",
               "correct": "",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -360,7 +354,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -387,7 +381,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",

@@ -35,21 +35,21 @@ class _ExpansionPanelItemState extends State<ExpansionPanelItem> with SingleTick
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: <Widget>[
-              GestureDetector(onTap: _expand, child: ExpansionPanelTitle(activity)),
+              GestureDetector(onTap: _expand, child: CourseHeaderTitle(activity)),
               SizedBox(
                 height: 5,
               ),
-              ExpansionPanelDescription(activity),
+              CourseHeaderDescription(activity),
               SizedBox(
                 height: 10,
               ),
-              ExpansionPanelInfo(activity),
+              CourseHeaderInfo(activity),
               SizedBox(
                 height: 10,
               ),
             ],
           ),
-          // 363636 child: GestureDetector(onTap: _expand, child: ExpansionPanelTitle()),
+          // 363636 child: GestureDetector(onTap: _expand, child: CourseHeaderTitle()),
         ),
         secondChild: Container(
             child: Column(
@@ -57,16 +57,16 @@ class _ExpansionPanelItemState extends State<ExpansionPanelItem> with SingleTick
               children: <Widget>[
                 GestureDetector(
                   onTap: _expand,
-                  child: ExpansionPanelTitle(activity),
+                  child: CourseHeaderTitle(activity),
                 ),
                 SizedBox(
                   height: 5,
                 ),
-                ExpansionPanelDescription(activity),
+                CourseHeaderDescription(activity),
                 SizedBox(
                   height: 10,
                 ),
-                ExpansionPanelInfo(activity),
+                CourseHeaderInfo(activity),
                 SizedBox(
                   height: 10,
                 ),

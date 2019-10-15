@@ -6,9 +6,9 @@ class Lesson {
   String id;
   String title;
   String description;
-  List<LessonActivity> activities;
-  List<TestPlacement> placementTest;
-  List<TestFinal> test_final;
+  List<LessonActivity> listLessonActivity;
+  List<TestPlacement> listTestPlacement;
+  List<TestFinal> listTestFinal;
 
   Lesson(Map<String, dynamic> data) {
     this._config(data);
@@ -19,27 +19,24 @@ class Lesson {
     int lenPlacementTest = data['test_placement'].length;
     int lenFinalTest = data['test_final'].length;
 
-    // Converte o List<Map<String, dynamic> em uma List<LessonActivity>.
-    final List<LessonActivity> listDataActivity = List.generate(lenActivities, (i) {
+    final List<LessonActivity> listLessonActivityData = List.generate(lenActivities, (i) {
       return LessonActivity.generate(data['activities'][i]);
     });
 
-    // Converte o List<Map<String, dynamic> em uma List<TestPlacement>.
-    final List<TestPlacement> listDataPlacementTest = List.generate(lenPlacementTest, (i) {
+    final List<TestPlacement> listTestPlacementData = List.generate(lenPlacementTest, (i) {
       return TestPlacement.generate(data['test_placement'][i]);
     });
 
-    // Converte o List<Map<String, dynamic> em uma List<TestPlacement>.
-    final List<TestFinal> listDataFinalTest = List.generate(lenFinalTest, (i) {
+    final List<TestFinal> listTestFinalData = List.generate(lenFinalTest, (i) {
       return TestFinal.generate(data['test_final'][i]);
     });
 
     this.id = data['id'] as String;
     this.title = data['title'] as String;
     this.description = data['description'] as String;
-    this.activities = listDataActivity;
-    this.placementTest = listDataPlacementTest;
-    this.test_final = listDataFinalTest;
+    this.listLessonActivity = listLessonActivityData;
+    this.listTestPlacement = listTestPlacementData;
+    this.listTestFinal = listTestFinalData;
   }
 
   factory Lesson.generate(Map<String, dynamic> data) {

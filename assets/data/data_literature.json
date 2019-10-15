@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "ddddddddd",
   "title": "Literatura",
   "description": "Literatura é muito mais do que livros e história, é um encontro com a nossa cultura. Se você também já se perdeu no meio de todo aquele monte de autores, períodos e tipos de textos, este curso é para você. Cola aí e vem aprender Literatura de um jeito mais divertido com a gente!",
   "author": "Fabio Carradini",
@@ -13,22 +13,19 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
-          "title": "Introdução",
+          "title": "Introdução Introdução sobre a importância de se aprender Literatura.",
           "description": "Introdução sobre a importância de se aprender Literatura.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
           "youtube": "https://www.youtube.com/watch?v=7R_RVXAp3yA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=35",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Por que estudamos literatura?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -53,7 +50,7 @@
               "title": "Quantos movimentos literários existem?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -80,19 +77,17 @@
           "index": 2,
           "title": "Escolas Literárias",
           "description": "Aprenda mais sobre os movimentos literários.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
           "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=36",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Do que também são chamados os movimentos literários?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -117,7 +112,7 @@
               "title": "O que os movimentos literários têm em comum com um pêndulo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -142,7 +137,7 @@
               "title": "Quais são as duas características principais que utilizamos para dividir e memorizar os movimentos literários?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -171,7 +166,7 @@
           "title": "bbb",
           "correct": "ccc",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "ddd",
@@ -198,7 +193,7 @@
           "title": "222",
           "correct": "333",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "444",
@@ -227,22 +222,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Trovadorismo",
           "description": "Vamos aprender sobre o primeiro movimento literário da História.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333128531/b88f845b66",
           "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=37",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O primeiro movimento literário aconteceu em qual período da história?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -267,7 +260,7 @@
               "title": "Por que as pessoas não consumiam literatura naquela época?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -292,7 +285,7 @@
               "title": "Como os poetas divulgavam suas criações na Idade Média?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -317,7 +310,7 @@
               "title": "Por que o primeiro movimento literário se chamava Trovadorismo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -342,7 +335,7 @@
               "title": "Como eram chamadas as poesias no Trovadorismo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -369,19 +362,17 @@
           "index": 2,
           "title": "Cantigas",
           "description": "Como eram criadas as cantigas durante o Trovadorismo e de quais elementos elas eram formadas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333129261/4911740f4d",
           "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=38",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é uma cantiga da guarvaia?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -406,7 +397,7 @@
               "title": "O que é um verso?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -431,7 +422,7 @@
               "title": "O que é poesia?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -456,7 +447,7 @@
               "title": " O que é prosa?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -483,19 +474,17 @@
           "index": 3,
           "title": "Recursos dos trovadores",
           "description": "Os recursos utilizados pelos trovadores para facilitar a memorização das cantigas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333129865/42d1c88a79",
           "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=39",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é um verso redondilho?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -520,7 +509,7 @@
               "title": "Quais são os 4 tipos de cantiga?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -549,7 +538,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -576,7 +565,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -605,22 +594,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Amor ou amigo?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: amor e amigo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333130226/1724ff0fba",
           "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=40",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Sobre o que eram as cantigas de amor?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -645,7 +632,7 @@
               "title": "Como eram as cantigas de amigo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -672,19 +659,17 @@
           "index": 2,
           "title": "Escárnio ou maldizer?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: escárnio e maldizer.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333130950/eee3fd5e7d",
           "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=41",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Sobre o que eram as cantigas de escárnio?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -709,7 +694,7 @@
               "title": "Sobre o que eram as cantigas de maldizer?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -736,19 +721,17 @@
           "index": 3,
           "title": "Segundo Movimento Literário",
           "description": "Vamos aprender sobre o segundo movimento literário da História.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333131625/759cb297de",
           "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=42",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que estava acontecendo no mundo durante o segundo movimento literário?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -773,7 +756,7 @@
               "title": "Qual é a característica mais importante do movimento Humanismo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -798,7 +781,7 @@
               "title": "Qual é o nome da poesia escrita durante o Humanismo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -827,7 +810,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -854,7 +837,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -883,22 +866,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Características de Humanismo",
           "description": "Características mais importantes do Humanismo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333143366/e68c981f50",
           "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=43",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Onde a poesia era consumida durante o Humanismo?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -923,7 +904,7 @@
               "title": "Qual a principal diferença entre a poesia do Trovadorismo e do Humanismo?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -948,7 +929,7 @@
               "title": "O que é verdade sobre o artificialismo amoroso no Humanismo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -973,7 +954,7 @@
               "title": "O que é medida velha?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1000,19 +981,17 @@
           "index": 2,
           "title": "Gil Vicente",
           "description": "A história de Gil Vicente, autor mais importante do Humanismo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333144267/a8d003a1af",
           "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=44",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que o autor Gil Vicente era considerado?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1037,7 +1016,7 @@
               "title": "Para que o rei utilizava o teatro de Gil Vicente?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1062,7 +1041,7 @@
               "title": "Qual o nome da obra mais importante de Gil Vicente?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1089,19 +1068,17 @@
           "index": 3,
           "title": "Auto da Barca do Inferno",
           "description": "O Auto da Barca do Inferno e a transformação do teatro brasileiro.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333144905/35699f2629",
           "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=45",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Como era o teatro antes de Gil Vicente?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1126,7 +1103,7 @@
               "title": "Qual é a novidade introduzida por Gil Vicente no teatro?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1155,7 +1132,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1182,7 +1159,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1211,22 +1188,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Terceiro Movimento Literário",
           "description": "Vamos conhecer o terceiro movimento literário da História.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333145484/36a967dea6",
           "youtube": "https://www.youtube.com/watch?v=d3Se2uycb6g&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=46",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual o nome do terceiro movimento literário?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1251,7 +1224,7 @@
               "title": "O que é mitologia?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1276,7 +1249,7 @@
               "title": "Qual é o período histórico do Classicismo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1303,19 +1276,16 @@
           "index": 2,
           "title": "Classicismo",
           "description": "O que é Classicismo e quais são suas características principais.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333172090/7d7c00f237",
           "youtube": "https://www.youtube.com/watch?v=CzUtrBks_5c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=47",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é um clássico?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1340,7 +1310,7 @@
               "title": "Qual era a prioridade do Classicismo?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1365,7 +1335,7 @@
               "title": "Como o Classicismo selecionava os melhores poetas?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1392,19 +1362,16 @@
           "index": 3,
           "title": "Versos",
           "description": "A lógica de escrita de versos utilizada pelos poetas do Classicismo.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/333172841/16ab403042",
           "youtube": "https://www.youtube.com/watch?v=DerybTK96dY&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=48",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Como eram chamados os versos durante o Classicismo?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1429,7 +1396,7 @@
               "title": "O que é um soneto?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1458,7 +1425,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1485,7 +1452,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",

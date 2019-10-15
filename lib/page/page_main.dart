@@ -29,7 +29,7 @@ class _PageMainState extends State<PageMain>
 
   /// Listas de Widgets que a bottombar exibirá. Tanto pelos filhos do botao central, quanto
   /// os filhos da bottombar
-  final List<Widget> tabItems = [
+  final List<Widget> listPage = [
     PageHome(),
     PageSearch(),
     PageDownloads(),
@@ -75,7 +75,7 @@ class _PageMainState extends State<PageMain>
         child: Scaffold(
 
           /// Widget que será exibido atravez da seleção da bottombar
-          body: this.isTab ? this.tabItems[currentTabIndex] : this.fabItem,
+          body: this.isTab ? this.listPage[currentTabIndex] : this.fabItem,
           floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
           floatingActionButton: FloatingActionButton(
             backgroundColor: Color(0xffb2208c),

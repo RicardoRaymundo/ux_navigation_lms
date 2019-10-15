@@ -9,13 +9,13 @@ class Data {
   static Data _instance;
 
   /// Lista de cursos que pode ser acessado de qualquer lugar da aplicação
-  /// Data.courses[0].title
-  static List<Course> courses = [];
-  static List<Course> popular = [];
-  static List<Course> available = [];
-  static List<Course> banner = [];
-  static List<Course> continueWatching = [];
-  static List<Course> originals = [];
+  /// Data.listCourses[0].title
+  static List<Course> listCourse = [];
+  static List<Course> listCoursePopular = [];
+  static List<Course> listCourseAvailable = [];
+  static List<Course> listCourseBanner = [];
+  static List<Course> listCourseContinueWatching = [];
+  static List<Course> listCourseOriginals = [];
 
   /// Lista de nomes de cursos que deve ser carregado
   /// TODO:: Implementar lógica para carregar essa lista diretamente do banco de dados
@@ -41,12 +41,13 @@ class Data {
 
     /// Ação que deve ser executada quando terminar de carregar os dados
     void callback(Map<String, Object> value) {
-      Data.courses.add(value['course']);
+      Data.listCourse.add(value['course']);
       if (value['index'] == (value['len'] as int) - 1) {
         next();
       }
 
-      Data.available = Data.banner = Data.continueWatching = Data.originals = Data.popular = Data.courses;
+      Data.listCourseAvailable =
+          Data.listCourseBanner = Data.listCourseContinueWatching = Data.listCourseOriginals = Data.listCoursePopular = Data.listCourse;
     }
 
     /// Intera a lista de identificadores de cursos para carregar seus respectivos dados
@@ -66,7 +67,7 @@ class Data {
   Data._internalConstructor();
 
   /// Inicialiador do loader deve ser executado dentro da classe splashscreen
-  static Data generate(next) {
+  static generate(next) {
     Data.loadData(next);
   }
 }

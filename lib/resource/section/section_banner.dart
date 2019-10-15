@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class SectionBanner extends StatelessWidget {
   final String title;
-  var data;
+  final data;
 
   SectionBanner({this.title, this.data}) : super();
 

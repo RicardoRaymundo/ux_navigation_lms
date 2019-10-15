@@ -4,8 +4,10 @@ import 'package:ux_navigation/ui/ui_svg.dart';
 
 class ChartProgress extends StatelessWidget {
   final double progress;
+  final bool isExpanded;
+  final String time;
 
-  ChartProgress({this.progress = 0.0});
+  ChartProgress({this.progress = 0.0, this.time = '07:25', this.isExpanded = false});
 
   @override
   Widget build(BuildContext context) {
@@ -40,24 +42,39 @@ class ChartProgress extends StatelessWidget {
     }
 
     return Padding(
-      padding: const EdgeInsets.only(top: 17),
+      padding: const EdgeInsets.only(top: 5),
       child: Container(
-        height: 30,
-        width: 70,
+        height: 25,
+        width: 71,
         child: Column(
           children: <Widget>[
-            Container(
-              width: 45,
-              padding: EdgeInsets.fromLTRB(0, 0, 8, 3),
-              child: Text(
-                '$percentage%',
-                textAlign: TextAlign.center,
-                style: Theme.of(context).accentTextTheme.display3,
-              ),
+            Row(
+              children: <Widget>[
+                Container(
+                  width: 45,
+                  padding: EdgeInsets.only(right: 8),
+                  child: Text(
+                    '$time',
+                    textAlign: TextAlign.center,
+                    style: Theme
+                        .of(context)
+                        .accentTextTheme
+                        .display3,
+                  ),
+                ),
+                Container(
+                  width: 20,
+                  child: Icon(
+                    (this.isExpanded ? Icons.keyboard_arrow_up : Icons.keyboard_arrow_down),
+                    size: 20,
+                    color: Colors.white70,
+                  ),
+                ),
+              ],
             ),
             Container(
               height: 4,
-              padding: EdgeInsets.fromLTRB(0, 0, 10, 0),
+              padding: EdgeInsets.only(right: 10),
               child: colorCompleted(this.progress),
             ),
           ],

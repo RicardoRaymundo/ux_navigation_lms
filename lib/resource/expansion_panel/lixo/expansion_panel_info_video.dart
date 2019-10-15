@@ -2,19 +2,19 @@ import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/resource/course/lesson/lesson_activity.dart';
 
-class ExpansionPanelInfoVideo extends StatefulWidget {
+class CourseHeaderInfoVideo extends StatefulWidget {
   final LessonActivity activity;
 
-  ExpansionPanelInfoVideo(this.activity);
+  CourseHeaderInfoVideo(this.activity);
 
   @override
-  _ExpansionPanelInfoVideoState createState() => _ExpansionPanelInfoVideoState(activity);
+  _CourseHeaderInfoVideoState createState() => _CourseHeaderInfoVideoState(activity);
 }
 
-class _ExpansionPanelInfoVideoState extends State<ExpansionPanelInfoVideo> {
+class _CourseHeaderInfoVideoState extends State<CourseHeaderInfoVideo> {
   LessonActivity activity;
 
-  _ExpansionPanelInfoVideoState(this.activity);
+  _CourseHeaderInfoVideoState(this.activity);
 
   @override
   Widget build(BuildContext context) {

@@ -8,7 +8,7 @@ class UILabel {
   static const String WATCH = 'Assistir';
   static const String INFO = 'Info';
 
-  static const String PLACEMENT_TEST = '01 Teste de Nivelamento';
+  static const String PLACEMENT_TEST = 'Teste de Nivelamento';
   static const String FINAL_TEST = 'Teste Final';
 
   ///LOGIN PAGE

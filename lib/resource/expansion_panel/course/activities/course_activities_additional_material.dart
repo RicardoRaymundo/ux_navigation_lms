@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:ux_navigation/resource/chart/chart_box.dart';
-import 'package:ux_navigation/resource/course/lesson/lesson.dart';
+import 'package:ux_navigation/resource/course/lesson/lesson_activity_additional_material.dart';
 import 'package:ux_navigation/ui/ui_svg.dart';
 
-class ExpansionPanelActivitiesLink extends StatelessWidget {
-  Lesson lesson;
+class CourseActivitiesAdditionalMaterial extends StatelessWidget {
+  final LessonActivityAdditionalMaterial lessonActivityAdditionalMaterial;
 
-  ExpansionPanelActivitiesLink({this.lesson});
+  CourseActivitiesAdditionalMaterial({this.lessonActivityAdditionalMaterial});
 
   @override
   Widget build(BuildContext context) {
@@ -46,7 +46,7 @@ class ExpansionPanelActivitiesLink extends StatelessWidget {
         Container(
           width: 32,
           height: 40,
-          child: SvgPicture.asset(UiSVG.ICON_LINK),
+          child: SvgPicture.asset(UiSVG.ICON_DOC),
         ),
         ConstrainedBox(
             constraints: BoxConstraints(maxWidth: widthLeft, minHeight: 40),
@@ -56,10 +56,21 @@ class ExpansionPanelActivitiesLink extends StatelessWidget {
                   child: Container(
                     padding: EdgeInsets.only(top: 18, right: 10),
                     width: width,
-                    child: Text(
-                      'Introdução a fotografia digital',
-                      style: TextStyle(fontSize: 14),
-                      textAlign: TextAlign.left,
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: <Widget>[
+                        Text(
+                          this.lessonActivityAdditionalMaterial.title,
+                          style: TextStyle(fontSize: 13, color: Colors.grey[300]),
+                          textAlign: TextAlign.left,
+                        ),
+                        SizedBox(height: 2),
+                        Text(
+                          this.lessonActivityAdditionalMaterial.description,
+                          style: TextStyle(fontSize: 12, color: Colors.grey[500]),
+                          textAlign: TextAlign.left,
+                        ),
+                      ],
                     ),
                   ),
                 )

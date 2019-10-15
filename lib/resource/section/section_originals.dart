@@ -6,10 +6,10 @@ import 'package:ux_navigation/resource/transition/custom_transition_animations.d
 import 'package:ux_navigation/resource/transition/resource_custom_navigator.dart';
 
 class SectionOriginals extends StatefulWidget {
-  String title;
-  List<Course> data;
+  final String title;
+  final List<Course> listCourse;
 
-  SectionOriginals({this.title, this.data}) : super();
+  SectionOriginals({this.title, this.listCourse});
 
   @override
   _SectionOriginalsState createState() => _SectionOriginalsState();
@@ -33,7 +33,7 @@ class _SectionOriginalsState extends State<SectionOriginals> {
             child: ListView(
               padding: EdgeInsets.only(right: 6),
               scrollDirection: Axis.horizontal,
-              children: makeContainers(context),
+              children: generateSectionOriginals(context),
             ),
           )
         ],
@@ -41,19 +41,19 @@ class _SectionOriginalsState extends State<SectionOriginals> {
     );
   }
 
-  List<Widget> makeContainers(context) {
+  List<Widget> generateSectionOriginals(context) {
     Function selectedAnimation = CustomTransitionAnimations.slideTransitionLeft;
 
-    List<Container> movieList = [];
-    int len = widget.data.length;
+    List<Widget> listWidgetMovie = [];
+    int len = widget.listCourse.length;
     for (int i = 0; i < len; i++) {
-      movieList.add(Container(
+      listWidgetMovie.add(Container(
           padding: EdgeInsets.all(5),
           margin: EdgeInsets.only(right: 10, top: 10),
           width: 200,
           child: GestureDetector(
             onTap: () {
-              CustomNavigator.push(context, PageInfoMain(data: widget.data[i]), selectedAnimation);
+              CustomNavigator.push(context, PageInfoMain(data: widget.listCourse[i]), selectedAnimation);
             },
             child: Image(
               image: AssetImage("assets/images/" + (i + 1).toString() + ".jpg"),
@@ -61,6 +61,6 @@ class _SectionOriginalsState extends State<SectionOriginals> {
             ),
           )));
     }
-    return movieList;
+    return listWidgetMovie;
   }
 }

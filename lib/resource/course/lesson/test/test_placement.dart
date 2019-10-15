@@ -5,7 +5,7 @@ class TestPlacement {
   String title;
   String correct;
   int score;
-  List<TestAlternative> alternatives;
+  List<TestAlternative> listAlternatives;
 
   TestPlacement(Map<String, dynamic> data) {
     this._config(data);
@@ -14,16 +14,15 @@ class TestPlacement {
   void _config(Map<String, dynamic> data) {
     int lenAlternatives = data['alternatives'].length;
 
-    // Converte o List<Map<String, dynamic> em uma List<TestPlacement>.
-    final List<TestAlternative> listData = List.generate(lenAlternatives, (i) {
+    final List<TestAlternative> listAlternativesData = List.generate(lenAlternatives, (i) {
       return TestAlternative.generate(data['alternatives'][i]);
     });
 
-    this.id = data['id'] as String;
-    this.title = data['title'] as String;
-    this.correct = data['correct'] as String;
+    this.id = data['id'];
+    this.title = data['title'];
+    this.correct = data['correct'];
     this.score = data['score'] as int;
-    this.alternatives = listData;
+    this.listAlternatives = listAlternativesData;
   }
 
   factory TestPlacement.generate(Map<String, dynamic> data) {

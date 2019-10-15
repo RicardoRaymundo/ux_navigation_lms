@@ -60,35 +60,35 @@ class Util {
     int hour = temp;
     int day = newDay;
 
-    List<String> result = [];
+    List<String> listResult = [];
     if (day > 0) {
       if (day.toString().length == 2) {
-        result.add(day.toString());
+        listResult.add(day.toString());
       } else {
-        result.add('0' + day.toString());
+        listResult.add('0' + day.toString());
       }
     }
 
     if (hour > 0) {
       if (hour.toString().length == 2) {
-        result.add(hour.toString());
+        listResult.add(hour.toString());
       } else {
-        result.add('0' + hour.toString());
+        listResult.add('0' + hour.toString());
       }
     }
 
     if (minute.toString().length == 2) {
-      result.add(minute.toString());
+      listResult.add(minute.toString());
     } else {
-      result.add('0' + minute.toString());
+      listResult.add('0' + minute.toString());
     }
 
     if (second.toString().length == 2) {
-      result.add(second.toString());
+      listResult.add(second.toString());
     } else {
-      result.add('0' + second.toString());
+      listResult.add('0' + second.toString());
     }
 
-    return result.join(':');
+    return listResult.join(':');
   }
 }

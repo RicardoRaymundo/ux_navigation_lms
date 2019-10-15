@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "fffffffff",
   "title": "Matemática",
   "description": "Você sabia que todos os computadores operam baseados em modelos matemáticos chamados de funções? No século da automação, as funções te ajudam a compreender o funcionamento do mundo à sua volta. Vamos explorar conceitos e aplicabilidades práticas, desenvolver algumas operações e aprender como identificá-las em casos concretos.",
   "author": "João Batista",
@@ -13,22 +13,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Conjuntos simples",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329803993/2b514f49a3",
           "youtube": "https://www.youtube.com/watch?v=nbenA-xPz4w&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=49",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Do que são formados os conjuntos?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -53,7 +51,7 @@
               "title": "Quais são as linguagens dos conjuntos?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -80,19 +78,17 @@
           "index": 2,
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329805004/6024d9d5c1",
           "youtube": "https://www.youtube.com/watch?v=RE0JuMuuV2c&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=50",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que são conjuntos unitários?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -117,7 +113,7 @@
               "title": "O que é um conjunto universo?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -146,7 +142,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -173,7 +169,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -202,22 +198,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Conjuntos das partes e Subconjuntos",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329805820/b3e24e3269",
           "youtube": "https://www.youtube.com/watch?v=50v8RLFuCBI&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=51",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual das afirmações está correta?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -244,19 +238,17 @@
           "index": 2,
           "title": "Espécies de operações",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329806660/86a946f5c5",
           "youtube": "https://www.youtube.com/watch?v=TD9zA0QdED4&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=52",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Do que se trata a intersecção de conjuntos? ",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -281,7 +273,7 @@
               "title": "Do que se trata conjuntos complementares?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -310,7 +302,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -337,7 +329,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -366,22 +358,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Conjuntos numéricos",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329807861/db9117c4e6",
           "youtube": "https://www.youtube.com/watch?v=ma_jYoNsI2A&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=53",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Do que se trata o conjunto dos números inteiros?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -406,7 +396,7 @@
               "title": "Por que existe o conjunto de números racionais?",
               "correct": "2",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -433,19 +423,17 @@
           "index": 2,
           "title": "Derivados",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329808898/7d74b3cb7d",
           "youtube": "https://www.youtube.com/watch?v=Oo5EiHyBTcs&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=54",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Em que consistem os números irracionais?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -470,7 +458,7 @@
               "title": "Em que consiste o conjunto de números reais?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -499,7 +487,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -526,7 +514,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -555,22 +543,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329810552/bbd68d87a3",
           "youtube": "https://www.youtube.com/watch?v=YkzDO5vvrHQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=56",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Em que consistem as relações binárias?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -595,7 +581,7 @@
               "title": "Qual das afirmativas é correta?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -622,19 +608,17 @@
           "index": 2,
           "title": "Conceituação técnica",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329809786/2b6a304171",
           "youtube": "https://www.youtube.com/watch?v=vvqk_Y_35eU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=55",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual das afirmativas pode ser considerada correta?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -659,7 +643,7 @@
               "title": "Basicamente, como é formado um plano cartesiano?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -688,7 +672,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -715,7 +699,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -744,22 +728,20 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
+
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329811425/995b23f285",
           "youtube": "https://www.youtube.com/watch?v=WvuBksLCvP0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=57",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Em que consiste o produto cartesiano?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -784,7 +766,7 @@
               "title": "Qual das afirmativas é correta?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -811,19 +793,17 @@
           "index": 2,
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329812445/e938cc44ad",
           "youtube": "https://www.youtube.com/watch?v=Wy8xCx98PUQ&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=58",
-          "image": "",
+
           "test_comprehension": [
             {
               "id": "1",
               "title": "Em funções, o que significa a imagem?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -848,7 +828,7 @@
               "title": "Em funções, o que significa domínio?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -877,7 +857,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -904,7 +884,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -933,22 +913,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Funções de primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329813423/4d132cc5ad",
           "youtube": "https://www.youtube.com/watch?v=JzDaCTmPrW0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=59",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Em que consiste uma função de primeiro-grau do ponto de vista geométrico?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -973,7 +949,7 @@
               "title": "Em que consiste uma função do segundo-grau do ponto de vista geométrico?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1000,19 +976,16 @@
           "index": 2,
           "title": "Como identificar funções do primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329815188/3f44dccac2",
           "youtube": "https://www.youtube.com/watch?v=f80GSRemVJ0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=60",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quais podem ser chamadas de espécies exóticas de funções? ",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1037,7 +1010,7 @@
               "title": "Qual das afirmações é correta?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1066,7 +1039,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1093,7 +1066,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1122,22 +1095,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Conceito e aplicabilidade",
           "description": "Conceito, como identificá-las e suas aplicabilidades.",
-          "number": 0,
-          "part": 0,
           "duration": "00:15",
           "vimeo": "https://vimeo.com/329816024/b981c8128c",
           "youtube": "https://www.youtube.com/watch?v=yP1uBmSJCM4&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=61",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que as funções são ótimas em fazer?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1162,7 +1131,7 @@
               "title": "Em que consiste a função composta?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1191,7 +1160,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1218,7 +1187,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",

@@ -5,25 +5,31 @@ class TestComprehension {
   String title;
   String correct;
   int score;
-  List<TestAlternative> alternatives;
+  String timePosition;
+
+  List<TestAlternative> listAlternatives;
 
   TestComprehension(Map<String, dynamic> data) {
     this._config(data);
   }
 
   void _config(Map<String, dynamic> data) {
-    int lenAlternatives = data['alternatives'].length;
+    List<TestAlternative> listAlternativesData = [];
 
-    // Converte o List<Map<String, dynamic> em uma List<TestComprehension>.
-    final List<TestAlternative> listData = List.generate(lenAlternatives, (i) {
-      return TestAlternative.generate(data['alternatives'][i]);
-    });
+    //Verifica se recebeu lista de arternativas para registrar no teste de compreensão
+    if (data['alternatives'] != null) {
+      int lenAlternatives = data['alternatives'].length;
+      listAlternativesData = List.generate(lenAlternatives, (i) {
+        return TestAlternative.generate(data['alternatives'][i]);
+      });
+    }
 
-    this.id = data['id'] as String;
-    this.title = data['title'] as String;
-    this.correct = data['correct'] as String;
+    this.id = data['id'];
+    this.title = data['title'];
+    this.correct = data['correct'];
     this.score = data['score'] as int;
-    this.alternatives = listData;
+    this.timePosition = data['time_position'];
+    this.listAlternatives = listAlternativesData;
   }
 
   factory TestComprehension.generate(Map<String, dynamic> data) {

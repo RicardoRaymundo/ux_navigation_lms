@@ -8,6 +8,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.3.0"
+  async_loader:
+    dependency: "direct main"
+    description:
+      name: async_loader
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.1.2"
   boolean_selector:
     dependency: transitive
     description:
@@ -54,7 +61,7 @@ packages:
       name: flutter_svg
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.14.1"
+    version: "0.14.2"
   flutter_test:
     dependency: "direct dev"
     description: flutter

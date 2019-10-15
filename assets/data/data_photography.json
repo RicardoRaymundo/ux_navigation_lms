@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "gggggggg",
   "title": "Fotografia",
   "description": "Você é daquelas pessoas que curte tirar fotos para o Instagram, mas nunca acerta o ângulo ou a luz para a fotografia perfeita? Então, se prepare e coloca o capacete!",
   "author": "Felipe Tiê",
@@ -16,7 +16,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -40,22 +40,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "(Primeiros passos) Fotografia",
           "description": "Vamos descobrir o significado de PHOTO-GRAFIA?",
-          "number": 0,
-          "part": 0,
           "duration": "02:57",
           "vimeo": "https://vimeo.com/329821479/57a50d4e25",
           "youtube": "https://www.youtube.com/watch?v=CVP2TX7xd68&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=79",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é fotografia para você?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -80,7 +76,7 @@
               "title": "Qual é a função da fotografia?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -105,7 +101,7 @@
               "title": "Qual foi a graduação em que o professor se formou?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -130,7 +126,7 @@
               "title": "Segundo o professor, o que significa a palavra PHOTO?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -157,19 +153,16 @@
           "index": 2,
           "title": "Raios invisíveis",
           "description": "Você sabia que existem vários tipos de raios invisíveis ao olho humano?",
-          "number": 0,
-          "part": 0,
           "duration": "02:48",
           "vimeo": "https://vimeo.com/329817402/d1e9dd8165",
           "youtube": "https://www.youtube.com/watch?v=klvstVNHU0E&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=78",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que significa ultravioleta?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -194,7 +187,7 @@
               "title": "O que é o SOL?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -219,7 +212,7 @@
               "title": "Segundo o professor, quais são as 3 principais cores do espectro visível de luz?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -244,7 +237,7 @@
               "title": "Quais são as siglas em inglês que definem as principais cores de um espectro de luz?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -271,19 +264,16 @@
           "index": 3,
           "title": "Reflexo",
           "description": "Você sabia que tudo que visualizamos é refletido no nosso consciente de ponta cabeça?",
-          "number": 0,
-          "part": 0,
           "duration": "03:41",
           "vimeo": "https://vimeo.com/329818536/ca0e5612b9",
           "youtube": "https://www.youtube.com/watch?v=LBEB30-1srY&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=77",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quantos olhos um humano normal deve ter?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -308,7 +298,7 @@
               "title": "Qual é a função dos olhos no corpo humano?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -333,7 +323,7 @@
               "title": "Segundo o professor, dentro dos nossos olhos existe uma lente que também pode ser chamada de...?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -358,7 +348,7 @@
               "title": "Existe uma cor dentro do espectro de luz que reflete todas as outras cores. Qual é esta cor?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -387,7 +377,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -419,7 +409,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -442,23 +432,19 @@
       ],
       "activities": [
         {
-          "id": "",
-          "index": 1,
+          "id": "tyrtyertyertydfgh",
           "title": "O inventor",
           "description": "Você sabia que as cores das marcas têm significado?",
-          "number": 0,
-          "part": 0,
           "duration": "02:32",
           "vimeo": "https://vimeo.com/329819774/26bdec7a8a",
           "youtube": "https://www.youtube.com/watch?v=0mjSfiVN46A&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=76",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Quem criou a Fotografia?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position;": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -483,7 +469,7 @@
               "title": "Quando foi reconhecida a primeira fotografia?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -508,7 +494,7 @@
               "title": "Quantas cores diferentes o professor apresentou nessa aula?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -533,7 +519,7 @@
               "title": "O famoso restaurante McDonald's está classificado em qual categoria de cor?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -557,15 +543,16 @@
           "weblink": [
             {
               "id": "",
-              "title": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
+              "time_position": "1:25",
               "test_placement": [
                 {
                   "id": "",
                   "title": "",
                   "correct": "",
                   "score": 0,
-                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "",
@@ -577,29 +564,6 @@
                     },
                     {
                       "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_comprehension": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
                       "title": ""
                     }
                   ]
@@ -611,7 +575,6 @@
                   "title": "",
                   "correct": "a",
                   "score": 0,
-                  "time": "00:00",
                   "alternatives": [
                     {
                       "id": "a",
@@ -632,16 +595,17 @@
           ],
           "additional_material": [
             {
-              "id": "",
-              "title": "",
-              "href": "",
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
               "test_placement": [
                 {
                   "id": "",
                   "title": "",
                   "correct": "",
                   "score": 0,
-                  "time": "00:00",
+                  "time_position": "00:00",
                   "alternatives": [
                     {
                       "id": "",
@@ -653,29 +617,6 @@
                     },
                     {
                       "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_comprehension": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
                       "title": ""
                     }
                   ]
@@ -687,7 +628,7 @@
                   "title": "",
                   "correct": "a",
                   "score": 0,
-                  "time": "00:00",
+                  "time_position": "00:00",
                   "alternatives": [
                     {
                       "id": "a",
@@ -712,19 +653,16 @@
           "index": 2,
           "title": "Cores",
           "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-          "number": 0,
-          "part": 0,
           "duration": "03:00",
           "vimeo": "https://vimeo.com/329820310/373ce8e145",
           "youtube": "https://www.youtube.com/watch?v=mSgyrA7TFiI&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=75",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo o vídeo anterior, qual cor transmite segurança?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -749,7 +687,7 @@
               "title": "No vídeo, em qual categoria de cor está a famosa empresa de refrigerantes Coca-Cola?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -774,7 +712,7 @@
               "title": "Quais são as principais cores que, quando misturadas, dão origem às outras cores?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -799,7 +737,7 @@
               "title": "Qual dessas empresas está classificada na cor roxa?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -826,19 +764,16 @@
           "index": 3,
           "title": "Cores quentes e frias",
           "description": "Sabia que as cores também são classificadas como cores quentes e cores frias?",
-          "number": 0,
-          "part": 0,
           "duration": "02:43",
           "vimeo": "https://vimeo.com/329820947/7b71b33886",
           "youtube": "https://www.youtube.com/watch?v=HluX0UqytVk&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=74",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Dessas categorias de cores, qual faz parte das cores primárias?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -863,7 +798,7 @@
               "title": "Dessas categorias de cores, quais fazem parte das cores secundárias?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -888,7 +823,7 @@
               "title": "Segundo o vídeo, a cor vermelha traz qual referência?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -913,7 +848,7 @@
               "title": "Segundo o vídeo, a cor verde traz qual referência?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -942,7 +877,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -968,25 +903,48 @@
       "id": "3",
       "title": "Tudo sobre a luz",
       "description": "Descobrindo os segredos da luz na fotografia e como utilizar o flash.",
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "A luz perfeita",
           "description": "Quer saber qual é a melhor luz para a foto perfeita?",
-          "number": 0,
-          "part": 0,
           "duration": "03:41",
           "vimeo": "https://vimeo.com/329821479/57a50d4e25 ",
           "youtube": "https://www.youtube.com/watch?v=Kdm2Op_fGIM&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=73",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo a aula anterior, qual é a cor que remete a paz?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1011,7 +969,7 @@
               "title": "Ainda no mundo das cores, o que significa dramaticidade de cor?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1036,7 +994,7 @@
               "title": "Qual é a melhor luz para uma foto?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1061,7 +1019,7 @@
               "title": "Qual é a função de um difusor?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1088,19 +1046,16 @@
           "index": 2,
           "title": "Difusor",
           "description": "Saiba aproveitar os benefícios de um difusor.",
-          "number": 0,
-          "part": 0,
           "duration": "02:34",
           "vimeo": "https://vimeo.com/329822314/04287e478a",
           "youtube": "https://www.youtube.com/watch?v=i6vSxJrssTo&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=72",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo o professor, dentro de casa, temos um objeto que pode ser usado como difusor. Que objeto é esse?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1125,7 +1080,7 @@
               "title": "Quando surgiu a primeira máquina digital?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1150,7 +1105,7 @@
               "title": "No exemplo usado pelo professor, onde tem a foto de uma modelo, qual foi o objetivo do difusor?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1175,7 +1130,7 @@
               "title": "Quais são os pontos negativos de usar lâmpadas que não são de leds em um estúdio de gravação?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1202,19 +1157,16 @@
           "index": 3,
           "title": "Flash",
           "description": "O flash tem um papel fundamental na fotografia. Saiba o porquê!",
-          "number": 0,
-          "part": 0,
           "duration": "01:55",
           "vimeo": "https://vimeo.com/329822880/a995fe615d",
           "youtube": "https://www.youtube.com/watch?v=_TvuOdYu3zg&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=71",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "O que é um Sangan?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1239,7 +1191,7 @@
               "title": "Quem foi o principal inventor da lâmpada?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1264,7 +1216,7 @@
               "title": "O que é um flash?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1289,7 +1241,7 @@
               "title": "Qual é a importância de um flash ao tirar uma foto?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1312,40 +1264,13 @@
           ]
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
       "test_final": [
         {
           "id": "",
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1374,22 +1299,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "As bases da fotografia",
           "description": "Existem várias bases para fotografia. Vamos falar sobre algumas delas?",
-          "number": 0,
-          "part": 0,
           "duration": "03:00",
           "vimeo": "https://vimeo.com/329823294/aa205e1d25",
           "youtube": "https://www.youtube.com/watch?v=L6G5qtEe3yg&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=70",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Como é chamado o time de fotografia que são feitas com jogadores de futebol?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1414,7 +1335,7 @@
               "title": "A fotografia still como é conhecida, também pode ser chamada de fotografia de...?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1441,19 +1362,16 @@
           "index": 2,
           "title": "Tipos de fotografia",
           "description": "Conheça outros tipos de bases para fotografia bem interessantes! #Partiu",
-          "number": 0,
-          "part": 0,
           "duration": "04:11",
           "vimeo": "https://vimeo.com/329823937/d7c087632d",
           "youtube": "https://www.youtube.com/watch?v=5pooBlE-AOA&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=69",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Por que são tão importantes as fotos dos produtos?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1478,7 +1396,7 @@
               "title": "Quantos tipos de fotografia existem?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1503,7 +1421,7 @@
               "title": "Segundo a explicação, fotos de produto também pode ser utilizada para…?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1528,7 +1446,7 @@
               "title": "Como são chamados aqueles objetos “falsos”, para representar algum produto em uma fotografia? ",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1555,19 +1473,16 @@
           "index": 3,
           "title": "Segredo das fotos perfeitas",
           "description": "Descubra os segredos por trás das fotos que deixam água na boca.",
-          "number": 0,
-          "part": 0,
           "duration": "02:41",
           "vimeo": "https://vimeo.com/329825058/c92e2bde11",
           "youtube": "https://www.youtube.com/watch?v=1DsEjY4UoTI&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=68",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo o vídeo anterior, quantas fotos de uma câmera profissional podem ser tiradas em apenas 1 segundo?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1592,7 +1507,7 @@
               "title": "Qual é o objetivo de deixar as fotos de gastronomia com tons mais quentes?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1617,7 +1532,7 @@
               "title": "Como é chamado a fotografia que captura as moléculas, bactérias e fungos?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1646,7 +1561,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1673,7 +1588,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1702,22 +1617,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Telescópio",
           "description": "Já ouviu falar em distribuição espacial para fotografia? Se não, agora você vai!",
-          "number": 0,
-          "part": 0,
           "duration": "02:14",
           "vimeo": "https://vimeo.com/329825758/2df01fbac7",
           "youtube": "https://www.youtube.com/watch?v=VgkYe0QmfHY&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=67",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Como é chamado os equipamentos que conseguimos olhar os planetas?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1742,7 +1653,7 @@
               "title": "Qual é o tipo de fotografia realizada embaixo do mar?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1767,7 +1678,7 @@
               "title": "O que é distribuição espacial?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1792,7 +1703,7 @@
               "title": "O que significa a expressão \"regra dos terços” para a Fotografia?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1819,19 +1730,16 @@
           "index": 2,
           "title": "Fotografia de celular",
           "description": "Quer aprender como tirar uma foto top pelo celular?",
-          "number": 0,
-          "part": 0,
           "duration": "02:44",
           "vimeo": "https://vimeo.com/329826281/40a88faf3c ",
           "youtube": "https://www.youtube.com/watch?v=VzmdmsnnhBE&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=66",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Segundo o professor, no mundo da fotografia “um nada” significa...?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1856,7 +1764,7 @@
               "title": "Também segundo o professor, o que significa um vazio na distribuição espacial?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1883,19 +1791,16 @@
           "index": 3,
           "title": "Peru",
           "description": "Você sabe onde fica o ponto central de uma fotografia?",
-          "number": 0,
-          "part": 0,
           "duration": "02:15",
           "vimeo": "https://vimeo.com/329826967/4b9a0f1a45",
           "youtube": "https://www.youtube.com/watch?v=N2_-VxfMlQ0&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=65",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Onde foi tirado a foto da lhama do vídeo?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1920,7 +1825,7 @@
               "title": "Nesta aula, existe uma foto com um macaco e mais um objeto representando a distribuição espacial. O que é esse objeto?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -1949,7 +1854,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -1976,7 +1881,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -2005,22 +1910,18 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Plano geral",
           "description": "Quer aprender como se posicionar para tirar uma foto bacana? Então, assiste aí!",
-          "number": 0,
-          "part": 0,
           "duration": "03:05",
           "vimeo": "https://vimeo.com/329827528/d47b05efaf ",
           "youtube": "https://www.youtube.com/watch?v=nmvU5QKDl5Q&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=64",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual é a característica da fotografia do plano geral?",
               "correct": "d",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2045,7 +1946,7 @@
               "title": "Em que local do Peru foi tirada a foto do enquadramento plano geral, segundo o professor?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2072,19 +1973,16 @@
           "index": 2,
           "title": "Enquadramento",
           "description": "O que você acha de aprender a enquadrar suas fotos?",
-          "number": 0,
-          "part": 0,
           "duration": "02:35",
           "vimeo": "https://vimeo.com/329828271/d005317e28",
           "youtube": "https://www.youtube.com/watch?v=X_wC3fMz1s8&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=63",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual é a característica da fotografia do plano aberto?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2109,7 +2007,7 @@
               "title": "Na explicação da fotografia de plano médio, qual foi o programa utilizado para exemplificar o modelo fotográfico?",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2136,19 +2034,16 @@
           "index": 3,
           "title": "Fotografando pets",
           "description": "Saiba qual é a melhor estratégia para tirar foto do seu bichinho de estimação.",
-          "number": 0,
-          "part": 0,
           "duration": "02:01",
           "vimeo": "https://vimeo.com/329828895/04aec42cf4",
           "youtube": "https://www.youtube.com/watch?v=15d-bOK1xaU&list=UU7CUcxBnKswWtqcPaWcVRIQ&index=62",
-          "image": "",
           "test_comprehension": [
             {
               "id": "1",
               "title": "Qual é a característica do primeiro plano?",
               "correct": "a",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2173,7 +2068,7 @@
               "title": "Qual é a característica da fotografia em close? ",
               "correct": "b",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2198,7 +2093,7 @@
               "title": "Para economizar verba na produção de um filme, qual é uma das estratégias de plano fotográfico que as produtoras utilizam para gravar um filme por exemplo?",
               "correct": "c",
               "score": 0,
-              "time": "00:00",
+              "time_position": "00:00",
               "alternatives": [
                 {
                   "id": "a",
@@ -2227,7 +2122,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",
@@ -2254,7 +2149,7 @@
           "title": "",
           "correct": "",
           "score": 0,
-          "time": "00:00",
+          "time_position": "00:00",
           "alternatives": [
             {
               "id": "",

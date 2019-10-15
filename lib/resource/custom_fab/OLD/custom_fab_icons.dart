@@ -3,9 +3,11 @@ import 'package:ux_navigation/ui/ui_custom_icons.dart';
 
 // https://stackoverflow.com/questions/46480221/flutter-floating-action-button-with-speed-dail
 class FabWithIcons extends StatefulWidget {
-  FabWithIcons({this.icons, this.onIconTapped});
   final List<IconData> icons;
-  ValueChanged<int> onIconTapped;
+  final ValueChanged<int> onIconTapped;
+
+  FabWithIcons({this.icons, this.onIconTapped});
+
   @override
   State createState() => FabWithIconsState();
 }
@@ -29,9 +31,10 @@ class FabWithIconsState extends State<FabWithIcons> with TickerProviderStateMixi
       mainAxisSize: MainAxisSize.min,
       children: List.generate(widget.icons.length, (int index) {
         return _buildChild(index);
-      }).toList()..add(
-        _buildFab(),
-      ),
+      }).toList()
+        ..add(
+          _buildFab(),
+        ),
     );
   }
 
@@ -45,11 +48,7 @@ class FabWithIconsState extends State<FabWithIcons> with TickerProviderStateMixi
       child: ScaleTransition(
         scale: CurvedAnimation(
           parent: _controller,
-          curve: Interval(
-              0.0,
-              1.0 - index / widget.icons.length / 2.0,
-              curve: Curves.easeOut
-          ),
+          curve: Interval(0.0, 1.0 - index / widget.icons.length / 2.0, curve: Curves.easeOut),
         ),
         child: FloatingActionButton(
           backgroundColor: backgroundColor,
