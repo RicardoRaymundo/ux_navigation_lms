@@ -1,5 +1,5 @@
 {
-  "id": "aaaaaaaa",
+  "id": "5da72654960d0c3ff733b11c",
   "title": "Habilidades do Futuro",
   "description": "Neste curso, falaremos das habilidades necessárias para o mercado de trabalho do futuro. Você sabia que mais da metade das profissões que existem hoje serão extintas nos próximos anos? Cola na grade e vamos desvendar isso juntos!",
   "author": "Camile Just",
@@ -7,12 +7,12 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5da7265e080a4efab51861b3",
       "title": "As 3 Revoluções Humanas",
       "description": "Entendendo como as mudanças sociais transformaram nossa sociedade ao longo da História.",
       "activities": [
         {
-          "id": "",
+          "id": "5da72663bbf1dbcc0da28d70",
           "index": 1,
           "title": "Revolução Agrícola + Era Industrial",
           "description": "Vamos aprender sobre como as mudanças sociais deram origem à sociedade em que vivemos hoje.",
@@ -22,76 +22,76 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da726693a688cda42a1addb",
               "title": "O que foi a Revolução Agrícola?",
-              "correct": "c",
+              "correct": "5da72743315f5ee698b1b258",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7274ce5d37070a498f4bb",
                   "title": "Quando as pessoas começaram a viver de forma civilizada."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72750d90674d5b36c677a",
                   "title": "Quando as pessoas deixaram suas casas nas fazendas para viver nas cidades."
                 },
                 {
-                  "id": "c",
+                  "id": "5da72743315f5ee698b1b258",
                   "title": "Quando as pessoas deixaram de ser nômades e começaram a viver em sociedade, num lugar fixo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7275488777ce8066d4b65",
                   "title": "Quando as pessoas pararam de praticar a agricultura e revolucionaram os empregos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da7275f44db89b105b34ff5",
               "title": "O que foi a Era Industrial?",
-              "correct": "b",
+              "correct": "5da7276cbbd62e0310550b16",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da727774883544797bb3603",
                   "title": "Quando as indústrias se tornaram “donas” de todas as cidades."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7276cbbd62e0310550b16",
                   "title": "Quando as pessoas foram para as cidades e passaram a trabalhar com indústrias e bens materiais."
                 },
                 {
-                  "id": "c",
+                  "id": "5da727774883544797bb3603",
                   "title": "Quando as pessoas começaram a valorizar mais a produção das indústrias do que a produção feita pela agricultura."
                 },
                 {
-                  "id": "d",
+                  "id": "5da727774883544797bb3603",
                   "title": "Quando as indústrias eram a única opção de emprego das pessoas."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da7277dcf8fcf3d910fcfda",
               "title": "Qual das alternativas NÃO representa nenhuma das lógicas da Era Industrial?",
-              "correct": "d",
+              "correct": "5da72786db974a4f8b9d4a32",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7278c8e7d7489ac0dee2d",
                   "title": "Era preciso produzir cada vez mais e em menos tempo para gerar lucro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7278c8e7d7489ac0dee2d",
                   "title": "Poder centralizado, onde uma pessoa mandava e outras obedeciam."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7278c8e7d7489ac0dee2d",
                   "title": "Tempo é mais importante do que dinheiro."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72786db974a4f8b9d4a32",
                   "title": "Não tem para todo mundo."
                 }
               ]
@@ -99,28 +99,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da7279a6d295ee4aa6ffad8",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da727a07cf778fdb2d72193",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da727d80f2869863a01e577",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da727e282aad6e4cf286b5d",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da727e282aad6e4cf286b5d",
                       "title": ""
                     }
                   ]
@@ -128,22 +128,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da727eb9a03fd3b1a217864",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da727f872b7bbf2de7c470a",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da727f872b7bbf2de7c470a",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da727ff29b4c95c0d9bb0d6",
                       "title": ""
                     },
                     {
                       "id": "c",
-                      "title": ""
+                      "title": "5da72807dc2ee4d08007f0d1"
                     }
                   ]
                 }
@@ -152,28 +152,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da7280f080e9c096cd6937d",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da728169ef929c53097a69e",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da7281afc3c4051787d5dc2",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72821d1b28ca392d95ab6",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da728251f05c9d6cb3cd6a0",
                       "title": ""
                     }
                   ]
@@ -181,22 +181,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da7282e961245631c70014f",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da72835fe04e3ba35692c48",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da72835fe04e3ba35692c48",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da7283ba5d1b655a6e09177",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da72843424ceff7d1ac1b8d",
                       "title": ""
                     }
                   ]
@@ -206,7 +206,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da7284a0fac75f7e6d583f0",
           "index": 2,
           "title": "A Era Digital",
           "description": "Vamos aprender mais sobre a era na qual estamos vivendo.",
@@ -216,101 +216,101 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da72852fd0d18c4830986a6",
               "title": "Como a Era Digital começou?",
-              "correct": "b",
+              "correct": "5da7285f0af271320f1cf499",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7285a05b09a10afcb58df",
                   "title": "As coisas que antes eram manuais foram levadas para o mundo digital."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7285f0af271320f1cf499",
                   "title": "A internet foi inventada e, aos poucos, foi se popularizando no mundo."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7286633814b3cef9d3ce3",
                   "title": "Outras tecnologias mais avançadas foram lançadas no mercado."
                 },
                 {
-                  "id": "d",
+                  "id": "5da728692b5ca4f6ab90341a",
                   "title": "As pessoas começaram a se conectar mais entre suas tribos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da72872164dda96f286af68",
               "title": "O que é Economia Colaborativa na prática?",
-              "correct": "c",
+              "correct": "5da7287f9d80680fbc58d298",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7287872eee8985ce2c152",
                   "title": "Pessoas que se juntam para decidir coisas juntas sobre a economia de suas empresas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7287ce8b850ca6f019c2e",
                   "title": "Pessoas que se organizam em comunidades para compartilhar dinheiro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7287f9d80680fbc58d298",
                   "title": "Pessoas conectadas que se juntam em comunidades para discutir, trocar ou colaborar a favor de algo com o que elas se identificam."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72889d3b81c51ad9271ca",
                   "title": "Pessoas que gostam e se interessam pelas mesmas coisas."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da7288dee62ccefa6f0a255",
               "title": "Qual é uma das características mais importantes da Economia Colaborativa?",
-              "correct": "d",
+              "correct": "5da7289fa8ab12a23a70fa70",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72891594ee816f08d2392",
                   "title": "Colaboração"
                 },
                 {
-                  "id": "b",
+                  "id": "5da72896643d5b1abc634b84",
                   "title": "Comunidade"
                 },
                 {
-                  "id": "c",
+                  "id": "5da7289aa8c085bbfcfdff4f",
                   "title": "União"
                 },
                 {
-                  "id": "d",
+                  "id": "5da7289fa8ab12a23a70fa70",
                   "title": "Compartilhamento"
                 }
               ]
             },
             {
-              "id": "4",
+              "id": "5da728adf809d0c198d284a8",
               "title": "Segundo a professora Camile, qual é a semelhança mais importante entre o Uber e o Airbnb?",
-              "correct": "b",
+              "correct": "5da728b639652f2d6ac7c367",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da728b2db6a4bd6cf46104c",
                   "title": "Os dois são aplicativos que surgiram com a Era Digital."
                 },
                 {
-                  "id": "b",
+                  "id": "5da728b639652f2d6ac7c367",
                   "title": "Os dois conectam pessoas desconhecidas para compartilhar coisas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da728bd81c86e90f1be0b8b",
                   "title": "Os dois são startups que utilizam tecnologia como produto."
                 },
                 {
-                  "id": "d",
+                  "id": "5da728c1726daf916d8767b7",
                   "title": "Os dois se tornaram populares durante a Era Digital."
                 }
               ]
@@ -318,28 +318,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da728c85ae6241ef231f88f",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da728ce89754cd779f80a94",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da728d76514e32e0d605112",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da728e10d6fe2227212afed",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da728e6a1ea134e0b760d78",
                       "title": ""
                     }
                   ]
@@ -347,21 +347,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da728ea6f9fbe8cdd5534e1",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da728f203d41300322bc8c6",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da728f203d41300322bc8c6",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da728fa045c7dfdaec5da0c",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da728feb38eb70cf6475a27",
                       "title": ""
                     }
                   ]
@@ -371,28 +371,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da7290ab10b63310c69920a",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da7290f3ae3037dc81842c6",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da729138a71c35d0dde5682",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72917263669ba3fd20ee9",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7291a1d8855200db89759",
                       "title": ""
                     }
                   ]
@@ -400,22 +400,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da72921d2749785c66de9b3",
                   "title": "",
                   "correct": "a",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da7292600073a4216937e98",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da7292a6e9c19d66e1baf1e",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da7292ef6038dbea1895e50",
                       "title": ""
                     }
                   ]
@@ -425,7 +425,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da72934536a2de15d5dafd2",
           "index": 3,
           "title": "Características da nova economia",
           "description": "Vamos aprender mais sobre a nova economia e suas características principais.",
@@ -435,101 +435,101 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da7293a051b0a1dc8f14cfe",
               "title": "Qual é o princípio da Economia Criativa?",
-              "correct": "a",
+              "correct": "5da729403bb40febc24b8f28",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da729403bb40febc24b8f28",
                   "title": "A matéria prima intelectual é mais importante e mais valorosa do que a matéria prima física, como o petróleo e os produtos industriais."
                 },
                 {
-                  "id": "b",
+                  "id": "5da729482cf3db8e08aefd9d",
                   "title": "O que sabemos é mais relevante do que aquilo que possuímos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7294c92ba364363c2317a",
                   "title": "Produtos industriais são inferiores ao conhecimento e ao intelecto."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7294f5f63b0570ba53c9e",
                   "title": "A criatividade nos torna mais competentes para solucionar problemas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da7295786fba989fbdff5f1",
               "title": "Quais são os três componentes da \"nova economia\"?",
-              "correct": "d",
+              "correct": "5da729685ad67f46d6af6a58",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7295d51512c96341e942b",
                   "title": "Economia Criativa, Economia Tradicional e Economia Colaborativa."
                 },
                 {
-                  "id": "b",
+                  "id": "5da729602484e86c293eb851",
                   "title": "Economia Compartilhada, Economia Comunitária e Economia Criativa."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7296449725606587b91a4",
                   "title": "Economia Colaborativa, Economia Criativa e Economia Industrial."
                 },
                 {
-                  "id": "d",
+                  "id": "5da729685ad67f46d6af6a58",
                   "title": "Economia Colaborativa, Economia Compartilhada e Economia Criativa."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da7297080dcf54dfdce0c9f",
               "title": "Quais eram os centros de comunicação e conteúdo anteriores à Era Digital?",
-              "correct": "c",
+              "correct": "5da7297b997e4dc7ddbdf9c3",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72974bdd5aa29c92955a9",
                   "title": "Apenas os jornais."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72978f75c7bc84183a713",
                   "title": "Jornais, revistas e tudo que era feito de papel."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7297b997e4dc7ddbdf9c3",
                   "title": "Jornais, redes de televisão e indústria cinematográfica."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7298110ea142bc8a65245",
                   "title": "Rádios e televisão."
                 }
               ]
             },
             {
-              "id": "4",
+              "id": "5da7298715a4324946f279e6",
               "title": "Qual é a característica mais importante da comunicação na Era Digital?",
-              "correct": "d",
+              "correct": "5da7299687b0210af99e4d05",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7298af7233ec6ab89d03a",
                   "title": "Redes sociais e blogs dominam a comunicação na Era Digital."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7298e2fe39999522d0173",
                   "title": "Podemos comunicar através de textos, vídeos, entre outros."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7299217730b85d53fd807",
                   "title": "A comunicação não acontece mais pelos jornais e televisão, mas só pela internet."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7299687b0210af99e4d05",
                   "title": "Todos nós podemos ser centros de conteúdo. Não é preciso ser da televisão para publicar um vídeo, nem ser jornalista para escrever sobre as coisas."
                 }
               ]
@@ -537,28 +537,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da72de24a088559a3ac6444",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da72dee413d4794fb31719c",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da72df3d7f07ea69377b164",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72df75fcd4f1088c7510e",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72dfb97f46848bf0f9c69",
                       "title": ""
                     }
                   ]
@@ -566,21 +566,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da72e030930a1a18982580e",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da72e0869081f2325d81bba",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da72e0869081f2325d81bba",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da72e0da215daf561fa1115",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da72e11052a7e2071157271",
                       "title": ""
                     }
                   ]
@@ -590,28 +590,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da72e1859dd2f621edd030c",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da72e20e671ffc04d6793bc",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da72e2739e7a1efc82f8999",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72e2c9d2166b20856b725",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72e2fd9f7403797ee6de1",
                       "title": ""
                     }
                   ]
@@ -619,22 +619,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da72e37d7c39390b4ac84ac",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da72e3a640b9274c715ac11",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da72e3a640b9274c715ac11",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da72e3f94faea2ca56ace49",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da72e43b7424c79f2c54207",
                       "title": ""
                     }
                   ]
@@ -647,26 +647,26 @@
       ],
       "test_placement": [
         {
-          "id": "",
+          "id": "5da72e4bb0ca9493636117d7",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da72e4ff8a9a22d7127189a",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da72e5358149a0533365feb",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da72e56b6e688ba705c1b02",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da72e59411fb46145d7a3ea",
               "title": ""
             }
           ]
@@ -674,26 +674,26 @@
       ],
       "test_final": [
         {
-          "id": "",
+          "id": "5da72e5e1cc138c296331004",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da72e631c709cf7399179d7",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da72e6694ebf8f61caedea2",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da72e6a154931091fb6c18d",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da72e6d1b48050c321a3958",
               "title": ""
             }
           ]
@@ -701,12 +701,12 @@
       ]
     },
     {
-      "id": "2",
+      "id": "5da72e72cebb44a2fc51560e",
       "title": "As Tendências do Trabalho",
       "description": "Conhecendo algumas das tendências do mercado de trabalho na Era Digital.",
       "activities": [
         {
-          "id": "",
+          "id": "5da72e76be9b3008599ccbf5",
 
           "title": "Emprego x Trabalho",
           "description": "Vamos entender a diferença entre emprego e trabalho.",
@@ -716,49 +716,49 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da72e7d367c424b7ea7d584",
               "title": "O que é emprego?",
-              "correct": "b",
+              "correct": "5da72e81415cf1ffdcc40576",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72e87ce4ce25f8f9b6f07",
                   "title": "É aquilo que você é obrigado a fazer apenas para ganhar um salário."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72e81415cf1ffdcc40576",
                   "title": "É aquilo que você faz no seu cotidiano de maneira formal, seguindo um horário específico e ganhando em troca do seu esforço."
                 },
                 {
-                  "id": "c",
+                  "id": "5da72e8a9c12ad659b8a4832",
                   "title": "É aquilo que você faz com contrato, mas não necessariamente ganhando um salário."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72e8da17ba6747c045f40",
                   "title": "É aquilo que você faz com um chefe ou de forma independente."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da72e9312d07af73fe094a6",
               "title": "O que é trabalho?",
-              "correct": "a",
+              "correct": "5da72e9800a9e4b3a3fdc6dc",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72e9800a9e4b3a3fdc6dc",
                   "title": "Produzir algo que tem a ver com você, que você gosta, que acrescenta algo ao mundo e que também pode te dar dinheiro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72e9d7fcf9dbaa2dfc530",
                   "title": "Produzir algo que não tem nada a ver com a sua profissão formal."
                 },
                 {
-                  "id": "c",
+                  "id": "5da72e9f0de64477c3b6586b",
                   "title": "Produzir algo que não tem a ver com o que você gosta, mas acrescenta algo ao mundo e te dá propósito."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72ea2d586a37c1d5973e2",
                   "title": "Produzir algo dentro de um emprego formal com salário fixo."
                 }
               ]
@@ -766,28 +766,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da72ea9d7161c5930d5d6ae",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da72eac85501b3e3f214dec",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da72eb06847eecfc775b63b",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72eb3e94a40e3721f9d34",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72eb6d0852f9a03ccefdc",
                       "title": ""
                     }
                   ]
@@ -795,21 +795,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da72ebdb5cc190ad7bf9930",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da72ec0d7593b9e6d48d58c",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da72ec0d7593b9e6d48d58c",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da72ec5e93c47ad3a8e31a4",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da72ec9a29ab1dcc4266275",
                       "title": ""
                     }
                   ]
@@ -819,28 +819,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da72ecf1b26ace7961c1576",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da72ed5e2bb7ebb9eb0e9f8",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da72ed887e687651d341a90",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72edb82ee52ec9391cabf",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da72edef5583777c630bb6b",
                       "title": ""
                     }
                   ]
@@ -848,22 +848,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da72ee260fd14b206006b8e",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da72ee61f95eaddcd7a55bf",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da72ee61f95eaddcd7a55bf",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da72eea3df69b74fe93884e",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da72eedaf79de141b9c3cea",
                       "title": ""
                     }
                   ]
@@ -873,7 +873,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da72ef1d8286621449db00c",
           "index": 2,
           "title": "A Economia Freelancer",
           "description": "Vamos aprender as características dessa economia e como é possível trabalhar sem ter um emprego.",
@@ -883,73 +883,73 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da72ef5747d932b3d762ff9",
               "title": "O que é a Gig Economy ou Economia Freelancer?",
-              "correct": "d",
+              "correct": "5da72efa7d9f080e61db97e8",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72f00aead5f89e8b12032",
                   "title": "Trabalhos aleatórios e mal remunerados."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72f04f4ecf707392dbe80",
                   "title": "É a forma de trabalho dos profissionais que não conseguem um emprego e precisam trabalhar fora das empresas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da72f08fb5d896cffd497c7",
                   "title": "Um modelo de trabalho utilizado dentro das empresas para dar autonomia e liberdade."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72efa7d9f080e61db97e8",
                   "title": "O futuro do trabalho, em que as pessoas não possuem um único emprego, mas ainda assim têm um trabalho."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da72f0e4cb8073557daa9e7",
               "title": "O que o Freelancer faz?",
-              "correct": "b",
+              "correct": "5da72f12dc31c336d4d691f5",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72f1b489e68c35a945303",
                   "title": "Trabalha em projetos diferentes fora da sua profissão."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72f12dc31c336d4d691f5",
                   "title": "Trabalha em diversas áreas, atuando em projetos que são como vários empregos diferentes de curta duração."
                 },
                 {
-                  "id": "c",
+                  "id": "5da72f21903da0fe31f5b1ee",
                   "title": "Além de seu emprego, também faz bicos nas horas extras."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72f241e3a91b91cf95fde",
                   "title": "Tem mais de um emprego ao mesmo tempo."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da72f2a79220db8689197d1",
               "title": "Qual é a diferença entre empreender e ter uma empresa?",
-              "correct": "a",
+              "correct": "5da72f32b5cb54d28d4c17d4",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da72f32b5cb54d28d4c17d4",
                   "title": "Ter uma empresa envolve ser líder e trabalhar com diversas pessoas. Empreender é possível sem ter uma empresa e trabalhando sozinho."
                 },
                 {
-                  "id": "b",
+                  "id": "5da72f3da26c35c1c3f14990",
                   "title": "Ter uma empresa envolve possuir registro e um lugar físico. Empreender não requer formalidades."
                 },
                 {
-                  "id": "c",
+                  "id": "5da72f40cd8f665bbb027b89",
                   "title": "Ter uma empresa envolve ser chefe de vários funcionários. Empreender é criar seu próprio negócio sem chefe."
                 },
                 {
-                  "id": "d",
+                  "id": "5da72f4359d431f9369bf13d",
                   "title": "Ter uma empresa é o mesmo que ter um emprego. Empreender é ter o único jeito de ter um trabalho."
                 }
               ]
@@ -964,21 +964,21 @@
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da731eaad6db9c2602bf463",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da731ee95604e9c5bf87e91",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da731f1b25d5e3f20fc76a2",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da731f6b8961e76855fc572",
                       "title": ""
                     }
                   ]
@@ -986,21 +986,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da731fc670bf1b7158adf84",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73205d26057279647286a",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73205d26057279647286a",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da7320e52f8337338a6b2dd",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73211281bd17b926a3c17",
                       "title": ""
                     }
                   ]
@@ -1010,28 +1010,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da7321d0d826d13845928ec",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da7322379198b8a39e5f222",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da732269662382a96f0df2d",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7322a20f514867b04d5e0",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7322d5ed8cc4bff187eff",
                       "title": ""
                     }
                   ]
@@ -1039,22 +1039,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da732337a0e0ea8051076ad",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da732391ac1902d866434ca",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da732391ac1902d866434ca",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da7323cd1e610e2449326ff",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da732419be94c893d456a9b",
                       "title": ""
                     }
                   ]
@@ -1064,7 +1064,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da7324829361a8fc3e66bd5",
           "index": 3,
           "title": "Novos negócios do futuro",
           "description": "Vamos entender a origem dos novos tipos de negócio e do que é preciso para empreender.",
@@ -1074,49 +1074,49 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da7324eb818b84949315231",
               "title": "Como os novos negócios surgem?",
-              "correct": "b",
+              "correct": "5da732530badb6ad278493e4",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7325dfb2628fa58139ce0",
                   "title": "A partir dos erros das empresas antigas e tradicionais. Por exemplo, as indústrias."
                 },
                 {
-                  "id": "b",
+                  "id": "5da732530badb6ad278493e4",
                   "title": "A partir de novas necessidades dos consumidores. Por exemplo, não ter tempo para passear com o cachorro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da732605fc15b103093f330",
                   "title": "A partir das tendências da internet. Por exemplo, os novos meios de comunicação."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73264ec1b9167604818ed",
                   "title": "A partir das ideias das pessoas que começam a empreender. Por exemplo, a nova economia."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da7326a46e0eaa3b8b7f7fd",
               "title": "O que é preciso para começar a empreender?",
-              "correct": "c",
+              "correct": "5da7326fadc2a68cfd141a6d",
               "score": 0,
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73274ec5350cc30d4f21c",
                   "title": "Ter um registro oficial como empreendedor."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73278a79191317b902d62",
                   "title": "Ter todas as habilidades necessárias para o futuro do trabalho."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7326fadc2a68cfd141a6d",
                   "title": "Ter clareza do que gosta de fazer, das habilidades principais e estar disposto a dedicar tempo a isso."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7327c1026c8ed54c5c6c0",
                   "title": "Ter vontade."
                 }
               ]
@@ -1124,28 +1124,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da732844c25351c98e2b629",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73289ebf565c0b63b09c8",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da7328ca0e40b61d1a2137a",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7328f73f5601556746f25",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da732935b5129b9ade79eb1",
                       "title": ""
                     }
                   ]
@@ -1153,21 +1153,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73299360f62412406d7ee",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da7329e7372960eecfd336b",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da7329e7372960eecfd336b",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da732a24126e08c011fcd45",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da732a746ad38503518166a",
                       "title": ""
                     }
                   ]
@@ -1177,28 +1177,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da732ac5db0f3703caffb07",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da732b1f130e87fe6214a83",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da732b614bf465be0230586",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da732ba66d11d9cefab2ee1",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da732bd108be20eb8468ad7",
                       "title": ""
                     }
                   ]
@@ -1206,22 +1206,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da732c143e2a4a182f4dc0c",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da732c7fc272dae862995ce",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da732c7fc272dae862995ce",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da732cb64f44ec320d99973",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da732cf3566f2e342c86a6d",
                       "title": ""
                     }
                   ]
@@ -1234,26 +1234,26 @@
       ],
       "test_placement": [
         {
-          "id": "",
+          "id": "5da732e34456b90b760d7b8d",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da732e818f37d6bcbb8a6b3",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da732ecfa62c917a8edefe3",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da732ef12d93bbb334e601b",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da732f3409ae4712456418a",
               "title": ""
             }
           ]
@@ -1261,26 +1261,26 @@
       ],
       "test_final": [
         {
-          "id": "",
+          "id": "5da732f70c697ca35025a2c3",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da732fb17cd9547af9763eb",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da733036170db9592056391",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73307ab08b54726f79c99",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da7330a56f1eefbf3a32052",
               "title": ""
             }
           ]
@@ -1288,12 +1288,12 @@
       ]
     },
     {
-      "id": "3",
+      "id": "5da7330faea1a028936a6123",
       "title": "O Futuro do Trabalho",
       "description": "Descobrindo as novas formas de trabalho que foram criadas a partir da Era Digital.",
       "activities": [
         {
-          "id": "",
+          "id": "5da733193937f3a23af81cc2",
 
           "title": "Novas formas de trabalho",
           "description": "Vamos aprender o que é o MEI e como ele pode ser utilizado na prática.",
@@ -1303,76 +1303,76 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da733212cdf738fad98ab76",
               "title": "O que significa MEI?",
-              "correct": "d",
+              "correct": "5da733280bd6c9b4bdf23b38",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7332e3e54ee0607f2fea2",
                   "title": "Um registro para quem quer ter mais de uma ocupação de trabalho."
                 },
                 {
-                  "id": "b",
+                  "id": "5da733325bfa78d6ca5f92ab",
                   "title": "Um registro para freelancers."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73336f71acc01ce38b7e1",
                   "title": "Um registro de pequenas empresas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da733280bd6c9b4bdf23b38",
                   "title": "Um registro de microempreendedor individual."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da7333dea2bf761831f5c52",
               "title": "Qual das alternativas NÃO é um dos benefícios do MEI?",
-              "correct": "c",
+              "correct": "5da733423c8e20f7635429e2",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73349a844f49a70ffaf01",
                   "title": "Registro como empreendedor."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7334c8dfa8e83c181c17d",
                   "title": "Poder abrir uma conta como pessoa jurídica."
                 },
                 {
-                  "id": "c",
+                  "id": "5da733423c8e20f7635429e2",
                   "title": "Receber investimento de grandes empresas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7334f46381ae387ebbebb",
                   "title": "Se inscrever em aceleradoras."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da73355faaa13026b6c28da",
               "title": "O que são serviços remotos?",
-              "correct": "b",
+              "correct": "5da733628409f3e55d1cd5cb",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da7336687029e681ff79c38",
                   "title": "Serviços prestados em casa."
                 },
                 {
-                  "id": "b",
+                  "id": "5da733628409f3e55d1cd5cb",
                   "title": "Serviços prestados através da internet, à distância."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7336c24625c28723a5071",
                   "title": "Serviços prestados fora da internet."
                 },
                 {
-                  "id": "d",
+                  "id": "5da7337711a87ab4743bce63",
                   "title": "Serviços prestados nas empresas envolvendo a internet."
                 }
               ]
@@ -1380,28 +1380,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da7337bf1e164ce8dbb1c2c",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da7337fdf914c78bd9cb5ec",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73384a345838da3a60979",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73387115c8ccce69e0d04",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7338a0318e520599e778f",
                       "title": ""
                     }
                   ]
@@ -1409,21 +1409,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da7338fcf4a78dd84947dcb",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da733920bf9582337d6c054",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da733920bf9582337d6c054",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73397120bc9d47646ddf7",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da733998e368f6200f0b1f0",
                       "title": ""
                     }
                   ]
@@ -1433,28 +1433,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da7339fd0cf0c6ca6b99095",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da733aa2f6ee67b5ec322fb",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da733aeae920591bb5aa87f",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da733b262bb09f3b21265ec",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da733b60dde4edcb0e83261",
                       "title": ""
                     }
                   ]
@@ -1462,22 +1462,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da733ba9b02b6633cc247aa",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da733be52073dd8927d3b53",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da733be52073dd8927d3b53",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da733c28aa6bf8d694f0a07",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da733c51494fbf322bb7bd3",
                       "title": ""
                     }
                   ]
@@ -1487,7 +1487,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da733cb0585fae58e729242",
           "index": 2,
           "title": "Mudanças do mercado de trabalho",
           "description": "Vamos aprender mais sobre as empresas e outros tipos de empreendedorismo.",
@@ -1497,76 +1497,76 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da733d1a4de575408f4dab0",
               "title": "Quais são os benefícios do MEI?",
-              "correct": "d",
+              "correct": "5da733d94997bf14c230edb9",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da733de25de8c1bbb2d007a",
                   "title": "Ter o registro necessário para ser um empreendedor."
                 },
                 {
-                  "id": "b",
+                  "id": "5da733e1ef2b76e1d4d9119e",
                   "title": "Trabalhar menos e sem as cobranças de um emprego normal."
                 },
                 {
-                  "id": "c",
+                  "id": "5da733e4e3f5d991443453c7",
                   "title": "Conquistar os direitos nacionais de todo empreendedor."
                 },
                 {
-                  "id": "d",
+                  "id": "5da733d94997bf14c230edb9",
                   "title": "Trabalhar em diferentes ocupações, sem burocracia e com toda a liberdade necessária."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da733ebf59d05da59956691",
               "title": "O que podemos usar para gerenciar nosso trabalho virtualmente?",
-              "correct": "c",
+              "correct": "5da733ed819906cea4119fe8",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da733f2c9393e82a4869693",
                   "title": "Organizar as atividades em uma agenda virtual."
                 },
                 {
-                  "id": "b",
+                  "id": "5da733f63e75a4ca995c10ce",
                   "title": "Revezar entre o trabalho remoto e reuniões presenciais com outros profissionais."
                 },
                 {
-                  "id": "c",
+                  "id": "5da733ed819906cea4119fe8",
                   "title": "Programas de videoconferências, gerenciador de tarefas, \"nuvem\" de registro de documentos, entre outros."
                 },
                 {
-                  "id": "d",
+                  "id": "5da733fac7e8ad5ea0006a55",
                   "title": "Manter arquivos físicos de tudo o que é feito, para caso precise gerenciar o histórico de trabalho."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da733ffacb785bd019aa42b",
               "title": "O que é uma empresa?",
-              "correct": "a",
+              "correct": "5da734039f48d58ca1fe8539",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da734039f48d58ca1fe8539",
                   "title": "Um grupo de pessoas que se organiza, ou é organizado por um líder, para trabalhar junto por um propósito."
                 },
                 {
-                  "id": "b",
+                  "id": "5da7340760a8b0a1239cf790",
                   "title": "Um grupo de pessoas que se auto-organiza para trabalhar voluntariamente em projetos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da7341017a07575c9c561b5",
                   "title": "Um grupo de pessoas que se organiza para trabalhar em projetos diferentes com um mesmo objetivo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73413c6ed24ba770e3b64",
                   "title": "Um grupo grande de pessoas que é contratado para trabalhar com registro formal para uma marca."
                 }
               ]
@@ -1574,28 +1574,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da734192f2b18bf7c9272d8",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da7341b2c953e1629e79a1b",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da7341ed0702a06f891f09e",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da734223f2b1ec893da6537",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7342665989559f83dca5b",
                       "title": ""
                     }
                   ]
@@ -1603,21 +1603,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da7342a0a959b5368f9e031",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da7342ef333dc2c7371fcb6",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da7342ef333dc2c7371fcb6",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73432ff85caf262fa54e7",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da734367fa643650a075e42",
                       "title": ""
                     }
                   ]
@@ -1627,28 +1627,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da7343993946e010669e0a6",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da734433c97bf7f02541555",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73447de5fec9cfb18233f",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7344e868c0cec24863efe",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da7345147f874c079af5a20",
                       "title": ""
                     }
                   ]
@@ -1656,22 +1656,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73456cf21eca6a961e4a0",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da7345a5ec7e17b61b724d4",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da7345a5ec7e17b61b724d4",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da7345ebe103e93f05878e4",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da734619b61d41e9094c8d6",
                       "title": ""
                     }
                   ]
@@ -1681,7 +1681,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da739f466bc1ce72ed23bc1",
           "index": 3,
           "title": "Empreendedorismo em rede",
           "description": "Vamos ver o que é empreendedorismo em rede na teoria e na prática.",
@@ -1691,51 +1691,51 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da739fda7c4b8cefbbe6100",
               "title": "O que é empreendedorismo coletivo?",
-              "correct": "b",
+              "correct": "5da73a00603c8917eeab4d5a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73a05ac7ebf8bab544a78",
                   "title": "Profissionais que trabalham juntos para uma mesma marca."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73a00603c8917eeab4d5a",
                   "title": "Profissionais independentes que se unem para empreender juntos por trás de uma marca."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73a09a954de9c4f716ae3",
                   "title": "Profissionais independentes que são convocados por um líder para trabalharem para um projeto original."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73a0f96698fb466c57e6c",
                   "title": "Profissionais independentes que criam uma marca juntos e a registram como empresa."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da73a14892cca477d2b25e4",
               "title": "Como acontece o empreendedorismo em rede?",
-              "correct": "b",
+              "correct": "5da73a197d252e3c8f212cff",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73a1e837f38f1c37746f6",
                   "title": "As pessoas criam uma rede de empreendedores que se apoiam, mesmo trabalhando separados."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73a197d252e3c8f212cff",
                   "title": "As pessoas chamam outros profissionais independentes para trabalhar dentro de uma demanda específica de um projeto."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73a214d1e235f74d681d5",
                   "title": "As pessoas se unem para fazer projetos diferentes, só que trabalhando em um mesmo espaço. Por exemplo: um coworking."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73a2411bb1ea4ce54a69a",
                   "title": "As pessoas chamam profissionais independente de áreas diferentes para trabalhar para uma nova marca original."
                 }
               ]
@@ -1743,28 +1743,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da73a29a09f7f0658d824da",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73a2d0009eba390528251",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73a315b5d89414560bf16",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73a376ed240ad441f8844",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73a39102b85360aa9af29",
                       "title": ""
                     }
                   ]
@@ -1772,21 +1772,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73a3cbef7ad317d8b63be",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73a409c058134cdb75246",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73a409c058134cdb75246",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73a46359d2143a8531e8b",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73a4999c2c7120254db77",
                       "title": ""
                     }
                   ]
@@ -1796,28 +1796,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da73a508759221197e23589",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73a54e28981b3e0bf6c9a",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73a58d5669b4de70ea359",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73a5c090cc78ba0466b8a",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73a602cfa791aaaa9812a",
                       "title": ""
                     }
                   ]
@@ -1825,22 +1825,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73a64735291faf461d677",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73a6f6cacda8bb2a8c7fb",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73a6f6cacda8bb2a8c7fb",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73a7578c4d501106c6a44",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73a79814490ef2e205c31",
                       "title": ""
                     }
                   ]
@@ -1853,26 +1853,26 @@
       ],
       "test_placement": [
         {
-          "id": "",
+          "id": "5da73a7db1d97940e7cb947b",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da73a819b49039f038fb63d",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73a847ada69520bb7eb0c",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73a872fe61f9fd655a6b7",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73a8aa198a09f1e49d852",
               "title": ""
             }
           ]
@@ -1880,26 +1880,26 @@
       ],
       "test_final": [
         {
-          "id": "",
+          "id": "5da73a8ef230b357514f28fc",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da73a93b0122147bbd23f6d",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73a966b666d1f74863962",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73a989b31138c8bb12374",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73a9e5b4d797a72927588",
               "title": ""
             }
           ]
@@ -1907,12 +1907,12 @@
       ]
     },
     {
-      "id": "4",
+      "id": "5da73aa170373c5bfb197da8",
       "title": "As Habilidades do Futuro",
       "description": "Mapeando as habilidades mais importantes para a construção do futuro do trabalho após a Era Digital.",
       "activities": [
         {
-          "id": "",
+          "id": "5da73aa53549edacd58bd26c",
 
           "title": "Habilidades comportamentais e cognitivas",
           "description": "Vamos conhecer as habilidades mais importantes do futuro do trabalho.",
@@ -1923,74 +1923,74 @@
             {
               "id": "1",
               "title": "O que são as habilidades do futuro?",
-              "correct": "a",
+              "correct": "5da73aac1cdf375030914316",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73aac1cdf375030914316",
                   "title": "Habilidades que nos fazem mais humanos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73ab4ef5fdd2557b808b5",
                   "title": "Habilidades que só vão existir no futuro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73ab7b7f4e9c0e996921e",
                   "title": "Habilidades que serão dispensáveis no futuro."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73aba3fb8713fa61a30f3",
                   "title": "Habilidades que representam o futuro que queremos criar."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da73ac10a831a1393222fcd",
               "title": "Como são divididas as habilidades do futuro?",
-              "correct": "c",
+              "correct": "5da73ac451b2b2fc628d9459",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73ac9edb964deb58cc0c3",
                   "title": "Habilidades comportamentais e habilidades mentais."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73acc955ed1781e9a40a1",
                   "title": "Habilidades sociais e habilidades cognitivas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73ac451b2b2fc628d9459",
                   "title": "Habilidades comportamentais e habilidades cognitivas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73ad05624e1845bd5ea5b",
                   "title": "Habilidades cognitivas e habilidades intelectuais."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da73ad7688de63727f23afb",
               "title": "Quais dessas alternativas NÃO fazem parte das habilidades comportamentais?",
-              "correct": "b",
+              "correct": "5da73adbc32cda1bb2fd084a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73ae11074dbca3db421b1",
                   "title": "Gestão do tempo"
                 },
                 {
-                  "id": "b",
+                  "id": "5da73adbc32cda1bb2fd084a",
                   "title": "Oratória"
                 },
                 {
-                  "id": "c",
+                  "id": "5da73ae411dffd80035aea14",
                   "title": "Adaptabilidade"
                 },
                 {
-                  "id": "d",
+                  "id": "5da73ae83c33fde0698f42fa",
                   "title": "Comunicação"
                 }
               ]
@@ -1998,28 +1998,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da73aed4f0359273c550f68",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73aed4f0359273c550f68",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73af61b7b7ba3586d4bbe",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73af9ea88f80823996dea",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73afc77e3f90c4a5a5152",
                       "title": ""
                     }
                   ]
@@ -2027,21 +2027,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73b01a420605ff8001aa2",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73b06045bb1a1c1bfc581",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73b06045bb1a1c1bfc581",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73b0a115873e5f2f8ad23",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73b0df7c835190a75b344",
                       "title": ""
                     }
                   ]
@@ -2051,28 +2051,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da73b1228805435d2955a46",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73b17c0f00b7db234aeda",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73b1ab75327229a2816fe",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73b1e6cc4a508dbcf7379",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73b21fe00b776c110f9bd",
                       "title": ""
                     }
                   ]
@@ -2080,22 +2080,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73b246908056463df05c6",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73b295e13ea2fb6202bcc",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73b295e13ea2fb6202bcc",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73b2fcdd58f12f675987d",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73b2fcdd58f12f675987d",
                       "title": ""
                     }
                   ]
@@ -2105,7 +2105,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da73b368f5c9ebeae71ec1c",
           "index": 2,
           "title": "Outras habilidades do futuro",
           "description": "Vamos continuar aprendendo sobre as habilidades comportamentais e cognitivas.",
@@ -2114,18 +2114,18 @@
           "youtube": "",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da73b3d4bdcc0522450b41c",
               "title": "Quais dessas alternativas NÃO fazem parte das habilidades cognitivas?",
-              "correct": "d",
+              "correct": "5da73b40674ffcbc24ecea45",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73b4875a35ab865a93a4a",
                   "title": "Solução de problemas"
                 },
                 {
-                  "id": "b",
+                  "id": "5da73b4fc23c7b7eff30a185",
                   "title": "Criatividade"
                 },
                 {
@@ -2133,57 +2133,57 @@
                   "title": "Negociação"
                 },
                 {
-                  "id": "d",
+                  "id": "5da73b40674ffcbc24ecea45",
                   "title": "Lógica"
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da73b58abd3bfd79b34e611",
               "title": "Segundo a professora, no que se resumem as habilidades do futuro?",
-              "correct": "b",
+              "correct": "5da73b5cda02a7cc1d0a4dc8",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73b65d8a543099707ec79",
                   "title": "Autoconhecimento, autonomia e liderança."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73b5cda02a7cc1d0a4dc8",
                   "title": "Autoconhecimento, empatia e autonomia."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73b692c275dbf2dbfef68",
                   "title": "Empatia, autonomia e relações interpessoais."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73b6cd1fc6252ba003e7b",
                   "title": "Empatia, criatividade e adaptabilidade."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da73b71aa144b6395fdf165",
               "title": "O que é empatia?",
-              "correct": "d",
+              "correct": "5da73b76aeb186ff1af783f0",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73b7b5c882eeab0402f00",
                   "title": "Decifrar os sentimentos e pensamentos do outro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73b7eeb3c9e52998398b4",
                   "title": "Racionalizar os sentimentos do outro para conseguir entendê-los."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73b80803f7de48859fd32",
                   "title": "Escutar o outro para saber o que ele sente sobre algo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73b76aeb186ff1af783f0",
                   "title": "Se colocar no lugar do outro, entender seus sentimentos e praticar a escuta ativa."
                 }
               ]
@@ -2191,28 +2191,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da73b88a447e5590762ce6a",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73b8c02e3b114e2d1806f",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73b909ee3c054d95c3229",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73b947d5a98b68c624754",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73b947d5a98b68c624754",
                       "title": ""
                     }
                   ]
@@ -2220,21 +2220,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73b9e4c2aba442207c3ed",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73ba1aa31817413909529",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73ba1aa31817413909529",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73ba5f50ac8f66574cce4",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73ba8a1c11a49e773eec5",
                       "title": ""
                     }
                   ]
@@ -2244,28 +2244,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da73bac13517647b67ee342",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73bb05073c873810c8f40",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73bb50224a3d4fe385226",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73bb864ff73d72b5fbe29",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73bbcc7d2660283e4c5f9",
                       "title": ""
                     }
                   ]
@@ -2273,22 +2273,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73bc1fb01637b5c8c7dd7",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73bc592dc1acfdf8c019b",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73bc592dc1acfdf8c019b",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73bc962d9fc36260f5683",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73bcd105e09abef1ff3fb",
                       "title": ""
                     }
                   ]
@@ -2298,7 +2298,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5da73bd22f956b1a81cb2ed8",
           "index": 3,
           "title": "Lifelong Learning",
           "description": "Vamos aprender o que é Lifelong Learning e qual a importância dele para o futuro.",
@@ -2307,76 +2307,76 @@
           "youtube": "",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da73bd83ff18811090777c3",
               "title": "Segundo a professora, o que o mundo está exigindo dos profissionais?",
-              "correct": "c",
+              "correct": "5da73bdb72087eacc7843442",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73be0889c1d5f9751768d",
                   "title": "Autonomia e liderança."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73be33c67291416d869e1",
                   "title": "Proatividade para fazer as coisas acontecerem."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73bdb72087eacc7843442",
                   "title": "Que eles estejam aprendendo coisas novas o tempo todo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73be67b9c8413835c23ab",
                   "title": "Capacidade de se adaptar a vários cenários."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da73bedc16c54253a268b55",
               "title": "O que é Lifelong Learning?",
-              "correct": "a",
+              "correct": "5da73bf31b895a4678564b11",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73bf31b895a4678564b11",
                   "title": "Continuar sempre aprendendo ao longo da vida."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73bf8e988c5dee4f5e18c",
                   "title": "Aprender coisas diferentes em momentos diferentes da vida."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73bfb2c3ce0c1422fcb98",
                   "title": "Aprender uma coisa diferente todos os dias."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73bfdb62a7ee83c46fb40",
                   "title": "Prosseguir com os estudos mesmo depois da formação tradicional."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da73c02b603aeac68080694",
               "title": "De quem é o futuro?",
-              "correct": "d",
+              "correct": "5da73c06de5ef2d6f6b13416",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da73c0c3bdec15bcda1beb2",
                   "title": "Dos robôs."
                 },
                 {
-                  "id": "b",
+                  "id": "5da73c0fa2385b5cc7fa4901",
                   "title": "Das crianças."
                 },
                 {
-                  "id": "c",
+                  "id": "5da73c12d91f6ac1000940f0",
                   "title": "Do governo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da73c06de5ef2d6f6b13416",
                   "title": "De todos nós."
                 }
               ]
@@ -2384,28 +2384,28 @@
           ],
           "weblink": [
             {
-              "id": "",
+              "id": "5da73c17ffae256a074987ed",
               "title": "Cores e descobrir um mundo de outras",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "href": "",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73c1c66d9a7142af15914",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73c1f5c43a7fe38142b93",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73c22f7cdb11e24a620e3",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73c254d3b68cf9441c2f5",
                       "title": ""
                     }
                   ]
@@ -2413,21 +2413,21 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73c2970cae7d9fbd3d1a7",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73c2eac5dd21172c044ca",
                   "score": 0,
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73c32a501275db61a1242",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73c3480a0c1556bf3e5f9",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73c373fc1b79caed11146",
                       "title": ""
                     }
                   ]
@@ -2437,28 +2437,28 @@
           ],
           "additional_material": [
             {
-              "id": "5e4rty54ert5y4",
+              "id": "5da73c41ce662f2cdb0f7aa6",
               "title": "Nova era da fotografia digital",
               "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
               "time_position": "1:25",
               "test_placement": [
                 {
-                  "id": "",
+                  "id": "5da73c45db849905b540d5a5",
                   "title": "",
                   "correct": "",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "",
+                      "id": "5da73c48c41289282d732123",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73c4cd95eacfd98fa50f5",
                       "title": ""
                     },
                     {
-                      "id": "",
+                      "id": "5da73c4f71d0e0a4560d8655",
                       "title": ""
                     }
                   ]
@@ -2466,22 +2466,22 @@
               ],
               "test_final": [
                 {
-                  "id": "1",
+                  "id": "5da73c57197613542d5fd300",
                   "title": "",
-                  "correct": "a",
+                  "correct": "5da73c5cef9f03884d992677",
                   "score": 0,
                   "time_position": "00:00",
                   "alternatives": [
                     {
-                      "id": "a",
+                      "id": "5da73c5cef9f03884d992677",
                       "title": ""
                     },
                     {
-                      "id": "b",
+                      "id": "5da73c60e56f31534c843ad4",
                       "title": ""
                     },
                     {
-                      "id": "c",
+                      "id": "5da73c63bbff70643cfc9c89",
                       "title": ""
                     }
                   ]
@@ -2494,26 +2494,26 @@
       ],
       "test_placement": [
         {
-          "id": "",
+          "id": "5da73c6c5135874a58a82cf9",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da73c700106576130a477b8",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73c748aad0540c6e5b965",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73c772c1d9fabb1b29f5b",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73c7aea7a1f894524bd1b",
               "title": ""
             }
           ]
@@ -2521,26 +2521,26 @@
       ],
       "test_final": [
         {
-          "id": "",
+          "id": "5da73c7fac5a124e4499cd9d",
           "title": "",
           "correct": "",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da73c83d6fea9257b66cd5e",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73c87e209aae8ccefc5ba",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73c8be663434752f09e02",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da73c8dd7a7ca10b2459d56",
               "title": ""
             }
           ]
