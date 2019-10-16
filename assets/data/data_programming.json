@@ -1,0 +1,4878 @@
+{
+  "id": "",
+  "title": "Programação",
+  "description": "Você gosta de games? Sabia que isso pode te dar uma profissão você ganhar dinheiro fazendo o que gosta? Vem assistir as aulas de programação e aprender como fazer do seu hobby virar um job |o|",
+  "author": "Danrley Morais",
+  "author_info": "Um garoto muito especial, que mesmo diante de todos os obstáculos que qualquer jovem de periferia enfrenta para se destacar no mercado, BRILHOU. Começou sua carreira de programador muito cedo, depois de muita dedicação e esforço, seu trabalho foi reconhecido e recebeu um convite para ser sócio de uma das empresas mais bem sucedidas da área de tecnologia do País.",
+  "year": 0,
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Introdução à programação",
+      "description": "Entendendo o que é programação, sua história e onde podemos encontrá-la atualmente.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "O que é programação?",
+          "description": "Vamos entender o que é programação e quais são seus princípios.",
+          "duration": "03:25",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=kuwRelh1t9E",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que exatamente é programação?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É uma ferramenta para traduzir os comandos humanos na linguagem dos computadores."
+                },
+                {
+                  "id": "b",
+                  "title": "É um conjunto de instruções lógicas e sequenciais para resolver problemas conhecidos."
+                },
+                {
+                  "id": "c",
+                  "title": "É um conjunto de instruções que criamos para que os computadores funcionem."
+                },
+                {
+                  "id": "d",
+                  "title": "É a linguagem dos computadores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "De acordo com o professor, para tudo o que fazemos há...",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Uma consequência."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma programação."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma lógica."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma sequência lógica de passos."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Como o computador trabalha?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Com energia elétrica."
+                },
+                {
+                  "id": "b",
+                  "title": "Recebendo comandos diretos dos seres humanos."
+                },
+                {
+                  "id": "c",
+                  "title": "Ele recebe uma sequência de instruções, interpreta elas e te dá um resultado final."
+                },
+                {
+                  "id": "d",
+                  "title": "Ele interpreta a língua humana e a traduz para sua própria linguagem, que é entendida pela programação."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Programação na prática",
+          "description": "Vamos entender o que podemos fazer com a programação e onde ela pode ser aplicada no nosso dia a dia.",
+          "duration": "02:11",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=TrN45i0D4oQ",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que podemos fazer com a programação?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Qualquer coisa que envolva tecnologia."
+                },
+                {
+                  "id": "b",
+                  "title": "Qualquer coisa que envolva computadores."
+                },
+                {
+                  "id": "c",
+                  "title": "Podemos traduzir a língua humana para a língua das máquinas."
+                },
+                {
+                  "id": "d",
+                  "title": "Praticamente tudo, porque sua lógica pode ser aplicada até mesmo fora da tecnologia."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que a internet nos oferece?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Diversas aplicações que resolvem problemas do nosso cotidiano."
+                },
+                {
+                  "id": "b",
+                  "title": "Diversos meios de comunicação e conexão com outras pessoas."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma nova fonte de informação e conhecimento."
+                },
+                {
+                  "id": "d",
+                  "title": "Uma nova ferramenta de estudo e aprendizado."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Onde podemos encontrar a programação?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Só em computadores."
+                },
+                {
+                  "id": "b",
+                  "title": "Só nos livros."
+                },
+                {
+                  "id": "c",
+                  "title": "Em jogos, televisões, computadores, sites, geladeiras etc."
+                },
+                {
+                  "id": "d",
+                  "title": "Na Inteligência Artificial."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Quando isso tudo começou?",
+          "description": "Vamos aprender mais sobre a história da programação.",
+          "duration": "02:38",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=n6Td_gb_R9s",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que é ENIAC?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Sigla como a programação era chamada antigamente."
+                },
+                {
+                  "id": "b",
+                  "title": "Nome do cara que inventou a programação."
+                },
+                {
+                  "id": "c",
+                  "title": "Primeiro computador feito por meio da programação."
+                },
+                {
+                  "id": "d",
+                  "title": "Primeiro computador do mundo."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Em que ano o primeiro computador foi criado?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "1955"
+                },
+                {
+                  "id": "b",
+                  "title": "1960"
+                },
+                {
+                  "id": "c",
+                  "title": "1950"
+                },
+                {
+                  "id": "d",
+                  "title": "1970"
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quanto espaço o ENIAC ocupava?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "O espaço de um prédio inteiro."
+                },
+                {
+                  "id": "b",
+                  "title": "O espaço do andar de um prédio."
+                },
+                {
+                  "id": "c",
+                  "title": "O espaço de uma casa inteira."
+                },
+                {
+                  "id": "d",
+                  "title": "O espaço de uma sala."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "O Futuro da Programação",
+      "description": "Entendendo por que é importante aprender a programar e onde um programador pode atuar no futuro.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Importância da programação",
+          "description": "Vamos entender por que é preciso aprender programação, o que ela nos ensina e qual a importância dela para o futuro.",
+          "duration": "02:56",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=d98VBZ7nfXU",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Qual é a importância de aprender programação?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Com a programação, desenvolvemos o raciocínio lógico e aprendemos a tomar decisões de forma mais coerente."
+                },
+                {
+                  "id": "b",
+                  "title": "Com a programação, podemos traduzir nossos comandos para a linguagem dos computador."
+                },
+                {
+                  "id": "c",
+                  "title": "Com a programação, podemos dar instruções para que as tecnologias sigam nossos comandos."
+                },
+                {
+                  "id": "d",
+                  "title": "Com a programação, prevenimos que os robôs dominem o mundo no futuro."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que aprendemos com a programação?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Aprendemos a falar a língua dos computadores."
+                },
+                {
+                  "id": "b",
+                  "title": "Aprendemos a pensar de forma estruturada."
+                },
+                {
+                  "id": "c",
+                  "title": "Aprendemos a nos comunicar em códigos."
+                },
+                {
+                  "id": "d",
+                  "title": "Aprendemos a criar novas tecnologias."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que a programação tem a ver com o futuro?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Não existirá programação no futuro."
+                },
+                {
+                  "id": "b",
+                  "title": "Os humanos só vão se comunicar por meio de códigos no futuro."
+                },
+                {
+                  "id": "c",
+                  "title": "O mundo será dominado por robôs feitos a partir da programação."
+                },
+                {
+                  "id": "d",
+                  "title": "A programação está por trás de tudo o que veremos no futuro."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Áreas de atuação",
+          "description": "",
+          "duration": "02:05",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=i9YPJC1Sqcs",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que é engenharia de sistemas?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É o desenho da solução através de um sistema, que depois é traduzido em códigos de programação."
+                },
+                {
+                  "id": "b",
+                  "title": "É a profissão de quem constrói sistemas."
+                },
+                {
+                  "id": "c",
+                  "title": "É a área da engenharia que trabalha construindo robôs."
+                },
+                {
+                  "id": "d",
+                  "title": "É o que transforma os códigos de programação em um sistema lógico que pode ser traduzido para os humanos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Para onde vão todos os dados da nossa conta da Netflix?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "As informações são armazenadas em uma pasta de arquivos."
+                },
+                {
+                  "id": "b",
+                  "title": "As informações são salvas no perfil privado da nossa conta."
+                },
+                {
+                  "id": "c",
+                  "title": "As informações são armazenadas nos computadores da Netflix."
+                },
+                {
+                  "id": "d",
+                  "title": "As informações são armazenadas em um banco de dados."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é o DevOps?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Um tipo de programação."
+                },
+                {
+                  "id": "b",
+                  "title": "Profissional que trabalha com todo tipo de programação."
+                },
+                {
+                  "id": "c",
+                  "title": "Profissional que une conhecimento de programação com conhecimento de servidores para garantir a infraestrutura das aplicações."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "O que é Inteligência Artificial?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É uma inteligência criada, artificial, o que significa que não é orgânica ou verdadeira."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma máquina que consegue pensar, sentir e agir como os humanos."
+                },
+                {
+                  "id": "c",
+                  "title": "Uma máquina que consegue aprender a tomar decisões baseadas em seu aprendizado."
+                },
+                {
+                  "id": "d",
+                  "title": "É a inteligência dos robôs."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Profissões do futuro",
+          "description": "Vamos descobrir quais serão as habilidades mais importantes no futuro.",
+          "duration": "02:28",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=-4sEuB4LGHw",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Para que serve a BigData?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Para armazenar um banco de dados."
+                },
+                {
+                  "id": "b",
+                  "title": "Para fazer leituras de comandos passados e descobrir formas de melhorar o processo."
+                },
+                {
+                  "id": "c",
+                  "title": "Para criar os comandos que controlam computadores e robôs."
+                },
+                {
+                  "id": "d",
+                  "title": "Para fazer previsões com base na interpretação de dados por meio da Inteligência Artificial."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Que tipos de atividades NÃO vão ser substituídas por robôs?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Atividades manuais."
+                },
+                {
+                  "id": "b",
+                  "title": "Atividades lógicas."
+                },
+                {
+                  "id": "c",
+                  "title": "Atividades intelectuais."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Quem foi o cara que disse que \"todo mundo deveria aprender a programar\"?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "O professor da New School"
+                },
+                {
+                  "id": "b",
+                  "title": "Abraham Lincoln"
+                },
+                {
+                  "id": "c",
+                  "title": "Steve Jobs"
+                },
+                {
+                  "id": "d",
+                  "title": "Steve Johnson"
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Humanos x Robôs",
+      "description": "Entendendo as tendências tecnológicas, o quão distantes estamos dos robôs e como a programação pode impactar nossas vidas.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Tendências tecnológicas",
+          "description": "Vamos conhecer algumas das tendências tecnológicas do futuro que utilizam a programação.",
+          "duration": "03:04",
+          "vimeo": "",
+          "youtube": "https://youtu.be/xdk0EDzR3KY",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que é um algoritmo?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Uma sequência lógica de passos para executar uma ação."
+                },
+                {
+                  "id": "b",
+                  "title": "Uma sequência aleatória de comandos."
+                },
+                {
+                  "id": "c",
+                  "title": "Um elemento que adicionamos na programação para que os computadores entendam."
+                },
+                {
+                  "id": "d",
+                  "title": "É como se fosse uma fórmula que utilizamos dentro da linguagem de programação."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Por que é possível uma máquina aprender sozinha?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Porque ela possui Inteligência Artificial."
+                },
+                {
+                  "id": "b",
+                  "title": "Foram criados algoritmos para fazer com que as máquinas possam aprender com seus próprios erros."
+                },
+                {
+                  "id": "c",
+                  "title": "Criamos novas tecnologias que permitem que as máquinas percebam o mundo exatamente como os humanos."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que nossa aprendizagem tem em comum com a aprendizagem das máquinas?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Seguimos uma sequência lógica de passos para aprender algo."
+                },
+                {
+                  "id": "b",
+                  "title": "Somos tão independentes quanto elas."
+                },
+                {
+                  "id": "c",
+                  "title": "As máquinas sentem, pensam e percebem como os humanos."
+                },
+                {
+                  "id": "d",
+                  "title": "Experimentamos, erramos, amadurecemos, criamos padrões e chegamos nos objetivos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Programação no dia a dia",
+          "description": "Vamos descobrir onde podemos utilizar a programação na prática do nosso dia a dia.",
+          "duration": "02:03",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=EgYFxmB-5ro",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Como funciona a correlação de dados usando o BigData?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Os dados se atraem por aqueles que são semelhantes a eles e se agrupam."
+                },
+                {
+                  "id": "b",
+                  "title": "Os dados armazenados pela máquina são analisados através da Inteligência Artificial para fazer previsões assertivas."
+                },
+                {
+                  "id": "c",
+                  "title": "Os dados armazenados são interpretados por humanos, que criam previsões mais complexas."
+                },
+                {
+                  "id": "d",
+                  "title": "Não existe correlação de dados através do BigData."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é Internet das Coisas?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É quando um objeto pode conectar à internet, como o computador."
+                },
+                {
+                  "id": "b",
+                  "title": "É quando as coisas dependem da internet para funcionar."
+                },
+                {
+                  "id": "c",
+                  "title": "É quando um objeto é tão inteligente que não necessita de internet."
+                },
+                {
+                  "id": "d",
+                  "title": "É quando temos uma série de \"microcomputadores\" espalhados em vários lugares com o intuito de gerar informações."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Outras aplicações da programação",
+          "description": "Vamos ver como a programação está sendo utilizada na área da saúde.",
+          "duration": "01:34",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=qtmhi28dtag",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Como a área da saúde pode utilizar a programação?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Doenças mais graves podem ser evitadas utilizando os bancos de dados de pacientes para fazer previsões mais proativas."
+                },
+                {
+                  "id": "b",
+                  "title": ""
+                },
+                {
+                  "id": "c",
+                  "title": ""
+                },
+                {
+                  "id": "d",
+                  "title": ""
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "As Bases da Programação",
+      "description": "",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Primeiros passos",
+          "description": "Vamos entender os primeiros passos para começar a programar.",
+          "duration": "02:26",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=KnughOjQ3XU",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Como é o programador?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É um profissional formado na universidade."
+                },
+                {
+                  "id": "b",
+                  "title": "É um geek viciado em códigos e games."
+                },
+                {
+                  "id": "c",
+                  "title": "É um cara que só vê vídeos de programação."
+                },
+                {
+                  "id": "d",
+                  "title": "É uma pessoa normal, com amigos e vida social."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Você lembra o que são algoritmos?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Uma sequência aleatória de comandos."
+                },
+                {
+                  "id": "b",
+                  "title": "Fórmula da linguagem de programação."
+                },
+                {
+                  "id": "c",
+                  "title": "Os passos de uma sequência lógica criada para executar uma ação."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é lógica de programação?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Uma técnica para desenvolver sequência lógicas para atingir um objetivo."
+                },
+                {
+                  "id": "b",
+                  "title": "A lógica de tomada de decisão dos computadores."
+                },
+                {
+                  "id": "c",
+                  "title": "Lógica dos comandos humanos traduzida para a linguagem de programação."
+                },
+                {
+                  "id": "d",
+                  "title": "Lógica criada com códigos."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Por que é importante definir o passo a passo de uma sequência lógica?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Para dar sentido aos códigos."
+                },
+                {
+                  "id": "b",
+                  "title": "Para que os computadores sigam os comandos corretamente."
+                },
+                {
+                  "id": "c",
+                  "title": "Para entender quais são as variáveis e as decisões que acontecem no caminho."
+                },
+                {
+                  "id": "d",
+                  "title": "Para conseguir prever erros e criar comandos perfeitos."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Sequência lógica",
+          "description": "Vamos aprender sobre sequência lógica e os processos da programação.",
+          "duration": "01:37",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=Uf7sxWljGzo",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que é preciso fazer para construir uma sequência lógica?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É preciso usar a matemática básica."
+                },
+                {
+                  "id": "b",
+                  "title": "É preciso separar e quebrar as ideias, detalhando cada passo da resolução de um problema."
+                },
+                {
+                  "id": "c",
+                  "title": "É preciso seguir a fórmula dos algoritmos."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Você já sabe que o computador não pensa sozinho. Mas, então, do que ele precisa para executar as soluções?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Ele precisa de lógica matemática."
+                },
+                {
+                  "id": "b",
+                  "title": "Ele precisa de uma linguagem em códigos."
+                },
+                {
+                  "id": "c",
+                  "title": "Ele precisa de comandos detalhados do processo, que podem ser colocados dentro da sequência lógica da programação."
+                },
+                {
+                  "id": "d",
+                  "title": "Ele precisa que um ser humano tome as decisões por ele."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Sequência lógica (Parte 2)",
+          "description": "Vamos ver exemplos mais complexos de sequências lógicas de programação.",
+          "duration": "01:39",
+          "vimeo": "",
+          "youtube": "https://www.youtube.com/watch?v=7KepcTcyye0",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Qual é a diferença dos algoritmos mais complexos?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Eles possuem códigos mais difíceis de escrever."
+                },
+                {
+                  "id": "b",
+                  "title": "Eles dependem de comandos mais objetivos."
+                },
+                {
+                  "id": "c",
+                  "title": "Eles possuem fórmulas mais complexas de lógica."
+                },
+                {
+                  "id": "d",
+                  "title": "Eles possuem decisões e desvios de percurso no meio do caminho, baseados nas variáveis do processo."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Tipos de dados, variáveis e constantes",
+      "description": "Aprendendo sobre dados, variáveis e constantes.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Tipos de dados",
+          "description": "Vamos aprender quais são os tipos de dados utilizados na programação e como aplicar eles na prática.",
+          "duration": "02:52",
+          "vimeo": "",
+          "youtube": "https://youtu.be/FjabZdbhA9g",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Quais são os três principais tipos de dados?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Inteiro, caracter e computacional."
+                },
+                {
+                  "id": "b",
+                  "title": "Inteiro, caracter e lógico."
+                },
+                {
+                  "id": "c",
+                  "title": "Inteiro, característico e lógico."
+                },
+                {
+                  "id": "d",
+                  "title": "Inteiro, lógico e computacional."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que são os números inteiros?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Todos os números pares."
+                },
+                {
+                  "id": "b",
+                  "title": "Todos os números que resultam em zero dentro de uma fórmula de programação."
+                },
+                {
+                  "id": "c",
+                  "title": "Todos os números negativos que não possuem casas decimais."
+                },
+                {
+                  "id": "d",
+                  "title": "Todos os números positivos ou negativos que não possuem casas decimais."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que são os números reais?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Todos os números racionais, positivos e negativos."
+                },
+                {
+                  "id": "b",
+                  "title": "Todos os números racionais e irracionais, positivos e negativos."
+                },
+                {
+                  "id": "c",
+                  "title": "Todos os números racionais e positivos."
+                },
+                {
+                  "id": "d",
+                  "title": "Todos os números racionais e negativos."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Qual das alternativas seguintes NÃO pode ser um caracter?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Nome"
+                },
+                {
+                  "id": "b",
+                  "title": "Endereço"
+                },
+                {
+                  "id": "c",
+                  "title": "Imagens"
+                },
+                {
+                  "id": "d",
+                  "title": "Números"
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Mais sobre os tipos de dados",
+          "description": "Vamos conhecer mais algumas características dos tipos de dados.",
+          "duration": "01:36",
+          "vimeo": "",
+          "youtube": "https://youtu.be/IQGn8DgejsM",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Qual é a característica principal do tipo de dado lógico?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Não há meio termo."
+                },
+                {
+                  "id": "b",
+                  "title": "Só existem três opções."
+                },
+                {
+                  "id": "c",
+                  "title": "O resultado é relativo."
+                },
+                {
+                  "id": "d",
+                  "title": "Não utilizamos termos."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é uma variável para o computador?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Uma mudança que pode interferir na lógica de programação."
+                },
+                {
+                  "id": "b",
+                  "title": "Um caminho a mais na sequência lógica."
+                },
+                {
+                  "id": "c",
+                  "title": "Um espaço na memória de um computador para guardar algum dado."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Que tipo de dado é utilizado para o peso de uma pessoa?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Lógico"
+                },
+                {
+                  "id": "b",
+                  "title": "Caracter"
+                },
+                {
+                  "id": "c",
+                  "title": "Computacional"
+                },
+                {
+                  "id": "d",
+                  "title": "Real"
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Variáveis e constantes",
+          "description": "Vamos aprender o que são variáveis e constantes, e qual a diferença entre elas.",
+          "duration": "02:14",
+          "vimeo": "",
+          "youtube": "https://youtu.be/0Vz3Zmc9OgY",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Qual é o diferencial das constantes?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Elas guardam dados que não podem sofrer alteração."
+                },
+                {
+                  "id": "b",
+                  "title": "Elas guardam dados mais complexos."
+                },
+                {
+                  "id": "c",
+                  "title": "Elas guardam todos os tipos de dados."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "As variáveis podem sofrer alterações?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Não."
+                },
+                {
+                  "id": "b",
+                  "title": "Somente antes do armazenamentos."
+                },
+                {
+                  "id": "c",
+                  "title": "Só com dados de tipo caracter."
+                },
+                {
+                  "id": "d",
+                  "title": "Sim."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Operadores",
+      "description": "Entendendo o que são operadores e como eles são aplicados na prática.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Tipos de operadores",
+          "description": "Vamos conhecer os principais tipos de operadores da linguagem de programação.",
+          "duration": "03:32",
+          "vimeo": "",
+          "youtube": "https://youtu.be/DG6wRso4mVY",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Qual das alternativas NÃO é um tipo de operador?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Aritméticos"
+                },
+                {
+                  "id": "b",
+                  "title": "Correlacionais"
+                },
+                {
+                  "id": "c",
+                  "title": "Lógicos"
+                },
+                {
+                  "id": "d",
+                  "title": "Relacionais"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que são os operadores aritméticos?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Operadores utilizados para fazer equações matemáticas."
+                },
+                {
+                  "id": "b",
+                  "title": "Operadores utilizados para fazer cálculos mais complexos."
+                },
+                {
+                  "id": "c",
+                  "title": "Operadores utilizados para fazer cálculos matemáticos simples que já conhecemos."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que são os operadores relacionais?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Operadores que relacionam dados."
+                },
+                {
+                  "id": "b",
+                  "title": "Operadores que têm como objetivo devolver um valor lógico: verdadeiro ou falso."
+                },
+                {
+                  "id": "c",
+                  "title": "Operadores que transferem dados relacionados de um banco de dados para outro."
+                },
+                {
+                  "id": "d",
+                  "title": "Operadores que invertem os valores lógicos dos dados."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Qual dos valores lógicos está correto?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "5 = 8 — Verdadeiro"
+                },
+                {
+                  "id": "b",
+                  "title": "34 >= 21 — Falso"
+                },
+                {
+                  "id": "c",
+                  "title": "7 < 2 — Verdadeiro"
+                },
+                {
+                  "id": "d",
+                  "title": "5 <> 1 — Verdadeiro"
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Operadores lógicos",
+          "description": "Vamos aprender a utilizar os operadores lógicos na prática.",
+          "duration": "02:35",
+          "vimeo": "",
+          "youtube": "https://youtu.be/h3HC1evqDzI",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que são os operadores lógicos?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Operadores que utilizam dados irracionais para gerar resultados lógicos."
+                },
+                {
+                  "id": "b",
+                  "title": "Operadores que convertem resultados de irracionais para lógicos."
+                },
+                {
+                  "id": "c",
+                  "title": "Operadores que combinam resultados lógicos e geram um resultado final lógico."
+                },
+                {
+                  "id": "d",
+                  "title": "Operadores que combinam resultados lógicos e geram um resultado final que não é lógico."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual desses exemplos de operador lógico está correto?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "2 > 5 && 3 > 1 = Verdadeiro"
+                },
+                {
+                  "id": "b",
+                  "title": "!(3 = 1 && 2 > 1) — Verdadeiro"
+                },
+                {
+                  "id": "c",
+                  "title": "7 <> 7 || 1 <= 10 — Falso"
+                },
+                {
+                  "id": "d",
+                  "title": "!(1 = 1 && 7 > 3) — Verdadeiro"
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Highlights da aula",
+          "description": "Vamos rever o que aprendemos nesta aula e o que aprenderemos na próxima.",
+          "duration": "00:46",
+          "vimeo": "",
+          "youtube": "",
+          "test_comprehension": [],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "As Linguagens de Programação",
+      "description": "Entendendo como as linguagens de programação funcionam, como utilizamos elas na prática e como o computador as interpreta.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Linguagens de baixo nível",
+          "description": "Vamos aprender o que são linguagens de baixo nível.",
+          "duration": "01:45",
+          "vimeo": "",
+          "youtube": "https://youtu.be/1y0_tRvgh2k",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Segundo o professor, o que é uma linguagem de programação?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Método padronizado de comunicar instruções para um computador."
+                },
+                {
+                  "id": "b",
+                  "title": "Método não padronizado de criar instruções para um computador."
+                },
+                {
+                  "id": "c",
+                  "title": "Método de estruturação da linguagem dos computadores."
+                },
+                {
+                  "id": "d",
+                  "title": "Método usado para criar os códigos da programação."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que são linguagens de baixo nível?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Método usado para falar com computador menos antigos."
+                },
+                {
+                  "id": "b",
+                  "title": "Método usado para falar com computadores mais avançados."
+                },
+                {
+                  "id": "c",
+                  "title": "Método usado para falar diretamente com o hardware de um computador."
+                },
+                {
+                  "id": "d",
+                  "title": "Método usado para falar diretamente com o software de um computador."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "O que é o hardware?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Os programas de um computador."
+                },
+                {
+                  "id": "b",
+                  "title": "Os aplicativos que baixamos em um computador."
+                },
+                {
+                  "id": "c",
+                  "title": "O responsável pela interpretação dos códigos da programação."
+                },
+                {
+                  "id": "d",
+                  "title": "As peças do computador."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "Linguagens de alto nível",
+          "description": "Vamos aprender mais sobre as linguagens de alto nível.",
+          "duration": "01:34",
+          "vimeo": "",
+          "youtube": "https://youtu.be/ElfgJ9HBkUk",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que são linguagens de alto nível?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É uma linguagem mais complexa de programação."
+                },
+                {
+                  "id": "b",
+                  "title": "É uma linguagem mais fácil de interpretar para os humanos, mas que também funciona como linguagem de baixo nível para o computador."
+                },
+                {
+                  "id": "c",
+                  "title": "É uma linguagem mais fácil de interpretar para os humanos, mas que não é entendida pelo computador."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Do que é preciso para programar com a linguagem de alto nível?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É preciso saber como funciona um circuito."
+                },
+                {
+                  "id": "b",
+                  "title": "É preciso saber como funcionam as placas do computador."
+                },
+                {
+                  "id": "c",
+                  "title": "É preciso conhecer os comandos, criar lógicas e adaptar para uma linguagem de alto nível."
+                },
+                {
+                  "id": "d",
+                  "title": "É preciso conhecer o funcionamento do hardware para converter a linguagem de baixo nível para uma linguagem mais simples."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual a diferença entre as linguagens de baixo e alto nível?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "As linguagens de baixo nível e alto nível são iguais, só utilizam algoritmos diferentes."
+                },
+                {
+                  "id": "b",
+                  "title": "As linguagens de baixo nível só funcionam em computador antigos e as de alto nível só funcionam em computador de alta tecnologia."
+                },
+                {
+                  "id": "c",
+                  "title": "As linguagens de baixo nível falam diretamente com o software do computador e as de alto nível possuem uma camada interpretativa."
+                },
+                {
+                  "id": "d",
+                  "title": "As linguagens de baixo nível falam diretamente com o hardware do computador e as de alto nível possuem uma camada interpretativa."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Tipos de linguagens de alto nível",
+          "description": "Vamos conhecer alguns tipos de linguagem de alto nível. ",
+          "duration": "01:24",
+          "vimeo": "",
+          "youtube": "https://youtu.be/pq27KZw2wjk",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Quais desses exemplos NÃO é uma linguagem de alto nível?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "JavaScript"
+                },
+                {
+                  "id": "b",
+                  "title": "RH+"
+                },
+                {
+                  "id": "c",
+                  "title": "PHP"
+                },
+                {
+                  "id": "d",
+                  "title": "C++"
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Qual dos dois tipos de linguagens de programação é a mais utilizada?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Linguagens de alto nível."
+                },
+                {
+                  "id": "b",
+                  "title": "Linguagens de baixo nível."
+                },
+                {
+                  "id": "c",
+                  "title": "As duas são utilizadas com a mesma frequência."
+                },
+                {
+                  "id": "d",
+                  "title": "Depende da aplicação necessária."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Programação além da teoria",
+      "description": "Descobrindo como começar a usar a programação a partir de amanhã.",
+      "activities": [
+        {
+          "id": "",
+          "index": 1,
+          "title": "Próximos passos",
+          "description": "Vamos ver quais são os próximos passos para nos tornarmos programadores.",
+          "duration": "02:27",
+          "vimeo": "",
+          "youtube": "https://youtu.be/3oVtlc2QFrA",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "Quais são alguns dos outros conceitos sobre programação que podemos encontrar por aí?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Estruturas relacionais e vetores."
+                },
+                {
+                  "id": "b",
+                  "title": "Estruturas condicionais, laços de repetição e vetores."
+                },
+                {
+                  "id": "c",
+                  "title": "Estruturas, laços e vetores."
+                },
+                {
+                  "id": "d",
+                  "title": "Estruturas condicionais, laços de correlação e vetorização."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "Como você pode começar a usar a programação na sua vida?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Desenvolvendo um novo aplicativo."
+                },
+                {
+                  "id": "b",
+                  "title": "Comprando máquinas de alta tecnologia."
+                },
+                {
+                  "id": "c",
+                  "title": "Desenvolvendo o raciocínio lógico, detalhando tarefas do dia a dia e pensando de forma mais simples."
+                },
+                {
+                  "id": "d",
+                  "title": "Fazendo um curso avançado de programação na prática."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual o nome do programa que você pode baixar para começar a programar?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Visualg"
+                },
+                {
+                  "id": "b",
+                  "title": "GVisual"
+                },
+                {
+                  "id": "c",
+                  "title": "Visualguide"
+                },
+                {
+                  "id": "d",
+                  "title": "Visug"
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 2,
+          "title": "JavaScript",
+          "description": "Vamos aprender mais sobre o JavaScript.",
+          "duration": "01:56",
+          "vimeo": "",
+          "youtube": "https://youtu.be/JtQlSi43278",
+          "test_comprehension": [
+            {
+              "id": "1",
+              "title": "O que é JavaScript?",
+              "correct": "d",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "É um aplicativo de programação."
+                },
+                {
+                  "id": "b",
+                  "title": "É um tipo de linguagem de programação de baixo nível."
+                },
+                {
+                  "id": "c",
+                  "title": "É um hardware."
+                },
+                {
+                  "id": "d",
+                  "title": "É uma linguagem de programação."
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "title": "O que é preciso para começar a programar com JavaScript?",
+              "correct": "b",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Aprendendo tudo sobre computadores: as peças, o funcionamento etc."
+                },
+                {
+                  "id": "b",
+                  "title": "Conhecer os conceitos que vimos ao longo deste curso."
+                },
+                {
+                  "id": "c",
+                  "title": "Saber o que são algoritmos."
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "title": "Qual é o conselho do professor para quem quer se tornar um programador?",
+              "correct": "c",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "Se formar em Tecnologia da Informação."
+                },
+                {
+                  "id": "b",
+                  "title": "Fazer um curso avançado."
+                },
+                {
+                  "id": "c",
+                  "title": "Estudar, viver e ir atrás do conhecimento."
+                },
+                {
+                  "id": "d",
+                  "title": "Começar um projeto de programação."
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "title": "Qual é o nome dos eventos organizados por comunidades de desenvolvedores e programadores?",
+              "correct": "a",
+              "score": 0,
+              "time_position": "00:00",
+              "alternatives": [
+                {
+                  "id": "a",
+                  "title": "MeetUps"
+                },
+                {
+                  "id": "b",
+                  "title": "Meets"
+                },
+                {
+                  "id": "c",
+                  "title": "UpMeet"
+                },
+                {
+                  "id": "d",
+                  "title": "Nenhuma das anteriores."
+                }
+              ]
+            }
+          ],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "",
+          "index": 3,
+          "title": "Desafio!",
+          "description": "Dá uma olhada no desafio que o professor deixou para você!",
+          "duration": "01:34",
+          "vimeo": "",
+          "youtube": "https://youtu.be/-YqasV5nvsM",
+          "test_comprehension": [],
+          "weblink": [
+            {
+              "id": "",
+              "title": "Cores e descobrir um mundo de outras",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "href": "",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "additional_material": [
+            {
+              "id": "5e4rty54ert5y4",
+              "title": "Nova era da fotografia digital",
+              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
+              "time_position": "1:25",
+              "test_placement": [
+                {
+                  "id": "",
+                  "title": "",
+                  "correct": "",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    },
+                    {
+                      "id": "",
+                      "title": ""
+                    }
+                  ]
+                }
+              ],
+              "test_final": [
+                {
+                  "id": "1",
+                  "title": "",
+                  "correct": "a",
+                  "score": 0,
+                  "time_position": "00:00",
+                  "alternatives": [
+                    {
+                      "id": "a",
+                      "title": ""
+                    },
+                    {
+                      "id": "b",
+                      "title": ""
+                    },
+                    {
+                      "id": "c",
+                      "title": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "test_placement": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ],
+      "test_final": [
+        {
+          "id": "",
+          "title": "",
+          "correct": "",
+          "score": 0,
+          "time_position": "00:00",
+          "alternatives": [
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            },
+            {
+              "id": "",
+              "title": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
