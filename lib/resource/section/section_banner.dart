@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:ux_navigation/ui/ui_label.dart';
 
 class SectionBanner extends StatelessWidget {
   final String title;
@@ -8,21 +9,21 @@ class SectionBanner extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    String courseId = '5da730a6359b52b579f25715_720x405';
+    final String assetImage = "assets/images/courses/${courseId}.png";
+
     return Container(
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: <Widget>[
           Container(
             color: Colors.transparent,
-            padding: EdgeInsets.only(left: 10),
-            child: Padding(
-              padding: const EdgeInsets.only(left: 6.0, bottom: 10),
-              child: Text(this.title),
-            ),
+            padding: EdgeInsets.only(left: 10, bottom: 10),
+            child: Text(this.title),
           ),
           Container(
             child: Image(
-              image: new AssetImage("assets/images/birdboxBanner.jpg"),
+              image: new AssetImage(assetImage),
             ),
           ),
           Container(
@@ -31,49 +32,48 @@ class SectionBanner extends StatelessWidget {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
+
                 FlatButton(
-                  child: Container(
-                    padding: EdgeInsets.only(top: 8, bottom: 8),
-                    width: 140,
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: <Widget>[
-                        Icon(
-                          Icons.play_arrow,
-                          color: Colors.black,
-                        ),
-                        Text(
-                          'Assistir',
-                          style: TextStyle(color: Colors.black),
-                        )
-                      ],
-                    ),
-                  ),
                   color: Colors.white,
-                  onPressed: () {},
+                  shape: RoundedRectangleBorder(borderRadius: new BorderRadius.circular(5.0)),
+                  padding: EdgeInsets.only(top: 2, bottom: 2, left: 30, right: 37),
+                  child: Row(
+                    children: <Widget>[
+                      Icon(Icons.play_arrow, color: Colors.black),
+                      SizedBox(width: 5),
+                      Text(
+                        UILabel.WATCH,
+                        style: TextStyle(color: Colors.black),
+                      ),
+                    ],
+                  ),
+                  onPressed: () {
+                    /*if (this.onPlay != null) {
+                      this.onPlay(this.courseId);
+                    }*/
+                  },
                 ),
                 FlatButton(
-                  child: Container(
-                    color: Colors.transparent,
-                    padding: EdgeInsets.only(top: 8, bottom: 8),
-                    width: 140,
-                    child: Row(
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: <Widget>[
-                        Icon(
-                          Icons.add,
-                          color: Colors.white,
-                        ),
-                        Text(
-                          'Minha Lista',
-                          style: TextStyle(color: Colors.white),
-                        )
-                      ],
-                    ),
+                  color: Color(0xffb2208c),
+                  shape: RoundedRectangleBorder(borderRadius: new BorderRadius.circular(5.0)),
+                  padding: EdgeInsets.only(top: 2, bottom: 2, left: 20, right: 30),
+                  child: Row(
+                    children: <Widget>[
+                      Icon(Icons.add,
+                        color: Colors.white,),
+                      SizedBox(width: 5),
+                      Text(
+                        'Minha Lista',
+                        style: TextStyle(color: Colors.white),
+                      ),
+                    ],
                   ),
-                  color: Color(0xff4f4f4f),
-                  onPressed: () {},
-                )
+                  onPressed: () {
+                    /*if (this.onPlay != null) {
+                      this.onPlay(this.courseId);
+                    }*/
+                  },
+                ),
               ],
             ),
           )

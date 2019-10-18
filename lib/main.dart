@@ -2,9 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:ux_navigation/app/app_behavior.dart';
 import 'package:ux_navigation/app/app_routing.dart';
+import 'package:ux_navigation/custom/theme/theme_config.dart';
+import 'package:ux_navigation/custom/theme/theme_select.dart';
 import 'package:ux_navigation/page/page_splashscreen.dart';
-import 'package:ux_navigation/theme/theme_config.dart';
-import 'package:ux_navigation/theme/theme_select.dart';
 import 'package:ux_navigation/ui/ui_label.dart';
 
 void main() {

@@ -29,7 +29,6 @@ class PageInfoCourse extends StatelessWidget {
                     ),
                     child: FlatButton(
                         onPressed: () {
-                          // CustomNavigator.showPlayer(context, Player());
                         },
                         child: Center(
                           child: Container(

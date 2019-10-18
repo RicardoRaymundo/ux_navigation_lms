@@ -1,5 +1,7 @@
 class UiSVG {
   static const String APP_LOGO = 'assets/svg/logo-new-school.svg';
+  static const String NEW_SCHOOL = 'assets/svg/new_school.svg';
+  static const String ICON_NEW_SCHOOL = 'assets/svg/icon/icon_new_school.svg';
   static const String PLAY = 'assets/svg/play.svg';
   static const String CHART = 'assets/svg/chart.svg';
 
@@ -57,4 +59,5 @@ class UiSVG {
   static const String ICON_VIDEO = 'assets/svg/icon/icon_video.svg';
   static const String ICON_LINK = 'assets/svg/icon/icon_link.svg';
   static const String ICON_DOC = 'assets/svg/icon/icon_doc.svg';
+
 }

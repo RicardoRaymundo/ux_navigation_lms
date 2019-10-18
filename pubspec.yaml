@@ -23,7 +23,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  outline_material_icons: ^0.1.0
+  outline_material_icons: ^0.1.1
   flutter_svg: ^0.14.2
   percent_indicator: ^2.1.1+1
   async_loader: ^0.1.2
@@ -104,6 +104,8 @@ flutter:
     - assets/svg/medalha1.svg
     - assets/svg/medalha2.svg
     - assets/svg/play.svg
+    - assets/svg/icon/icon_new_school.svg
+    - assets/svg/new_school.svg
     - assets/images/miranha.png
     - assets/images/birdboxBanner.jpg
     - assets/images/bg_course_content_info.png
@@ -119,6 +121,11 @@ flutter:
     - assets/images/10.jpg
     - assets/images/11.jpg
     - assets/images/12.jpg
+    - assets/images/courses/5da730a6359b52b579f25715_1220x1476.png
+    - assets/images/courses/5da730a6359b52b579f25715_200x286.png
+    - assets/images/courses/5da730a6359b52b579f25715_308x616.png
+    - assets/images/courses/5da730a6359b52b579f25715_424x606.png
+    - assets/images/courses/5da730a6359b52b579f25715_720x405.png
 
   fonts:
     - family: CustomIcons

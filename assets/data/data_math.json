@@ -181,7 +181,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
           "duration": "04:42",
@@ -555,7 +554,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Espécies de operações",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
           "duration": "05:29",
@@ -954,7 +952,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Derivados",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
           "duration": "04:13",
@@ -1353,7 +1350,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Conceituação técnica",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas",
           "duration": "03:51",
@@ -1751,7 +1747,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
           "duration": "04:33",
@@ -2148,7 +2143,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Como identificar funções do primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
           "duration": "03:37",

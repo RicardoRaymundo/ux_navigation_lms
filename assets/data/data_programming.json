@@ -13,7 +13,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "O que é programação?",
           "description": "Vamos entender o que é programação e quais são seus princípios.",
           "duration": "03:25",
@@ -206,7 +205,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Programação na prática",
           "description": "Vamos entender o que podemos fazer com a programação e onde ela pode ser aplicada no nosso dia a dia.",
           "duration": "02:11",
@@ -399,7 +397,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Quando isso tudo começou?",
           "description": "Vamos aprender mais sobre a história da programação.",
           "duration": "02:38",
@@ -653,7 +650,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Importância da programação",
           "description": "Vamos entender por que é preciso aprender programação, o que ela nos ensina e qual a importância dela para o futuro.",
           "duration": "02:56",
@@ -846,7 +842,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Áreas de atuação",
           "description": "",
           "duration": "02:05",
@@ -1064,7 +1059,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Profissões do futuro",
           "description": "Vamos descobrir quais serão as habilidades mais importantes no futuro.",
           "duration": "02:28",
@@ -1318,7 +1312,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Tendências tecnológicas",
           "description": "Vamos conhecer algumas das tendências tecnológicas do futuro que utilizam a programação.",
           "duration": "03:04",
@@ -1511,7 +1504,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Programação no dia a dia",
           "description": "Vamos descobrir onde podemos utilizar a programação na prática do nosso dia a dia.",
           "duration": "02:03",
@@ -1679,7 +1671,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Outras aplicações da programação",
           "description": "Vamos ver como a programação está sendo utilizada na área da saúde.",
           "duration": "01:34",
@@ -1883,7 +1874,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Primeiros passos",
           "description": "Vamos entender os primeiros passos para começar a programar.",
           "duration": "02:26",
@@ -2101,7 +2091,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Sequência lógica",
           "description": "Vamos aprender sobre sequência lógica e os processos da programação.",
           "duration": "01:37",
@@ -2269,7 +2258,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Sequência lógica (Parte 2)",
           "description": "Vamos ver exemplos mais complexos de sequências lógicas de programação.",
           "duration": "01:39",
@@ -2473,7 +2461,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Tipos de dados",
           "description": "Vamos aprender quais são os tipos de dados utilizados na programação e como aplicar eles na prática.",
           "duration": "02:52",
@@ -2691,7 +2678,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Mais sobre os tipos de dados",
           "description": "Vamos conhecer mais algumas características dos tipos de dados.",
           "duration": "01:36",
@@ -2884,7 +2870,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Variáveis e constantes",
           "description": "Vamos aprender o que são variáveis e constantes, e qual a diferença entre elas.",
           "duration": "02:14",
@@ -3113,7 +3098,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Tipos de operadores",
           "description": "Vamos conhecer os principais tipos de operadores da linguagem de programação.",
           "duration": "03:32",
@@ -3331,7 +3315,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Operadores lógicos",
           "description": "Vamos aprender a utilizar os operadores lógicos na prática.",
           "duration": "02:35",
@@ -3499,7 +3482,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Highlights da aula",
           "description": "Vamos rever o que aprendemos nesta aula e o que aprenderemos na próxima.",
           "duration": "00:46",
@@ -3677,7 +3659,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Linguagens de baixo nível",
           "description": "Vamos aprender o que são linguagens de baixo nível.",
           "duration": "01:45",
@@ -3870,7 +3851,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Linguagens de alto nível",
           "description": "Vamos aprender mais sobre as linguagens de alto nível.",
           "duration": "01:34",
@@ -4063,7 +4043,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Tipos de linguagens de alto nível",
           "description": "Vamos conhecer alguns tipos de linguagem de alto nível. ",
           "duration": "01:24",
@@ -4292,7 +4271,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Próximos passos",
           "description": "Vamos ver quais são os próximos passos para nos tornarmos programadores.",
           "duration": "02:27",
@@ -4485,7 +4463,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "JavaScript",
           "description": "Vamos aprender mais sobre o JavaScript.",
           "duration": "01:56",
@@ -4703,7 +4680,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Desafio!",
           "description": "Dá uma olhada no desafio que o professor deixou para você!",
           "duration": "01:34",

@@ -181,7 +181,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "O que é inovação",
           "description": "Agora, o professor vai se aprofundar nos 3 pilares que definem o que é inovação, dando exemplos práticos de como funciona no dia a dia.",
           "duration": "04:44",
@@ -580,7 +579,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "A velha tecnologia",
           "description": "Vamos falar sobre tecnologias criadas recentemente e que “tecnicamente” deveriam ser novas, mas estão ultrapassadas.",
           "duration": "02:43",
@@ -979,7 +977,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Aplicabilidade",
           "description": "Agora que você já sabe o que é mentalidade e mindset, vamos falar sobre a aplicabilidade disso?\n",
           "duration": "05:50",
@@ -1209,7 +1206,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Mentalidade futurista",
           "description": "Mentalidade de liderança no âmbito futurista, características de um líder do futuro, diferenciais entre o modelo de liderança atual e futurista.",
           "duration": "03:31",
@@ -1378,7 +1374,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Stand Up Comedy",
           "description": "Nessa segunda parte, tem uma história bem legal e engraçada. Bora saber o que é?",
           "duration": "05:13",
@@ -1608,7 +1603,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Dimensões sociais e tecnológicas",
           "description": "Metodologias relacionadas à análise de contexto nas dimensões políticas, tecnológicas, sociais e ecológicas, horizonte de tempo.",
           "duration": "02:41",
@@ -1777,7 +1771,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Netflix",
           "description": "Você deve adorar assistir filmes e séries, né? Se não, sabe quem curte. Nessa aula, vamos falar de onde vem esse conceito de vídeos.",
           "duration": "03:14",
@@ -1946,7 +1939,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Tecnologia e Sociedade",
           "description": "Falaremos sobre as dimensões da análise, que vai da tecnologia à sociedade.",
           "duration": "03:33",
@@ -2176,7 +2168,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Projetando o futuro",
           "description": "Análise de métodos avançados de avaliação do presente e projeção do futuro.",
           "duration": "04:08",
@@ -2345,7 +2336,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Verdade ou Desafio?",
           "description": "Já pensou em desafiar o presente? Nesta aula, vamos falar sobre isso.",
           "duration": "04:04",
@@ -2575,7 +2565,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Sustentabilidade",
           "description": "Como avaliar a sustentabilidade de determinado negócio frente às demandas do futuro.",
           "duration": "03:58",
@@ -2743,7 +2732,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Geladeira inteligente",
           "description": "Imagine uma tecnologia que pudesse saber o que falta na geladeira sem você precisar ir no mercado, e ainda comprasse o que estivesse faltando.",
           "duration": "06:37",
@@ -2972,7 +2960,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Previsões futuras",
           "description": "Previsões para a tecnologia, cidades, estilo de vida, mobilidade, dentre outros temas e áreas, e como isso vai impactar o dia a dia das pessoas.",
           "duration": "04:40",
@@ -3140,7 +3127,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Internet das Coisas",
           "description": "Nessa segunda parte, vamos continuar falando sobre previsões para o futuro. Você já ouviu falar sobre IoT?",
           "duration": "02:37",
@@ -3308,7 +3294,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Realidade virtual",
           "description": "Chegamos na reta final digna de continuidade. Aqui, vamos falar sobre realidade virtual. Tá preparado?",
           "duration": "00:00",

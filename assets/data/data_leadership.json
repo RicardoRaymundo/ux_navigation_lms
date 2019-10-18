@@ -13,7 +13,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Introdução",
           "description": "Vamos conhecer um pouco melhor nosso professor Thiago Lima e começar a entender a importância deste curso.",
           "duration": "03:28",
@@ -181,7 +180,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "O Saber",
           "description": "Vamos entender a primeira característica específica por trás da legitimidade.",
           "duration": "02:54",
@@ -374,7 +372,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "O Poder",
           "description": "Vamos entender a segunda características específica por trás da legitimidade.",
           "duration": "02:48",
@@ -603,7 +600,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Meio ou fim?",
           "description": "Vamos começar a aprender mais sobre o exercício do poder.",
           "duration": "01:40",
@@ -771,7 +767,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Maquiavel",
           "description": "Vamos aprender o conceito de poder de Maquiavel.",
           "duration": "03:05",
@@ -939,7 +934,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Highlights da aula",
           "description": "Vamos entender o que define a liderança no exercício do poder.",
           "duration": "01:49",
@@ -1117,7 +1111,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Soberania",
           "description": "Vamos entender mais sobre o primeiro tipo de exercício de poder.",
           "duration": "02:08",
@@ -1310,7 +1303,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Autonomia",
           "description": "Vamos aprender mais sobre o segundo tipo de exercício de poder.",
           "duration": "02:42",
@@ -1478,7 +1470,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Centralizado ou descentralizado?",
           "description": "Vamos aprender mais sobre os modelos dos tipos de exercício de poder.",
           "duration": "02:32",
@@ -1707,7 +1698,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Autonomia em outros contextos",
           "description": "Vamos ver como a autonomia se aplica a diferentes contextos.",
           "duration": "02:12",
@@ -1900,7 +1890,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Líder autônomo",
           "description": "Vamos entender do que um líder precisa para ser autônomo.",
           "duration": "02:33",
@@ -2093,7 +2082,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Highlights da aula",
           "description": "Vamos ver a importância da autonomia e quais foram os destaques da aula.",
           "duration": "02:00",
@@ -2297,7 +2285,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Relação de poder (EXEMPLO PRÁTICO)",
           "description": "Vamos conhecer um exemplo prático de relação de poder.",
           "duration": "03:05",
@@ -2465,7 +2452,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Relação de poder — Parte 2",
           "description": "Vamos analisar o exemplo prático para entender o que é relação de poder.",
           "duration": "03:02",
@@ -2683,7 +2669,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Conclusão do exemplo",
           "description": "Vamos concluir a análise do exemplo prático e ver os highlights da aula.",
           "duration": "02:23",
@@ -2861,7 +2846,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Certo e errado",
           "description": "Vamos ver como usar o exercício de poder na prática",
           "duration": "01:33",
@@ -3004,7 +2988,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Exemplo e legitimidade",
           "description": "Vamos aprender o que é essencial em um líder e como a construção da legitimidade pode ajudar.",
           "duration": "02:24",

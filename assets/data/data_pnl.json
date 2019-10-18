@@ -13,7 +13,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "PN… o quê?",
           "description": "Vamos descobrir o que é PNL e por que ela existe.",
           "duration": "00:15",
@@ -207,7 +206,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Cérebro e Mente",
           "description": "Vamos entender qual é a relação da PNL com o nosso cérebro.",
           "duration": "00:15",
@@ -401,7 +399,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Tony Robbins",
           "description": "Vamos conhecer a história de Tony Robbins.",
           "duration": "00:15",
@@ -656,7 +653,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Por que fazemos o que fazemos?",
           "description": "Vamos entender como funciona a nossa mente na prática.",
           "duration": "00:15",
@@ -850,7 +846,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "A sobrevivência humana",
           "description": "Vamos ver alguns dos mecanismos de sobrevivência que herdamos da nossa espécie antes da civilização moderna.",
           "duration": "00:15",
@@ -1105,7 +1100,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Desempenho humano",
           "description": "Vamos entender como funciona nosso desempenho e o que é entusiasmo.",
           "duration": "00:15",
@@ -1299,7 +1293,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Estado emocional e foco mental",
           "description": "Vamos aprender uma ferramenta eficaz para ter domínio de nossa mente e nossas emoções.",
           "duration": "00:15",
@@ -1554,7 +1547,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Peak State",
           "description": "Vamos ver os resultados de um estado emocional elevado e aprender alguns conselhos da PNL.",
           "duration": "00:15",
@@ -1748,7 +1740,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "A visualização de resultados",
           "description": "Vamos aprender a utilizar o Ciclo do Sucesso para modificar nossas crenças e conseguir melhores resultados.",
           "duration": "00:15",
@@ -2003,7 +1994,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Comportamento humano",
           "description": "Vamos começar a entender as necessidades emocionais humanas.",
           "duration": "00:15",
@@ -2197,7 +2187,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "As 6 necessidades emocionais",
           "description": "Vamos aprofundar nas 6 necessidades emocionais do ser humano.",
           "duration": "00:15",
@@ -2391,7 +2380,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Ferramenta de autoconhecimento",
           "description": "Vamos aprender a utilizar as 6 necessidades emocionais na prática como ferramenta de autoconhecimento.",
           "duration": "00:15",
@@ -2645,7 +2633,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Crenças e Valores",
           "description": "Vamos aprender como as crenças e valores afetam os nossos resultados.",
           "duration": "00:15",
@@ -2813,7 +2800,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Consciência das necessidades",
           "description": "Vamos aprender a utilizar nossas crenças, valores e necessidades de forma consciente.",
           "duration": "00:15",
@@ -2956,7 +2942,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Veículos positivos e negativos",
           "description": "Vamos entender a importância de escolher veículos positivos para as nossas necessidades.",
           "duration": "00:15",

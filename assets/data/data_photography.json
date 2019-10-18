@@ -7,31 +7,31 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5da730a6359b52b579f25715-lessons01",
       "title": "Introdução à Fotografia",
       "description": "Aprendendo sobre a fotografia, o corpo humano e os raios.",
       "test_placement": [
         {
-          "id": "",
+          "id": "5da730a6359b52b579f25715-lessons01-test_placement01",
           "title": "",
-          "correct": "",
+          "correct": "5da730a6359b52b579f25715-lessons01-test_placement01-alternatives-b",
           "score": 0,
           "time_position": "00:00",
           "alternatives": [
             {
-              "id": "",
+              "id": "5da730a6359b52b579f25715-lessons01-test_placement01-alternatives-a",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da730a6359b52b579f25715-lessons01-test_placement01-alternatives-b",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da730a6359b52b579f25715-lessons01-test_placement01-alternatives-c",
               "title": ""
             },
             {
-              "id": "",
+              "id": "5da730a6359b52b579f25715-lessons01-test_placement01-alternatives-d",
               "title": ""
             }
           ]
@@ -39,7 +39,7 @@
       ],
       "activities": [
         {
-          "id": "",
+          "id": "5da730a6359b52b579f20002",
           "title": "(Primeiros passos) Fotografia",
           "description": "Vamos descobrir o significado de PHOTO-GRAFIA?",
           "duration": "02:57",
@@ -72,7 +72,7 @@
               ]
             },
             {
-              "id": "2",
+              "id": "5da730a6359b52b579f20003",
               "title": "Qual é a função da fotografia?",
               "correct": "a",
               "score": 0,
@@ -257,7 +257,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Raios invisíveis",
           "description": "Você sabia que existem vários tipos de raios invisíveis ao olho humano?",
           "duration": "02:48",
@@ -475,7 +474,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Reflexo",
           "description": "Você sabia que tudo que visualizamos é refletido no nosso consciente de ponta cabeça?",
           "duration": "03:41",
@@ -971,7 +969,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Cores",
           "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
           "duration": "03:00",
@@ -1189,7 +1186,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Cores quentes e frias",
           "description": "Sabia que as cores também são classificadas como cores quentes e cores frias?",
           "duration": "02:42",
@@ -1685,7 +1681,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Difusor",
           "description": "Saiba aproveitar os benefícios de um difusor.",
           "duration": "02:34",
@@ -1903,7 +1898,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Flash",
           "description": "O flash tem um papel fundamental na fotografia. Saiba o porquê!",
           "duration": "01:54",
@@ -2322,7 +2316,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Tipos de fotografia",
           "description": "Conheça outros tipos de bases para fotografia bem interessantes! #Partiu",
           "duration": "04:11",
@@ -2540,7 +2533,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Segredo das fotos perfeitas",
           "description": "Descubra os segredos por trás das fotos que deixam água na boca.",
           "duration": "02:40",
@@ -3011,7 +3003,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Fotografia de celular",
           "description": "Quer aprender como tirar uma foto top pelo celular?",
           "duration": "02:44",
@@ -3179,7 +3170,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Peru",
           "description": "Você sabe onde fica o ponto central de uma fotografia?",
           "duration": "02:15",
@@ -3575,7 +3565,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Enquadramento",
           "description": "O que você acha de aprender a enquadrar suas fotos?",
           "duration": "02:35",
@@ -3743,7 +3732,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Fotografando pets",
           "description": "Saiba qual é a melhor estratégia para tirar foto do seu bichinho de estimação.",
           "duration": "02:01",

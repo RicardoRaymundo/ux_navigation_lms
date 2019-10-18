@@ -7,188 +7,79 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5da74b5c5fe71a52cbb32a4a-lessons1",
       "title": "O que é Literatura?",
       "description": "Entenda a importância da Literatura e como ela é estudada.",
       "activities": [
         {
-          "id": "",
-          "index": 1,
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1",
           "title": "Introdução Introdução sobre a importância de se aprender Literatura.",
           "description": "Introdução sobre a importância de se aprender Literatura.",
           "duration": "03:31",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
           "youtube": "https://www.youtube.com/watch?v=7R_RVXAp3yA",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension1",
               "title": "Por que estudamos literatura?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension1-alternatives-a",
                   "title": "Para conhecer os autores que marcaram a História do mundo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension1-alternatives-b",
                   "title": "Para conhecer novas histórias e ganhar mais cultura."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension1-alternatives-c",
                   "title": "Para conhecer os autores que revolucionaram a Literatura Brasileira. "
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension1-alternatives-d",
                   "title": "Para conhecer nossos antepassados, nossa cultura e conhecer a nós mesmos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension2",
               "title": "Quantos movimentos literários existem?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension2-alternatives-a",
                   "title": "5 movimentos literários"
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension2-alternatives-b",
                   "title": "10 movimentos literários"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension2-alternatives-c",
                   "title": "7 movimentos literários"
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities1-test_comprehension2-alternatives-d",
                   "title": "2 movimentos literários"
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
           "id": "",
-          "index": 2,
           "title": "Escolas Literárias",
           "description": "Aprenda mais sobre os movimentos literários.",
           "duration": "03:18",
           "vimeo": "https://vimeo.com/333121871/31cc22b74d",
           "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -437,13 +328,11 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Trovadorismo",
           "description": "Vamos aprender sobre o primeiro movimento literário da História.",
           "duration": "03:05",
           "vimeo": "https://vimeo.com/333128531/b88f845b66",
           "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -681,13 +570,11 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Cantigas",
           "description": "Como eram criadas as cantigas durante o Trovadorismo e de quais elementos elas eram formadas.",
           "duration": "02:44",
           "vimeo": "https://vimeo.com/333129261/4911740f4d",
           "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -900,13 +787,11 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Recursos dos trovadores",
           "description": "Os recursos utilizados pelos trovadores para facilitar a memorização das cantigas.",
           "duration": "01:51",
           "vimeo": "https://vimeo.com/333129865/42d1c88a79",
           "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -1130,13 +1015,11 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Amor ou amigo?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: amor e amigo.",
           "duration": "03:25",
           "vimeo": "https://vimeo.com/333130226/1724ff0fba",
           "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -1299,13 +1182,11 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Escárnio ou maldizer?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: escárnio e maldizer.",
           "duration": "03:14",
           "vimeo": "https://vimeo.com/333130950/eee3fd5e7d",
           "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -1468,13 +1349,11 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Segundo Movimento Literário",
           "description": "Vamos aprender sobre o segundo movimento literário da História.",
           "duration": "03:47",
           "vimeo": "https://vimeo.com/333131625/759cb297de",
           "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -1723,13 +1602,11 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Características de Humanismo",
           "description": "Características mais importantes do Humanismo.",
           "duration": "04:05",
           "vimeo": "https://vimeo.com/333143366/e68c981f50",
           "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -1942,13 +1819,11 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Gil Vicente",
           "description": "A história de Gil Vicente, autor mais importante do Humanismo.",
           "duration": "02:47",
           "vimeo": "https://vimeo.com/333144267/a8d003a1af",
           "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -2136,13 +2011,11 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Auto da Barca do Inferno",
           "description": "O Auto da Barca do Inferno e a transformação do teatro brasileiro.",
           "duration": "02:52",
           "vimeo": "https://vimeo.com/333144905/35699f2629",
           "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M",
-
           "test_comprehension": [
             {
               "id": "1",
@@ -2366,7 +2239,6 @@
       "activities": [
         {
           "id": "",
-          "index": 1,
           "title": "Terceiro Movimento Literário",
           "description": "Vamos conhecer o terceiro movimento literário da História.",
           "duration": "03:48",
@@ -2559,7 +2431,6 @@
         },
         {
           "id": "",
-          "index": 2,
           "title": "Classicismo",
           "description": "O que é Classicismo e quais são suas características principais.",
           "duration": "03:32",
@@ -2752,7 +2623,6 @@
         },
         {
           "id": "",
-          "index": 3,
           "title": "Versos",
           "description": "A lógica de escrita de versos utilizada pelos poetas do Classicismo.",
           "duration": "02:20",

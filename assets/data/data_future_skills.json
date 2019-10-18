@@ -13,13 +13,12 @@
       "activities": [
         {
           "id": "5da72663bbf1dbcc0da28d70",
-          "index": 1,
+
           "title": "Revolução Agrícola + Era Industrial",
           "description": "Vamos aprender sobre como as mudanças sociais deram origem à sociedade em que vivemos hoje.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334798004/860d2c4b98",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da726693a688cda42a1addb",
@@ -110,44 +109,10 @@
                   "title": "",
                   "correct": "",
                   "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "5da727d80f2869863a01e577",
-                      "title": ""
-                    },
-                    {
-                      "id": "5da727e282aad6e4cf286b5d",
-                      "title": ""
-                    },
-                    {
-                      "id": "5da727e282aad6e4cf286b5d",
-                      "title": ""
-                    }
-                  ]
+                  "alternatives": []
                 }
               ],
-              "test_final": [
-                {
-                  "id": "5da727eb9a03fd3b1a217864",
-                  "title": "",
-                  "correct": "5da727f872b7bbf2de7c470a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "5da727f872b7bbf2de7c470a",
-                      "title": ""
-                    },
-                    {
-                      "id": "5da727ff29b4c95c0d9bb0d6",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": "5da72807dc2ee4d08007f0d1"
-                    }
-                  ]
-                }
-              ]
+              "test_final": []
             }
           ],
           "additional_material": [
@@ -207,13 +172,11 @@
         },
         {
           "id": "5da7284a0fac75f7e6d583f0",
-          "index": 2,
           "title": "A Era Digital",
           "description": "Vamos aprender mais sobre a era na qual estamos vivendo.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334798206/509ab1d909",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da72852fd0d18c4830986a6",
@@ -426,13 +389,11 @@
         },
         {
           "id": "5da72934536a2de15d5dafd2",
-          "index": 3,
           "title": "Características da nova economia",
           "description": "Vamos aprender mais sobre a nova economia e suas características principais.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334798395/388f930a46",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da7293a051b0a1dc8f14cfe",
@@ -643,7 +604,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -707,13 +667,11 @@
       "activities": [
         {
           "id": "5da72e76be9b3008599ccbf5",
-
           "title": "Emprego x Trabalho",
           "description": "Vamos entender a diferença entre emprego e trabalho.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334797874/6ae57ab98d",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da72e7d367c424b7ea7d584",
@@ -874,13 +832,11 @@
         },
         {
           "id": "5da72ef1d8286621449db00c",
-          "index": 2,
           "title": "A Economia Freelancer",
           "description": "Vamos aprender as características dessa economia e como é possível trabalhar sem ter um emprego.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845187/95d8c05295",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da72ef5747d932b3d762ff9",
@@ -1065,13 +1021,11 @@
         },
         {
           "id": "5da7324829361a8fc3e66bd5",
-          "index": 3,
           "title": "Novos negócios do futuro",
           "description": "Vamos entender a origem dos novos tipos de negócio e do que é preciso para empreender.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845414/2817285247",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da7324eb818b84949315231",
@@ -1230,7 +1184,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -1294,13 +1247,11 @@
       "activities": [
         {
           "id": "5da733193937f3a23af81cc2",
-
           "title": "Novas formas de trabalho",
           "description": "Vamos aprender o que é o MEI e como ele pode ser utilizado na prática.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845553/17670158eb",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da733212cdf738fad98ab76",
@@ -1488,13 +1439,11 @@
         },
         {
           "id": "5da733cb0585fae58e729242",
-          "index": 2,
           "title": "Mudanças do mercado de trabalho",
           "description": "Vamos aprender mais sobre as empresas e outros tipos de empreendedorismo.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845733/ff54885eec",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da733d1a4de575408f4dab0",
@@ -1682,13 +1631,11 @@
         },
         {
           "id": "5da739f466bc1ce72ed23bc1",
-          "index": 3,
           "title": "Empreendedorismo em rede",
           "description": "Vamos ver o que é empreendedorismo em rede na teoria e na prática.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/334845946/55fb9ea22d",
           "youtube": "",
-
           "test_comprehension": [
             {
               "id": "5da739fda7c4b8cefbbe6100",
@@ -1849,7 +1796,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {
@@ -1913,7 +1859,6 @@
       "activities": [
         {
           "id": "5da73aa53549edacd58bd26c",
-
           "title": "Habilidades comportamentais e cognitivas",
           "description": "Vamos conhecer as habilidades mais importantes do futuro do trabalho.",
           "duration": "00:15",
@@ -2106,7 +2051,6 @@
         },
         {
           "id": "5da73b368f5c9ebeae71ec1c",
-          "index": 2,
           "title": "Outras habilidades do futuro",
           "description": "Vamos continuar aprendendo sobre as habilidades comportamentais e cognitivas.",
           "duration": "00:15",
@@ -2299,7 +2243,6 @@
         },
         {
           "id": "5da73bd22f956b1a81cb2ed8",
-          "index": 3,
           "title": "Lifelong Learning",
           "description": "Vamos aprender o que é Lifelong Learning e qual a importância dele para o futuro.",
           "duration": "00:15",
@@ -2490,7 +2433,6 @@
             }
           ]
         }
-
       ],
       "test_placement": [
         {

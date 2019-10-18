@@ -98,7 +98,6 @@ class ActivitiesHeaderDescription extends StatelessWidget {
         GestureDetector(
           onTap: () {
             print('Open Video');
-            //CustomNavigator.push(context,  InfoVideoPage(), CustomTransitionAnimations.slideTransitionLeft);
 
             Navigator.push(context, SlideRightRoute(widget: InfoVideoPage()));
           },

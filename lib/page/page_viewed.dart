@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:ux_navigation/ui/ui_custom_icons.dart';
 
-class PageDownloads extends StatefulWidget {
+class PageViewed extends StatefulWidget {
   @override
-  _PageDownloadsState createState() => _PageDownloadsState();
+  _PageViewedState createState() => _PageViewedState();
 }
 
-class _PageDownloadsState extends State<PageDownloads> {
+class _PageViewedState extends State<PageViewed> {
   @override
   Widget build(BuildContext context) {
     return Container(
@@ -20,13 +20,13 @@ class _PageDownloadsState extends State<PageDownloads> {
               ClipRRect(
                 borderRadius: BorderRadius.circular(70.0),
                 child: Container(
-                  color: Color(0xff222222),
+                  color: Color(0xffb2228c),
                   child: Padding(
                     padding: EdgeInsets.all(20.0),
                     child: Icon(
-                      CustomIcons.download,
+                      CustomIcons.duplicate,
                       size: 70.0,
-                      color: Colors.green,
+                      color: Colors.white,
                     ),
                   ),
                 ),
@@ -34,19 +34,16 @@ class _PageDownloadsState extends State<PageDownloads> {
               Padding(
                 padding: EdgeInsets.only(top: 15.0, bottom: 35.0),
                 child: Text(
-                  'Os cursos e aulas baixados ficam aqui.',
+                  'Os aulas já assistidas ficam aqui.',
                   textAlign: TextAlign.center,
                   style: TextStyle(fontSize: 20, fontFamily: "Montserrat", color: Colors.white70, fontWeight: FontWeight.w400),
                 ),
               ),
               RaisedButton(
                 shape: RoundedRectangleBorder(borderRadius: new BorderRadius.circular(30.0)),
-                onPressed: (){},
+                onPressed: () {},
                 color: Color(0xffb2228c),
-                child: Text(
-                    'Encontre um curso para baixar.',
-                    style: TextStyle(fontSize: 14, color: Colors.white)
-                ),
+                child: Text('Encontre um curso para estudar.', style: TextStyle(fontSize: 14, color: Colors.white)),
               )
             ],
           ),

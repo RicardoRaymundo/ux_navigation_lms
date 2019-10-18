@@ -1,1 +1,9 @@
-<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95 95"><title>play</title><circle cx="47.5" cy="47.5" r="46" style="opacity:0.5"/><path d="M37.48,29.66V65.34l28-17.84Z" style="fill:#fff;opacity:0.8"/><circle cx="47.5" cy="47.5" r="46" style="fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px;opacity:0.5"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<svg style="enable-background:new 0 0 95 95;" id="Layer_1" version="1.1" viewBox="0 0 95 95" x="0px"
+    xmlns="http://www.w3.org/2000/svg" y="0px" xml:space="preserve">
+<circle style="opacity:0.5;enable-background:new    ;" cx="47.5" cy="47.5" r="46" />
+    <path style="fill:#FFFFFF;enable-background:new    ;"
+        d="M37.48,29.66v35.68l28-17.84L37.48,29.66z" />
+    <path style="fill:#FFFFFF;" d="M47.5,0C21.31,0,0,21.31,0,47.5S21.31,95,47.5,95S95,73.69,95,47.5S73.69,0,47.5,0z M47.5,92
+	C22.96,92,3,72.04,3,47.5C3,22.96,22.96,3,47.5,3C72.04,3,92,22.96,92,47.5C92,72.04,72.04,92,47.5,92z" />
+</svg>
