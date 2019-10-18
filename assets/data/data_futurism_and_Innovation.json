@@ -7,410 +7,145 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons1",
       "title": "Princípios do Futurismo",
       "description": "Entendendo os conceitos do Futurismo e da inovação.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1",
           "title": "Conceito de Futurismo",
           "description": "Vamos ver o conceito de Futurismo como ciência, os três pilares da inovação e alguns exemplos atuais de projetos inovadores.",
           "duration": "03:14",
           "vimeo": "https://vimeo.com/328787587",
           "youtube": "https://www.youtube.com/watch?v=f3-1eJQyQ4w",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension1",
               "title": "O que é Futurismo?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension1-alternatives-a",
                   "title": "Uma árvore."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension1-alternatives-b",
                   "title": "Uma espécie rara de peixe."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension1-alternatives-c",
                   "title": "A ciência que estuda as projeções do futuro."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension1-alternatives-d",
                   "title": "Peça de um computador."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension2",
               "title": "O que é inovação?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension2-alternatives-a",
                   "title": "Ação ou efeito de inovar."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension2-alternatives-b",
                   "title": "Uma empresa de computador."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension2-alternatives-c",
                   "title": "Uma tarefa de casa."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities1-test_comprehension2-alternatives-d",
                   "title": "Uma necessidade do ser humano."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2",
           "title": "O que é inovação",
           "description": "Agora, o professor vai se aprofundar nos 3 pilares que definem o que é inovação, dando exemplos práticos de como funciona no dia a dia.",
           "duration": "04:44",
           "vimeo": "https://vimeo.com/328787830",
           "youtube": "https://www.youtube.com/watch?v=HfEG_Ju2SIU",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension1",
               "title": "O que é inovar?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension1-alternatives-a",
                   "title": "Reutilizar o que já está disponível. "
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension1-alternatives-b",
                   "title": "Assistir às aulas de informática."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension1-alternatives-c",
                   "title": "Criar ou reinventar algo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension1-alternatives-d",
                   "title": "Em uma necessidade do ser humano."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension2",
               "title": "A inovação está diretamente ligada a tempo, eficiência e...?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension-alternatives-a",
                   "title": "Animais"
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension-alternatives-b",
                   "title": "Carros"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension-alternatives-c",
                   "title": "Passeios"
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons1-activities2-test_comprehension-alternatives-d",
                   "title": "Pessoas"
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "2",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons2",
       "title": "Consciência sobre o futuro",
       "description": "Descobrindo como se preparar para o futuro a partir de agora.",
       "activities": [
         {
-          "id": "",
-
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1",
           "title": "Decisões do futuro",
           "description": "Como tomar melhores decisões no presente sobre o futuro.",
           "duration": "03:43",
@@ -419,2152 +154,726 @@
 
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension1",
               "title": "O que podemos fazer com o nosso futuro? ",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension1-alternatives-a",
                   "title": "Podemos criar o nosso futuro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension1-alternatives-b",
                   "title": "Podemos apagar o nosso futuro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension1-alternatives-c",
                   "title": "Podemos pintar o nosso futuro."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension1-alternatives-d",
                   "title": "Podemos viver no passado do futuro."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension2",
               "title": "O que significa a sigla TI nas empresas?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension2-alternatives-a",
                   "title": "Treinamento e iluminação. "
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension2-alternatives-b",
                   "title": "Trabalho e inovação."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension2-alternatives-c",
                   "title": "Tecnologia da informação."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities1-test_comprehension2-alternatives-d",
                   "title": "Trabalho da informação."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2",
           "title": "A velha tecnologia",
           "description": "Vamos falar sobre tecnologias criadas recentemente e que “tecnicamente” deveriam ser novas, mas estão ultrapassadas.",
           "duration": "02:43",
           "vimeo": "https://vimeo.com/328788411",
           "youtube": "https://www.youtube.com/watch?v=u_hYtpPZyPc",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension1",
               "title": "O que é importante na carreira profissional?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension1-alternatives-a",
                   "title": "Desenvolvimento de software."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension1-alternatives-b",
                   "title": "Tecnologia da informação."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension1-alternatives-c",
                   "title": "Opções diversas de emprego."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension1-alternatives-d",
                   "title": "Comprar um videogame. "
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension2",
               "title": "Qual é o papel de um profissional que trabalha com desenvolvimento de software?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension2-alternatives-a",
                   "title": "Criar programas que auxiliem e facilitem o trabalho humano."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension2-alternatives-b",
                   "title": "Tirar cópias para os amigos da faculdade."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension2-alternatives-c",
                   "title": "Dormir enquanto os outros trabalham."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons2-activities2-test_comprehension2-alternatives-d",
                   "title": "Levar cafézinho para o chefe."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "3",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons3",
       "title": "Transformação de Mindset",
       "description": "Entendendo como a mudança de mentalidade da nossa sociedade está impactando o nosso futuro.",
       "activities": [
         {
-          "id": "",
-          "index": "1",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1",
           "title": "Linear x Exponencial",
           "description": "Diferença conceitual de mentalidade linear versus exponencial, sua importância para a inovação e como identificar projetos exponenciais.",
           "duration": "00:15",
           "vimeo": "https://vimeo.com/328784685",
           "youtube": "https://www.youtube.com/watch?v=C19htyqQOmo",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension1",
               "title": "O que significa mindset ou mentalidade?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension1-alternatives-a",
                   "title": "Meditação e yoga."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension1-alternatives-b",
                   "title": "Crença e modelo de pensamento."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension1-alternatives-c",
                   "title": "Idade média da mente. "
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension1-alternatives-d",
                   "title": "Local onde fazem gravações de vídeos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension2",
               "title": "Qual é o papel de um líder moderno?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension2-alternatives-a",
                   "title": "Ter um time de futebol."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension2-alternatives-b",
                   "title": "Torcer para o time que está à frente no campeonato."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension2-alternatives-c",
                   "title": "Ser popular na escola."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities1-test_comprehension2-alternatives-d",
                   "title": "Descobrir caminhos e ajudar as pessoas na conquista de um objetivo comum."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2",
           "title": "Aplicabilidade",
           "description": "Agora que você já sabe o que é mentalidade e mindset, vamos falar sobre a aplicabilidade disso?\n",
           "duration": "05:50",
           "vimeo": "https://vimeo.com/328784896",
           "youtube": "https://www.youtube.com/watch?v=WfQKLopmwXg",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension1",
               "title": "O que significa pensamento linear?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension1-alternatives-a",
                   "title": "Pensamento linear é o que segue uma linha de pontos um após o outro e não se move nesta linha, não muda de direção."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension1-alternatives-b",
                   "title": "Pensamento linear é quando você está pensando ao mesmo tempo que as outras pessoas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension1-alternatives-c",
                   "title": "Pensamento linear significa que você está com a cabeça nas nuvens."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension1-alternatives-d",
                   "title": "Pensamento linear é quando você está apaixonado e não sabe se declarar para a pessoa."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension2",
               "title": "Qual a diferença entre o líder e o chefe?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension2-alternatives-a",
                   "title": "O líder manda e o chefe faz junto com a equipe."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension2-alternatives-b",
                   "title": "O líder faz junto com a equipe e o chefe manda."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension2-alternatives-c",
                   "title": "Você errou, nós empatamos e eu ganhei."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons3-activities2-test_comprehension2-alternatives-d",
                   "title": "O líder é subordinado ao chefe."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "4",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons4",
       "title": "Futurismo & Liderança",
       "description": "Desvendando as características da verdadeira liderança do futuro.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1",
           "title": "Mentalidade futurista",
           "description": "Mentalidade de liderança no âmbito futurista, características de um líder do futuro, diferenciais entre o modelo de liderança atual e futurista.",
           "duration": "03:31",
           "vimeo": "https://vimeo.com/328785252",
           "youtube": "https://www.youtube.com/watch?v=IYcSvyfZKBw",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension1",
               "title": "Qual a característica do líder futurista?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension1-alternatives-a",
                   "title": "Que ele será avaliado por sua experiência."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension1-alternatives-b",
                   "title": "O poder deve ser exercido por quem tem cargo de alta gestão."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension1-alternatives-c",
                   "title": "Seu papel é comandar a empresa."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension1-alternatives-d",
                   "title": "Será avaliado por sua criatividade, capacidade de construir times e conhecimento do seu cliente."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension2",
               "title": "Qual a característica do líder atual?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension2-alternatives-a",
                   "title": "Será avaliado por sua criatividade, capacidade de construir time e conhecimento do seu cliente."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension2-alternatives-b",
                   "title": "Seu papel é comandar a empresa e será avaliado pela sua experiência."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension2-alternatives-c",
                   "title": "Ele e sua equipe se desenvolvem através de problemas reais."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities1-test_comprehension2-alternatives-d",
                   "title": "Todos podem exercer um papel de liderança, independente do seu cargo ou capacidade."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2",
           "title": "Stand Up Comedy",
           "description": "Nessa segunda parte, tem uma história bem legal e engraçada. Bora saber o que é?",
           "duration": "05:13",
           "vimeo": "https://vimeo.com/328785531",
           "youtube": "https://www.youtube.com/watch?v=nb0Tvh4OfPw",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension1",
               "title": "Um aluno comum de uma escola pública pode ser um líder?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension1-alternatives-a",
                   "title": "Sim, todos podem ser um líder. "
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension1-alternatives-b",
                   "title": "Não, tá maluco?"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension1-alternatives-c",
                   "title": "Jamais, só o mais popular pode ser o líder."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension1-alternatives-d",
                   "title": "Sim, desde que ele tenha bastante seguidores no Instagram."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension2",
               "title": "Segundo o vídeo, se o chuveiro da sua casa queimar, quais pontos podem ser fundamentais para resolução desse problema?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension2-alternatives-ca",
                   "title": "Você tem que ser o pai ou o responsável da casa."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension2-alternatives-cb",
                   "title": "Você tem que ter trocado o chuveiro da última vez que aconteceu isso."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension2-alternatives-cc",
                   "title": "Você pode usar sua criatividade e a experimentação."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons4-activities2-test_comprehension2-alternatives-cd",
                   "title": "Você, como filho, tem que ficar quieto e não atrapalhar."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "5",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons5",
       "title": "O Tempo",
       "description": "Entendendo como o tempo é estudado e investigado dentro do Futurismo.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1",
           "title": "Dimensões sociais e tecnológicas",
           "description": "Metodologias relacionadas à análise de contexto nas dimensões políticas, tecnológicas, sociais e ecológicas, horizonte de tempo.",
           "duration": "02:41",
           "vimeo": "https://vimeo.com/328785873",
           "youtube": "https://www.youtube.com/watch?v=tTfOqJ03Bfo",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension1",
               "title": "O que é metodologia?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension1-alternatives-a",
                   "title": "Ramo da lógica que se ocupa dos métodos das diferentes ciências."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension1-alternatives-b",
                   "title": "É uma espécie de rede social."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension1-alternatives-c",
                   "title": "É uma especialidade médica."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension1-alternatives-d",
                   "title": "É um país asiático."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension2",
               "title": "Segundo o professor, o que pode ser considerado curto prazo no tema Futurismo?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension2-alternatives-a",
                   "title": "Uma semana a um mês."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension2-alternatives-b",
                   "title": "Um mês a 3 meses."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension2-alternatives-c",
                   "title": "3 meses a 1 ano."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities1-test_comprehension2-alternatives-d",
                   "title": "1 ano a 5 anos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2",
           "title": "Netflix",
           "description": "Você deve adorar assistir filmes e séries, né? Se não, sabe quem curte. Nessa aula, vamos falar de onde vem esse conceito de vídeos.",
           "duration": "03:14",
           "vimeo": "https://vimeo.com/328783214/293e41e378",
           "youtube": "https://www.youtube.com/watch?v=Xuh6gWDZAcI",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension1",
               "title": "Quais dessas empresas se encaixam no modelo futurista?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension1-alternatives-a",
                   "title": "Kodak"
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension1-alternatives-b",
                   "title": "Blockbuster"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension1-alternatives-c",
                   "title": "Atari"
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension1-alternatives-d",
                   "title": "Netflix"
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension2",
               "title": "Qual foi o grande erro da empresa Kodak ao ter falido?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension2-alternatives-a",
                   "title": "Não ter feito uma análise apurada do contexto do seu mercado."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension2-alternatives-b",
                   "title": "Não ter pago o salário dos seus funcionários."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension2-alternatives-c",
                   "title": "Ter sonegado imposto ao governo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities2-test_comprehension2-alternatives-d",
                   "title": "Não ter guardado o dinheiro do lucro na poupança."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3",
           "title": "Tecnologia e Sociedade",
           "description": "Falaremos sobre as dimensões da análise, que vai da tecnologia à sociedade.",
           "duration": "03:33",
           "vimeo": "https://vimeo.com/328783446",
           "youtube": "https://www.youtube.com/watch?v=iZaUAAe5OMU",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension1",
               "title": "Quais são as dimensões da análise?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension1-alternatives-a",
                   "title": "Tecnologia, política, ecologia, economia e sociedade."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension1-alternatives-b",
                   "title": "Sociedade, povo, população, moradores."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension1-alternatives-c",
                   "title": "Política, presidente, prefeito e governador."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension1-alternatives-d",
                   "title": "Economia e assistir jornal nacional. "
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension2",
               "title": "Qual é o país que mais consome tecnologia no mundo?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension2-alternatives-a",
                   "title": "Brasil."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension2-alternatives-b",
                   "title": "Estados Unidos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension2-alternatives-c",
                   "title": "África do Sul."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons5-activities3-test_comprehension2-alternatives-d",
                   "title": "China."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "6",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons6",
       "title": "Criando um novo futuro",
       "description": "Aprendendo a utilizar nossas ideias para projetar o futuro que gostaríamos de viver.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1",
           "title": "Projetando o futuro",
           "description": "Análise de métodos avançados de avaliação do presente e projeção do futuro.",
           "duration": "04:08",
           "vimeo": "https://vimeo.com/328783666",
           "youtube": "https://www.youtube.com/watch?v=JwmLZbeggGs",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension1",
               "title": "No vídeo, ensinamos a dividir o método prospectivo, certo? Até quantas vezes pode ser feito isso segundo a aula?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension1-alternatives-a",
                   "title": "4 etapas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension1-alternatives-b",
                   "title": "5 etapas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension1-alternatives-c",
                   "title": "3 etapas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension1-alternatives-d",
                   "title": "8 etapas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension2",
               "title": "Segundo o carinha tatuado, qual é a segunda etapa do método prospectivo?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension2-alternatives-a",
                   "title": "Ver o presente com clareza."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension2-alternatives-b",
                   "title": "Fazer uma retrospectiva."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension2-alternatives-c",
                   "title": "Criar uma visão estratégica de futuro com várias alternativas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities1-test_comprehension2-alternatives-d",
                   "title": "Definir o futuro desejado"
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2",
           "title": "Verdade ou Desafio?",
           "description": "Já pensou em desafiar o presente? Nesta aula, vamos falar sobre isso.",
           "duration": "04:04",
           "vimeo": "https://vimeo.com/328783931",
           "youtube": "https://www.youtube.com/watch?v=uSUMkVs7zFE",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension1",
               "title": "O que pode ser considerado foresight?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension1-alternatives-a",
                   "title": "Um filme."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension1-alternatives-b",
                   "title": "Desafiar o presente."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension1-alternatives-c",
                   "title": "Um jogo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension1-alternatives-d",
                   "title": "Uma escola."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension2",
               "title": "O que é um insight?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension2-alternatives-a",
                   "title": "Uma ideia."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension2-alternatives-b",
                   "title": "Uma comida."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension2-alternatives-c",
                   "title": "Uma empresa."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons6-activities2-test_comprehension2-alternatives-d",
                   "title": "Uma nave espacial."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "7",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons7",
       "title": "Os Padrões Sociais",
       "description": "Entendendo como tomar decisões levando em consideração a sustentabilidade, os padrões da sociedade e os ricos.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1",
           "title": "Sustentabilidade",
           "description": "Como avaliar a sustentabilidade de determinado negócio frente às demandas do futuro.",
           "duration": "03:58",
@@ -2572,166 +881,61 @@
           "youtube": "https://www.youtube.com/watch?v=W6P8RF11So8",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension1",
               "title": "O que significa analisar algo?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension1-alternatives-a",
                   "title": "Fazer uma investigação/avaliação de algo desconhecido."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension1-alternatives-b",
                   "title": "Fazer um check up no médico."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension1-alternatives-c",
                   "title": "Fazer uma inalação."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension1-alternatives-d",
                   "title": "Stalkear o perfil das inimigas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension2",
               "title": "Segundo o vídeo, é importante questionar padrões da sociedade e das empresas?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension2-alternatives-a",
                   "title": "Sim."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension2-alternatives-b",
                   "title": "Não."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension2-alternatives-c",
                   "title": "Perda de tempo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities1-test_comprehension2-alternatives-d",
                   "title": "Eu gosto de seguir a boiada."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2",
           "title": "Geladeira inteligente",
           "description": "Imagine uma tecnologia que pudesse saber o que falta na geladeira sem você precisar ir no mercado, e ainda comprasse o que estivesse faltando.",
           "duration": "06:37",
@@ -2739,227 +943,70 @@
           "youtube": "https://www.youtube.com/watch?v=6XkdMXxj4M0",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension1",
               "title": "Digamos que você tem uma empresa e precisa tomar uma decisão. É importante você avaliar os riscos antes de alguma ação?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension1-alternatives-a",
                   "title": "Eu não gosto de correr riscos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension1-alternatives-b",
                   "title": "Eu não ligo para essas coisas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension1-alternatives-c",
                   "title": "Sim, até porque a empresa é minha."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension1-alternatives-d",
                   "title": "Não, porque eu nunca vou conseguir ter uma empresa."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension2",
               "title": "O que significa ser uma “mosca branca” no mundo corporativo?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension2-alternatives-a",
                   "title": "Significa um mosquito da dengue e transmite doenças."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension2-alternatives-b",
                   "title": "Significa ser algo em escassez, ou seja. Bem difícil de encontrar."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension2-alternatives-c",
                   "title": "Significa que você fica moscando."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons7-activities2-test_comprehension2-alternatives-d",
                   "title": "Significa que você está viajando na maionese."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "8",
+      "id": "5da74b2a3c1cecc4c3dfa008-lessons8",
       "title": "Tendências do Futuro",
       "description": "Descobrindo como prever o futuro com base nas tendências tecnológicas.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1",
           "title": "Previsões futuras",
           "description": "Previsões para a tecnologia, cidades, estilo de vida, mobilidade, dentre outros temas e áreas, e como isso vai impactar o dia a dia das pessoas.",
           "duration": "04:40",
@@ -2967,166 +1014,61 @@
           "youtube": "https://www.youtube.com/watch?v=AU9vJtM9zrM",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension1",
               "title": "Você sabe o que significa previsões para o futuro?",
-              "correct": "d",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension1-alternatives-a",
                   "title": "Não sei, eu não sou bruxo(a)."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension1-alternatives-b",
                   "title": "Eu não tenho poderes para saber o que vai acontecer."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension1-alternatives-c",
                   "title": "Saber o que aconteceu no mundo ontem."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension1-alternatives-d",
                   "title": "Ter uma ideia do que pode acontecer com o futuro, baseado no que está acontecendo no momento."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension2",
               "title": "O que é um carro autônomo?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension2-alternatives-a",
                   "title": "O carro anda sem motorista."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension2-alternatives-b",
                   "title": "O carro precisa de um motorista e um cobrador."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension2-alternatives-c",
                   "title": "O carro anda voando."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities1-test_comprehension2-alternatives-d",
                   "title": "O carro só anda com motorista."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2",
           "title": "Internet das Coisas",
           "description": "Nessa segunda parte, vamos continuar falando sobre previsões para o futuro. Você já ouviu falar sobre IoT?",
           "duration": "02:37",
@@ -3134,166 +1076,61 @@
           "youtube": "https://www.youtube.com/watch?v=C7onr0fR0Vc",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension1",
               "title": "Qual o significado de IoT?",
-              "correct": "c",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension1-alternatives-a",
                   "title": "Inteligência artificial."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension1-alternatives-b",
                   "title": "Internet 4G"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension1-alternatives-c",
                   "title": "A internet das coisas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension1-alternatives-d",
                   "title": "Wi-fi do vizinho."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension2",
               "title": "Qual é a vantagem de usar o IoT?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension2-alternatives-a",
                   "title": "Facilidade de se conectar a todas as coisas através da internet."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension2-alternatives-b",
                   "title": "Vou para a escola de carro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension2-alternatives-c",
                   "title": "Ganho uma passagem para o exterior."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities2-test_comprehension2-alternatives-d",
                   "title": "Não preciso pagar a internet."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3",
           "title": "Realidade virtual",
           "description": "Chegamos na reta final digna de continuidade. Aqui, vamos falar sobre realidade virtual. Tá preparado?",
           "duration": "00:00",
@@ -3301,219 +1138,62 @@
           "youtube": "",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension1",
               "title": "O que é realidade virtual?",
-              "correct": "b",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension1-alternatives-a",
                   "title": "É um \"bichinho virtual\" que você tem que alimentar toda hora?"
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension1-alternatives-b",
                   "title": "Realidade virtual é uma tecnologia entre uma pessoa e um sistema operacional através de recursos gráficos 3D"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension1-alternatives-c",
                   "title": "É a fome e pobreza no mundo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension1-alternatives-d",
                   "title": "É um jogo de cartas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension2",
               "title": "Qual é a definição de inteligência artificial?",
-              "correct": "a",
+              "correct": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension2-alternatives-a",
                   "title": "Inteligência artificial é a inteligência similar à humana executada por mecanismos ou software."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension2-alternatives-b",
                   "title": "É uma inteligência colorida."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension2-alternatives-c",
                   "title": "É uma inteligência de mentira."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b2a3c1cecc4c3dfa008-lessons8-activities3-test_comprehension2-alternatives-d",
                   "title": "É a inteligência de um animal doméstico."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     }
   ]
 }
