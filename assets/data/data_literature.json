@@ -74,7 +74,7 @@
           "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2",
           "title": "Escolas Literárias",
           "description": "Aprenda mais sobre os movimentos literários.",
           "duration": "03:18",
@@ -82,252 +82,95 @@
           "youtube": "https://www.youtube.com/watch?v=jnP1tlA-EEM",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension1",
               "title": "Do que também são chamados os movimentos literários?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension1-alternatives-a",
                   "title": "Escolas literárias"
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension1-alternatives-b",
                   "title": "Épocas literárias"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension1-alternatives-c",
                   "title": "Discursos literários"
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension1-alternatives-d",
                   "title": "Períodos literários"
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension2",
               "title": "O que os movimentos literários têm em comum com um pêndulo?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension2-alternatives-a",
                   "title": "Eles se movem constantemente."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension2-alternatives-b",
                   "title": "Os movimentos literários circulam por apenas dois “batentes”."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension2-alternatives-c",
                   "title": "Mudam toda hora ao longo do tempo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension2-alternatives-d",
                   "title": "Estão sempre divididos em dois movimentos."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension3",
               "title": "Quais são as duas características principais que utilizamos para dividir e memorizar os movimentos literários?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension3-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension3-alternatives-a",
                   "title": "Decoração e Dedução."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension3-alternatives-b",
                   "title": "Emoção e Decoração."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension3-alternatives-c",
                   "title": "Razão e Intuição."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons1-activities2-test_comprehension3-alternatives-d",
                   "title": "Emoção e Razão."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "aaa",
-          "title": "bbb",
-          "correct": "ccc",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "ddd",
-              "title": "eee"
-            },
-            {
-              "id": "fff",
-              "title": "ggg"
-            },
-            {
-              "id": "hhh",
-              "title": "iii"
-            },
-            {
-              "id": "jjj",
-              "title": "kkk"
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "111",
-          "title": "222",
-          "correct": "333",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "444",
-              "title": "555"
-            },
-            {
-              "id": "666",
-              "title": "777"
-            },
-            {
-              "id": "888",
-              "title": "999"
-            },
-            {
-              "id": "000",
-              "title": "0001"
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "2",
+      "id": "5da74b5c5fe71a52cbb32a4a-lessons2",
       "title": "Trovadorismo + Cantigas",
       "description": "Entenda o Trovadorismo e as cantigas.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1",
           "title": "Trovadorismo",
           "description": "Vamos aprender sobre o primeiro movimento literário da História.",
           "duration": "03:05",
@@ -335,241 +178,136 @@
           "youtube": "https://www.youtube.com/watch?v=GsrqfVmConA",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension1",
               "title": "O primeiro movimento literário aconteceu em qual período da história?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension1-alternatives-a",
                   "title": "Idade Média."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension1-alternatives-b",
                   "title": "Idade Moderna."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension1-alternatives-c",
                   "title": "Idade Antiga."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension1-alternatives-d",
                   "title": "Idade Contemporânea."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension2",
               "title": "Por que as pessoas não consumiam literatura naquela época?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension2-alternatives-a",
                   "title": "As pessoas não gostavam de ler."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension2-alternatives-b",
                   "title": "A maioria das pessoas não tinha dinheiro para consumir cultura."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension2-alternatives-c",
                   "title": "A maioria das pessoas era analfabeta e não conseguiria ler uma poesia ou um livro."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension2-alternatives-d",
                   "title": "A literatura era divulgada apenas entre a nobreza."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension3",
               "title": "Como os poetas divulgavam suas criações na Idade Média?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension3-alternatives-a",
                   "title": "Lançavam livros de poesia."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension3-alternatives-b",
                   "title": "Eles transformavam as poesias em música e apresentavam ao público para facilitar a compreensão das pessoas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension3-alternatives-c",
                   "title": "Liam em voz alta para as pessoas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension3-alternatives-d",
                   "title": "Colocavam seus poemas nas paredes das ruas."
                 }
               ]
             },
             {
-              "id": "4",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension4",
               "title": "Por que o primeiro movimento literário se chamava Trovadorismo?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension4-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension4-alternatives-a",
                   "title": "Porque a música era inspirada pelos sons dos trovões."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension4-alternatives-b",
                   "title": "Porque o sobrenome do primeiro poeta da época era Trovador."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension4-alternatives-c",
                   "title": "Porque esse era o nome da cidade em que o movimento começou."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension4-alternatives-d",
                   "title": "Porque os poetas que \"musicavam\" suas poesias eram conhecidos como trovadores."
                 }
               ]
             },
             {
-              "id": "5",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension5",
               "title": "Como eram chamadas as poesias no Trovadorismo?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension5-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension5-alternatives-a",
                   "title": "Poesias trovadoras."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension5-alternatives-b",
                   "title": "Cantigas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension5-alternatives-c",
                   "title": "Trovadorias."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities1-test_comprehension5-alternatives-d",
                   "title": "Poesias musicadas."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2",
           "title": "Cantigas",
           "description": "Como eram criadas as cantigas durante o Trovadorismo e de quais elementos elas eram formadas.",
           "duration": "02:44",
@@ -577,216 +315,111 @@
           "youtube": "https://www.youtube.com/watch?v=7pD06FS9nmQ",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension1",
               "title": "O que é uma cantiga da guarvaia?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension1-alternatives-a",
                   "title": "Cantiga (ou poema) criada por trovadores sobre seus amores platônicos, fazendo a idealização da mulher."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension1-alternatives-b",
                   "title": "Cantiga (ou poema) criada por mulheres apaixonadas por homens da nobreza."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension1-alternatives-c",
                   "title": "Cantiga (ou poema) criada por casais apaixonados."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension1-alternatives-d",
                   "title": "Cantiga (ou poema) criada por trovadores que precisavam dizer adeus à mulher amada."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension2",
               "title": "O que é um verso?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension2-alternatives-a",
                   "title": "O parágrafo de um poema."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension2-alternatives-b",
                   "title": "O trecho de uma música."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension2-alternatives-c",
                   "title": "Uma linha de um poema."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension2-alternatives-d",
                   "title": "As rimas de uma cantiga."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension3",
               "title": "O que é poesia?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension3-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension3-alternatives-a",
                   "title": "Poesia são textos construídos por meio de versos criados com base em palavras, sons e tamanhos específicos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension3-alternatives-b",
                   "title": "Poesia é um texto construído com versos românticos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension3-alternatives-c",
                   "title": "Poesia são textos construídos por meio de versos sem rima, mas com sentimento."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension3-alternatives-d",
                   "title": "Poesia são textos profundos construídos para passar mensagens complexas."
                 }
               ]
             },
             {
-              "id": "4",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension4",
               "title": " O que é prosa?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension4-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension4-alternatives-a",
                   "title": "É uma história de mais ou menos duas páginas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension4-alternatives-b",
                   "title": "É uma conversa."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension4-alternatives-c",
                   "title": "É quando escrevemos sem medir número de palavras, de linhas ou de nada."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities2-test_comprehension4-alternatives-d",
                   "title": "É quando escrevemos medindo o número de linhas, mas com quantas palavras forem necessárias."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3",
           "title": "Recursos dos trovadores",
           "description": "Os recursos utilizados pelos trovadores para facilitar a memorização das cantigas.",
           "duration": "01:51",
@@ -794,227 +427,70 @@
           "youtube": "https://www.youtube.com/watch?v=XwwZHD9Iwic",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension1",
               "title": "O que é um verso redondilho?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension1-alternatives-a",
                   "title": "É um verso redondo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension1-alternatives-b",
                   "title": "É um verso que rima perfeitamente com todos os outros."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension1-alternatives-c",
                   "title": "É um verso curto formado por no máximo cinco sílabas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension1-alternatives-d",
                   "title": "É um verso curto e de fácil memorização, formado por cinco ou sete sílabas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension2",
               "title": "Quais são os 4 tipos de cantiga?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension2-alternatives-a",
                   "title": "Cantiga de idealização, cantiga de amigo, cantiga de escárnio e cantiga de maldizer."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension2-alternatives-b",
                   "title": "Cantiga de amor, cantiga de amante, cantiga de escárnio e cantiga de maldizer."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension2-alternatives-c",
                   "title": "Cantiga de amor, cantiga de amigo, cantiga de crítica e cantiga de maldizer."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons2-activities3-test_comprehension2-alternatives-d",
                   "title": "Cantiga de amor, cantiga de amigo, cantiga sem nome e cantiga nomeada."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "3",
+      "id": "5da74b5c5fe71a52cbb32a4a-lessons3",
       "title": "Diferentes cantigas + Humanismo",
       "description": "Entenda a diferença entre os tipos de cantigas do Trovadorismo e aprenda sobre o Humanismo.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1",
           "title": "Amor ou amigo?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: amor e amigo.",
           "duration": "03:25",
@@ -1022,166 +498,61 @@
           "youtube": "https://www.youtube.com/watch?v=WakRSmT2Otc",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension1",
               "title": "Sobre o que eram as cantigas de amor?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension1-alternatives-a",
                   "title": "Um homem apaixonado por uma mulher."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension1-alternatives-b",
                   "title": "Um homem apaixonado por uma mulher que ele não pode ter."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension1-alternatives-c",
                   "title": "Um homem apaixonado por mais de uma mulher."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension1-alternatives-d",
                   "title": "Um homem apaixonado por uma mulher, mas sem coragem de admitir para ela."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension2",
               "title": "Como eram as cantigas de amigo?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension2-alternatives-a",
                   "title": "Uma mulher escrevia sobre seus sentimentos de amor platônico por um homem."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension2-alternatives-b",
                   "title": "Uma mulher escrevia sobre seus sentimentos de desejo por um homem."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension2-alternatives-c",
                   "title": "Um homem escrevia sobre seus sentimentos por uma amante."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities1-test_comprehension2-alternatives-d",
                   "title": "Homem traduzia os sentimentos de uma mulher falando sobre o amor físico."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2",
           "title": "Escárnio ou maldizer?",
           "description": "Objetivo e características principais dos tipos de cantigas do Trovadorismo: escárnio e maldizer.",
           "duration": "03:14",
@@ -1189,166 +560,61 @@
           "youtube": "https://www.youtube.com/watch?v=Xli6ofSl-WA",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension1",
               "title": "Sobre o que eram as cantigas de escárnio?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension1-alternatives-a",
                   "title": "Críticas sobre a nobreza."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension1-alternatives-b",
                   "title": "Críticas nomeadas sobre inimigos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension1-alternatives-c",
                   "title": "Críticas sem nome sobre defeitos de alguma pessoa."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension1-alternatives-d",
                   "title": "Críticas sobre um homem que deixava uma mulher."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension2",
               "title": "Sobre o que eram as cantigas de maldizer?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension2-alternatives-a",
                   "title": "Críticas nomeadas sobre defeitos de alguma pessoa."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension2-alternatives-b",
                   "title": "Críticas de uma mulher sobre um homem."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension2-alternatives-c",
                   "title": "Críticas de um homem sobre traição."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities2-test_comprehension2-alternatives-d",
                   "title": "Críticas de um homem sobre o marido da mulher que amava."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3",
           "title": "Segundo Movimento Literário",
           "description": "Vamos aprender sobre o segundo movimento literário da História.",
           "duration": "03:47",
@@ -1356,252 +622,95 @@
           "youtube": "https://www.youtube.com/watch?v=DU6nMOxJC9E",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension1",
               "title": "O que estava acontecendo no mundo durante o segundo movimento literário?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension1-alternatives-a",
                   "title": "A descoberta do ouro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension1-alternatives-b",
                   "title": "Primeira Guerra Mundial."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension1-alternatives-c",
                   "title": "As grandes navegações."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension1-alternatives-d",
                   "title": "Inquisição da Igreja."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension2",
               "title": "Qual é a característica mais importante do movimento Humanismo?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension2-alternatives-a",
                   "title": "Ser humano e aceitar seus defeitos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension2-alternatives-b",
                   "title": "A valorização do Deus criador do homem."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension2-alternatives-c",
                   "title": "A valorização do homem e de suas imperfeições."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension2-alternatives-d",
                   "title": "A técnica e a valorização do homem."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension3",
               "title": "Qual é o nome da poesia escrita durante o Humanismo?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension3-alternatives-a",
                   "title": "Poesia humanista."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension3-alternatives-b",
                   "title": "Poesia palaciana."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension3-alternatives-c",
                   "title": "Poesia palacial."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons3-activities3-test_comprehension3-alternatives-d",
                   "title": "Poesia humanitária."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "4",
+      "id": "5da74b5c5fe71a52cbb32a4a-lessons4",
       "title": "Humanismo + Gil Vicente",
       "description": "Entenda melhor o Humanismo e conheça seu principal autor.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1",
           "title": "Características de Humanismo",
           "description": "Características mais importantes do Humanismo.",
           "duration": "04:05",
@@ -1609,216 +718,111 @@
           "youtube": "https://www.youtube.com/watch?v=MK1745QwTNU",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension1",
               "title": "Onde a poesia era consumida durante o Humanismo?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension1-alternatives-a",
                   "title": "Nas ruas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension1-alternatives-b",
                   "title": "Nos teatros."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension1-alternatives-c",
                   "title": "No palácio."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension1-alternatives-d",
                   "title": "Nas casas das pessoas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension2",
               "title": "Qual a principal diferença entre a poesia do Trovadorismo e do Humanismo?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension2-alternatives-a",
                   "title": "A poesia palaciana não utiliza mais a música."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension2-alternatives-b",
                   "title": "A poesia palaciana não utiliza mais rimas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension2-alternatives-c",
                   "title": "A poesia palaciana não fala sobre religião."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension2-alternatives-d",
                   "title": "A poesia palaciana não conta mais o número de versos."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension3",
               "title": "O que é verdade sobre o artificialismo amoroso no Humanismo?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension3-alternatives-a",
                   "title": "O amor da poesia palaciana era mais profundo do que antigamente."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension3-alternatives-b",
                   "title": "O amor da poesia palaciana estava mais ligado a interesses pessoais do que a sentimentos verdadeiro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension3-alternatives-c",
                   "title": "O amor da poesia palaciana era uma ficção criada pelos homens."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension3-alternatives-d",
                   "title": "O amor da poesia palaciana era uma criação apenas para ganhar dinheiro."
                 }
               ]
             },
             {
-              "id": "4",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension4",
               "title": "O que é medida velha?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension4-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension4-alternatives-a",
                   "title": "Uma medida que já não servia mais para a poesia."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension4-alternatives-b",
                   "title": "Um tipo de poesia palaciana."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension4-alternatives-c",
                   "title": "Poesias feitas com no mínimo 10 versos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities1-test_comprehension4-alternatives-d",
                   "title": "A mesma coisa que os “versos redondilhos”, só que com outro nome."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2",
           "title": "Gil Vicente",
           "description": "A história de Gil Vicente, autor mais importante do Humanismo.",
           "duration": "02:47",
@@ -1826,191 +830,86 @@
           "youtube": "https://www.youtube.com/watch?v=EPaIoH3OwzM",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension1",
               "title": "O que o autor Gil Vicente era considerado?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension1-alternatives-a",
                   "title": "O pai do Humanismo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension1-alternatives-b",
                   "title": "O pai da Literatura Brasileira."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension1-alternatives-c",
                   "title": "O pai do teatro em Língua Portuguesa."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension1-alternatives-d",
                   "title": "O pai da poesia palaciana."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension2",
               "title": "Para que o rei utilizava o teatro de Gil Vicente?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension2-alternatives-a",
                   "title": "Para criticar a nobreza por meio da literatura sem perder o apoio financeiro das pessoas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension2-alternatives-b",
                   "title": "Para criticar seus inimigos anonimamente."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension2-alternatives-c",
                   "title": "Para elogiar suas amantes sem que a rainha soubesse."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension2-alternatives-d",
                   "title": "Para contar as histórias de suas aventuras pelas guerras."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension3",
               "title": "Qual o nome da obra mais importante de Gil Vicente?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension3-alternatives-a",
                   "title": "A Barca do Inferno."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension3-alternatives-b",
                   "title": "O Auto da Barca do Inferno."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension3-alternatives-c",
                   "title": "O Auto do Juízo Final."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities2-test_comprehension3-alternatives-d",
                   "title": "O Auto da Barca."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3",
           "title": "Auto da Barca do Inferno",
           "description": "O Auto da Barca do Inferno e a transformação do teatro brasileiro.",
           "duration": "02:52",
@@ -2018,227 +917,70 @@
           "youtube": "https://www.youtube.com/watch?v=UWdWRxlcj4M",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension1",
               "title": "Como era o teatro antes de Gil Vicente?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension1-alternatives-a",
                   "title": "Os atores seguiam roteiros diferentes."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension1-alternatives-b",
                   "title": "Os atores reproduziam as mesmas falas em todas as suas apresentações."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension1-alternatives-c",
                   "title": "Os atores obedeciam às instruções de um diretor."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension1-alternatives-d",
                   "title": "Os atores improvisavam a peça com base em um tema."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension2",
               "title": "Qual é a novidade introduzida por Gil Vicente no teatro?",
-              "correct": "c",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension2-alternatives-a",
                   "title": "Diretor de teatro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension2-alternatives-b",
                   "title": "Novas peças de teatro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension2-alternatives-c",
                   "title": "Texto teatral."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons4-activities3-test_comprehension2-alternatives-d",
                   "title": "O teatro poético."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "5",
+      "id": "5da74b5c5fe71a52cbb32a4a-lessons5",
       "title": "Classicismo + Sonetos",
       "description": "Entenda o Classicismo e o formato de texto utilizado na época.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1",
           "title": "Terceiro Movimento Literário",
           "description": "Vamos conhecer o terceiro movimento literário da História.",
           "duration": "03:48",
@@ -2246,191 +988,86 @@
           "youtube": "https://www.youtube.com/watch?v=d3Se2uycb6g",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension1",
               "title": "Qual o nome do terceiro movimento literário?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension1-alternatives-a",
                   "title": "Classicismo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension1-alternatives-b",
                   "title": "Clássico."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension1-alternatives-c",
                   "title": "Classicista."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension1-alternatives-d",
                   "title": "Classismo."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension2",
               "title": "O que é mitologia?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension2-alternatives-a",
                   "title": "Histórias inventadas pelos gregos para as crianças."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension2-alternatives-b",
                   "title": "Fantasia explicada para dar sentido àquilo que não podia ser explicado pelo homem."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension2-alternatives-c",
                   "title": "Poesias criadas para explicar o universo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension2-alternatives-d",
                   "title": "Textos pagãos usados para cultuar outros deuses."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension3",
               "title": "Qual é o período histórico do Classicismo?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension3-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension3-alternatives-a",
                   "title": "Clássico."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension3-alternatives-b",
                   "title": "Idade Antiga."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension3-alternatives-c",
                   "title": "Idade Média."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities1-test_comprehension3-alternatives-d",
                   "title": "Renascimento."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2",
           "title": "Classicismo",
           "description": "O que é Classicismo e quais são suas características principais.",
           "duration": "03:32",
@@ -2438,191 +1075,86 @@
           "youtube": "https://www.youtube.com/watch?v=CzUtrBks_5c",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension1",
               "title": "O que é um clássico?",
-              "correct": "a",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension1-alternatives-a",
                   "title": "Algo que foi feito com tanta qualidade que resistiu ao tempo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension1-alternatives-b",
                   "title": "Algo que ficou velho e ultrapassado com o tempo."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension1-alternatives-c",
                   "title": "Algo que é guardamos para lembrar do passado."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension1-alternatives-d",
                   "title": "Algo que é atualizado e recriado ao longo do tempo."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension2",
               "title": "Qual era a prioridade do Classicismo?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension2-alternatives-a",
                   "title": "A busca pelo homem."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension2-alternatives-b",
                   "title": "A busca pela perfeição."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension2-alternatives-c",
                   "title": "A busca pelo que é antigo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension2-alternatives-d",
                   "title": "A busca pela arte."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension3",
               "title": "Como o Classicismo selecionava os melhores poetas?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension3-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension3-alternatives-a",
                   "title": "Criando competições entre os poetas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension3-alternatives-b",
                   "title": "Dando desafios maiores para os poetas se superarem sempre."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension3-alternatives-c",
                   "title": "Observando quem eram os mais populares para a nobreza."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities2-test_comprehension3-alternatives-d",
                   "title": "Aumentando os versos dos poemas."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3",
           "title": "Versos",
           "description": "A lógica de escrita de versos utilizada pelos poetas do Classicismo.",
           "duration": "02:20",
@@ -2630,219 +1162,62 @@
           "youtube": "https://www.youtube.com/watch?v=DerybTK96dY",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension1",
               "title": "Como eram chamados os versos durante o Classicismo?",
-              "correct": "d",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension1-alternatives-a",
                   "title": "Versos clássicos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension1-alternatives-b",
                   "title": "Versos declassicos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension1-alternatives-c",
                   "title": "Versos classicistas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension1-alternatives-d",
                   "title": "Versos decassílabos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension2",
               "title": "O que é um soneto?",
-              "correct": "b",
+              "correct": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension2-alternatives-a",
                   "title": "Um poema composto por 15 versos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension2-alternatives-b",
                   "title": "Um poema composto por 14 versos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension2-alternatives-c",
                   "title": "Um poema composto por 7 versos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b5c5fe71a52cbb32a4a-lessons5-activities3-test_comprehension2-alternatives-d",
                   "title": "Um poema composto pelo dobro de versos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     }
   ]
 }
