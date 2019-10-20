@@ -1,5 +1,5 @@
 {
-  "id": "5da74b5767b19145248b3313",
+  "id": "5dac58cb87e6541e48527d64",
   "title": "Liderança",
   "description": "Mano, já pensou em aprender liderança com referências de Filosofia, Sociologia e Ciências Políticas? Tudo isso apresentadas pelo prof mais top das galáxias que vai ensinar como ser um líder legítimo? Então, cola na grade e #partiu aprender.",
   "author": "Thiago Lima",
@@ -7,12 +7,12 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5dac58cb87e6541e48527d64-lessons1",
       "title": "A Legitimidade",
       "description": "Entendendo os princípios da legitimidade.",
       "activities": [
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons1-activities1",
           "title": "Introdução",
           "description": "Vamos conhecer um pouco melhor nosso professor Thiago Lima e começar a entender a importância deste curso.",
           "duration": "03:28",
@@ -20,166 +20,61 @@
           "youtube": "https://youtu.be/vD8qX3v2A0w",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension1",
               "title": "O que você aprendeu sobre a palavra legitimidade?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension1-alternatives-a",
                   "title": "Ela possui apenas um significado desde a antiguidade."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension1-alternatives-b",
                   "title": "Dependendo do contexto, ela pode ter um significado diferente."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension1-alternatives-c",
                   "title": "Ela não está presente na liderança da atualidade."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension1-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension2",
               "title": "Qual é o significado que estava na tela do professor?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension-alternatives-a",
                   "title": "“Aquele que segue a ordem.”"
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension-alternatives-b",
                   "title": "“Aquele que busca a verdade.”"
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension-alternatives-c",
                   "title": "“Aquele que é justo.”"
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities1-test_comprehension-alternatives-d",
                   "title": "“Aquele que segue a lei.”"
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons1-activities2",
           "title": "O Saber",
           "description": "Vamos entender a primeira característica específica por trás da legitimidade.",
           "duration": "02:54",
@@ -187,191 +82,86 @@
           "youtube": "https://youtu.be/RVVGpQ2fXNc",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension1",
               "title": "De que época da história vem o conceito de legitimidade que estudaremos neste curso?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension1-alternatives-a",
                   "title": "Renascimento"
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension1-alternatives-b",
                   "title": "Egito Antigo"
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension1-alternatives-c",
                   "title": "Roma Antiga"
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension1-alternatives-d",
                   "title": "Mundo Moderno"
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension2",
               "title": "O que significa auctoritas?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension2-alternatives-a",
                   "title": "Quando você já conhece um assunto e tem o conhecimento necessário para colocar em prática ou ensinar outras pessoas."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension2-alternatives-b",
                   "title": "Quando você tem autoridade sobre alguém."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension2-alternatives-c",
                   "title": "Quando o seu conhecimento não é suficiente para que você tenha poder."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension2-alternatives-d",
                   "title": "Quando outra pessoa reconhece o seu poder."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension3",
               "title": "O que é competência?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension3-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension3-alternatives-a",
                   "title": "Aquilo que você conquista dentro de um cargo."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension3-alternatives-b",
                   "title": "Todas as habilidades que você tem de uma área."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension3-alternatives-c",
                   "title": "“Capital” acumulado em um contexto específico."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities2-test_comprehension3-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons1-activities3",
           "title": "O Poder",
           "description": "Vamos entender a segunda características específica por trás da legitimidade.",
           "duration": "02:48",
@@ -379,227 +169,70 @@
           "youtube": "https://youtu.be/Iv7HqwW4GLg",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension1",
               "title": "O que significa potestas?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension1-alternatives-a",
                   "title": "Protestar pelo seu direito de fazer algo."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension1-alternatives-b",
                   "title": "Saber exercer o poder."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension1-alternatives-c",
                   "title": "Usar seu conhecimento para manipular as pessoas."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension1-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension2",
               "title": "O que é a liderança neste contexto?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension2-alternatives-a",
                   "title": "A arte de manipular as pessoas com base no que você sabe sobre elas."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension2-alternatives-b",
                   "title": "A arte de usar seu poder para obter conhecimento."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension2-alternatives-c",
                   "title": "A arte de usar sua competência para obter mais poder."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons1-activities3-test_comprehension2-alternatives-d",
                   "title": "A arte de saber exercer o poder com base no seu saber."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "2",
+      "id": "5dac58cb87e6541e48527d64-lessons2",
       "title": "Exercício do poder",
       "description": "Entendendo a importância do exercício do poder para a liderança.",
       "activities": [
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons2-activities1",
           "title": "Meio ou fim?",
           "description": "Vamos começar a aprender mais sobre o exercício do poder.",
           "duration": "01:40",
@@ -607,166 +240,61 @@
           "youtube": "https://youtu.be/dWUyF0F0QGA",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension1",
               "title": "E aí, o que você acha? Poder é meio ou fim?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension1-alternatives-a",
                   "title": "Meio!"
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension1-alternatives-b",
                   "title": "Fim!"
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension1-alternatives-c",
                   "title": "Os dois."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension1-alternatives-d",
                   "title": "Vixe, não faço ideia."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension2",
               "title": "Qual o nome do livro de Maquiavel que veremos aqui na aula?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension2-alternatives-a",
                   "title": "“O Príncipe”"
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension2-alternatives-b",
                   "title": "“O Lince”"
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension2-alternatives-c",
                   "title": "“O Principado”"
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities1-test_comprehension2-alternatives-d",
                   "title": "“O Poder”"
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons2-activities2",
           "title": "Maquiavel",
           "description": "Vamos aprender o conceito de poder de Maquiavel.",
           "duration": "03:05",
@@ -774,343 +302,81 @@
           "youtube": "https://youtu.be/16BOArHzqZ4",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension1",
               "title": "Segundo o professor Thiago, por que o poder é o fim?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension1-alternatives-a",
                   "title": "Ao usar suas competências, você está adquirindo mais poder."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension1-alternatives-b",
                   "title": "Quanto mais conhecimento você possui, mais poder você tem."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension1-alternatives-c",
                   "title": "Quando você exerce a liderança, você está fazendo algo para crescer o seu poder."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension1-alternatives-d",
                   "title": "Um líder só começa um projeto pelo poder."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension2",
               "title": "Do que um líder precisa?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension2-alternatives-a",
                   "title": "De uma graduação em alguma universidade."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension2-alternatives-b",
                   "title": "Saber influenciar e manipular as pessoas para que elas confiem o poder a ele."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension2-alternatives-c",
                   "title": "Praticar seus conhecimentos para ser mais competente como líder."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons2-activities2-test_comprehension2-alternatives-d",
                   "title": "Aprender a exercer o poder para conseguir dialogar com as pessoas, construir uma empresa, entre outras coisas."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons2-activities3",
           "title": "Highlights da aula",
           "description": "Vamos entender o que define a liderança no exercício do poder.",
           "duration": "01:49",
           "vimeo": "",
           "youtube": "https://youtu.be/Ft3gbSbVLzc",
           "test_comprehension": [],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "3",
+      "id": "5dac58cb87e6541e48527d64-lessons3",
       "title": "Tipos de Exercício do Poder",
       "description": "Conhecendo os tipos de exercício do poder na prática.",
       "activities": [
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons3-activities1",
           "title": "Soberania",
           "description": "Vamos entender mais sobre o primeiro tipo de exercício de poder.",
           "duration": "02:08",
@@ -1118,26 +384,26 @@
           "youtube": "https://youtu.be/DO1A2kPj8ZU",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons3-activities1-test_comprehension1",
               "title": "Quais são os dois tipos de exercício do poder?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons3-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities1-test_comprehension1-alternatives-a",
                   "title": "Soberania e Autoritarismo"
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities1-test_comprehension1-alternatives-b",
                   "title": "Soberania e Autonomia"
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities1-test_comprehension1-alternatives-c",
                   "title": "Autonomia e Democracia"
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities1-test_comprehension1-alternatives-d",
                   "title": "Autonomia e Comunismo"
                 }
               ]
@@ -1302,7 +568,7 @@
           ]
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons3-activities2",
           "title": "Autonomia",
           "description": "Vamos aprender mais sobre o segundo tipo de exercício de poder.",
           "duration": "02:42",
@@ -1310,34 +576,34 @@
           "youtube": "https://youtu.be/5TNBII7cees",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension1",
               "title": "Qual é a consequência da autonomia?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension1-alternatives-a",
                   "title": "O conflito gera desastres."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension1-alternatives-b",
                   "title": "O conflito gera mudanças."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension1-alternatives-c",
                   "title": "O confronto gera mudanças."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension1-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension2",
               "title": "O que uma liderança baseada na autonomia faz diante de um conflito?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons3-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
@@ -1360,116 +626,11 @@
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons3-activities3",
           "title": "Centralizado ou descentralizado?",
           "description": "Vamos aprender mais sobre os modelos dos tipos de exercício de poder.",
           "duration": "02:32",
@@ -1477,227 +638,70 @@
           "youtube": "https://youtu.be/FK59wQ4kCR0",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension1",
               "title": "Qual dos dois tipos de exercício de poder é centralizado?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension1-alternatives-a",
                   "title": "Soberania."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension1-alternatives-b",
                   "title": "Autonomia."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension1-alternatives-c",
                   "title": "Os dois."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension1-alternatives-d",
                   "title": "Nenhum dos dois."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension2",
               "title": "Qual dos dois tipos de exercício de poder é descentralizado?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension2-alternatives-a",
                   "title": "Os dois."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension2-alternatives-b",
                   "title": "Nenhum dos dois."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension2-alternatives-c",
                   "title": "Autonomia."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons3-activities3-test_comprehension2-alternatives-d",
                   "title": "Soberania."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "4",
+      "id": "5dac58cb87e6541e48527d64-lessons4",
       "title": "Liderança + Autonomia",
       "description": "Entendendo a ligação entre autonomia e liderança.",
       "activities": [
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons4-activities1",
           "title": "Autonomia em outros contextos",
           "description": "Vamos ver como a autonomia se aplica a diferentes contextos.",
           "duration": "02:12",
@@ -1705,191 +709,86 @@
           "youtube": "https://youtu.be/idAwKchqjCc",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension1",
               "title": "Segundo o professor Thiago, o que é uma pessoa autônoma?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension1-alternatives-a",
                   "title": "Pessoa que manda em si mesma."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension1-alternatives-b",
                   "title": "Pessoa que segue suas próprias regras."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension1-alternatives-c",
                   "title": "Pessoa que tem propriedade sobre si mesma."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension1-alternatives-d",
                   "title": "Pessoa que respeita a opinião do outro."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension2",
               "title": "O que é um estado autônomo?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension2-alternatives-a",
                   "title": "Um estado que não possui líderes."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension2-alternatives-b",
                   "title": "Um estado que tem o poder de criar suas próprias leis."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension2-alternatives-c",
                   "title": "Um estado em que o poder está nas mãos do povo."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension2-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension3",
               "title": "O que é um líder autônomo?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension3-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension3-alternatives-a",
                   "title": "Aquele que responde a alguma autoridade acima dele."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension3-alternatives-b",
                   "title": "Aquele que segue as regras impostas por outras pessoas."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension3-alternatives-c",
                   "title": "Aquele que sabe exercer poder sobre as pessoas."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities1-test_comprehension3-alternatives-d",
                   "title": "Aquele que efetua racionalmente suas escolhas segundo seu próprio projeto."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons4-activities2",
           "title": "Líder autônomo",
           "description": "Vamos entender do que um líder precisa para ser autônomo.",
           "duration": "02:33",
@@ -1897,191 +796,86 @@
           "youtube": "https://youtu.be/4_sxGB615S4",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension1",
               "title": "Segundo a filosofia, qual é o primeiro passo de um líder autônomo?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension1-alternatives-a",
                   "title": "Identificar qual é o seu projeto, seu propósito de vida."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension1-alternatives-b",
                   "title": "Identificar quem são seus liderados."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension1-alternatives-c",
                   "title": "Identificar com que tipo de exercício de poder ele se identifica."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension1-alternatives-d",
                   "title": "Identificar qual é o curso que ele vai fazer na universidade."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension2",
               "title": "Qual é o nome do filósofo responsável pela teoria de que todos temos um propósito no mundo?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension2-alternatives-a",
                   "title": "Pitágoras"
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension2-alternatives-b",
                   "title": "Sócrates"
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension2-alternatives-c",
                   "title": "Aristóteles"
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension2-alternatives-d",
                   "title": "Platão"
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension3",
               "title": "Qual é a relação entre o projeto e as escolhas de um líder autônomo?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension3-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension3-alternatives-a",
                   "title": "O projeto deste líder depende de suas escolhas ao longo da vida."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension3-alternatives-b",
                   "title": "O projeto deste líder não está relacionado às suas escolhas."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension3-alternatives-c",
                   "title": "As escolhas deste líder estão voltadas para o seu projeto e seu propósito de vida."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities2-test_comprehension3-alternatives-d",
                   "title": "As escolhas deste líder não interferem no propósito de vida dele."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons4-activities3",
           "title": "Highlights da aula",
           "description": "Vamos ver a importância da autonomia e quais foram os destaques da aula.",
           "duration": "02:00",
@@ -2089,202 +883,45 @@
           "youtube": "https://youtu.be/eX8X6hCCHH8",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons4-activities3-test_comprehension1",
               "title": "Quem precisa ser autônomo?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons4-activities3-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities3-test_comprehension1-alternatives-a",
                   "title": "Os líderes."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities3-test_comprehension1-alternatives-b",
                   "title": "Os donos de grandes empresas."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities3-test_comprehension1-alternatives-c",
                   "title": "Os políticos."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons4-activities3-test_comprehension1-alternatives-d",
                   "title": "Todos nós."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "5",
+      "id": "5dac58cb87e6541e48527d64-lessons5",
       "title": "Exercício Prático",
       "description": "Descobrindo como isso tudo funciona na prática.",
       "activities": [
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons5-activities1",
           "title": "Relação de poder (EXEMPLO PRÁTICO)",
           "description": "Vamos conhecer um exemplo prático de relação de poder.",
           "duration": "03:05",
@@ -2292,166 +929,61 @@
           "youtube": "https://youtu.be/3RTX6xDyct8",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension1",
               "title": "O que o pai faz?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension1-alternatives-a",
                   "title": "Deixa o filho jogar videogame."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension1-alternatives-b",
                   "title": "Ameaça tirar a mesada do filho."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension1-alternatives-c",
                   "title": "Ameaça tirar o videogame do filho."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension1-alternatives-d",
                   "title": "Grita com o filho."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension2",
               "title": "O que a mãe faz?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension2-alternatives-a",
                   "title": "Deixa o filho jogar videogame."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension2-alternatives-b",
                   "title": "Ameaça tirar o filho da escola."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension2-alternatives-c",
                   "title": "Ameaça dar uma surra no filho."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities1-test_comprehension2-alternatives-d",
                   "title": "Faz um acordo amigável com o filho."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons5-activities2",
           "title": "Relação de poder — Parte 2",
           "description": "Vamos analisar o exemplo prático para entender o que é relação de poder.",
           "duration": "03:02",
@@ -2459,393 +991,131 @@
           "youtube": "https://youtu.be/339XntmZwYw",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension1",
               "title": "Qual é o exercício de poder usado pelo pai quando ele volta?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension1-alternatives-a",
                   "title": "Ideológico."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension1-alternatives-b",
                   "title": "Agressivo."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension1-alternatives-c",
                   "title": "Autoritário."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension1-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension2",
               "title": "Qual dos dois parentes usou a soberania?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension2-alternatives-a",
                   "title": "O filho."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension2-alternatives-b",
                   "title": "O pai."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension2-alternatives-c",
                   "title": "A mãe."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension2-alternatives-d",
                   "title": "Nenhum deles."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension3",
               "title": "Qual dos dois parentes usou a autonomia?",
-              "correct": "b",
+              "correct": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension3-alternatives-a",
                   "title": "O filho."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension3-alternatives-b",
                   "title": "O pai."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension3-alternatives-c",
                   "title": "A mãe."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension3-alternatives-d",
                   "title": "Nenhum deles."
                 }
               ]
             },
             {
-              "id": "4",
+              "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension4",
               "title": "O que acontece na relação de poder?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension4-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension4-alternatives-a",
                   "title": "Um lado ganha e o outro perde."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension4-alternatives-b",
                   "title": "Nenhum dos lados ganha nada."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension4-alternatives-c",
                   "title": "Um lado atinge seu objetivo e o outro simplesmente concorda sem haver mudanças."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons5-activities2-test_comprehension4-alternatives-d",
                   "title": "Um lado atinge seu objetivo e o outro altera seu comportamento."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons5-activities3",
           "title": "Conclusão do exemplo",
           "description": "Vamos concluir a análise do exemplo prático e ver os highlights da aula.",
           "duration": "02:23",
           "vimeo": "",
           "youtube": "",
           "test_comprehension": [],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "6",
+      "id": "5dac58cb87e6541e48527d64-lessons6",
       "title": "O Exemplo do Líder",
       "description": "Aprendendo a ser um exemplo como líder na prática.",
       "activities": [
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons6-activities1",
           "title": "Certo e errado",
           "description": "Vamos ver como usar o exercício de poder na prática",
           "duration": "01:33",
@@ -2853,141 +1123,36 @@
           "youtube": "https://youtu.be/YWdR0eTTfog",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons6-activities1-test_comprehension1",
               "title": "Qual é o exercício de poder certo para a liderança?",
-              "correct": "d",
+              "correct": "5dac58cb87e6541e48527d64-lessons6-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities1-test_comprehension1-alternatives-a",
                   "title": "A soberania."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities1-test_comprehension1-alternatives-b",
                   "title": "A autonomia."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities1-test_comprehension1-alternatives-c",
                   "title": "Nenhum dos dois."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities1-test_comprehension1-alternatives-d",
                   "title": "Não existe certo e errado, apenas o que funciona melhor em cada contexto."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5dac58cb87e6541e48527d64-lessons6-activities2",
           "title": "Exemplo e legitimidade",
           "description": "Vamos aprender o que é essencial em um líder e como a construção da legitimidade pode ajudar.",
           "duration": "02:24",
@@ -2995,269 +1160,62 @@
           "youtube": "https://youtu.be/ehENKfRTzb0",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension1",
               "title": "O que é essencial em um líder?",
-              "correct": "a",
+              "correct": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension1-alternatives-a",
                   "title": "Dar o exemplo para seus liderados."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension1-alternatives-b",
                   "title": "Ter mais conhecimento do que os outros."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension1-alternatives-c",
                   "title": "Usar o jogo de cintura."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension1-alternatives-d",
                   "title": "Saber influenciar pessoas."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension2",
               "title": "Qual é a definição de legitimidade?",
-              "correct": "c",
+              "correct": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension2-alternatives-a",
                   "title": "É quando um sujeito A é obrigado a aceitar as ordens do sujeito B."
                 },
                 {
-                  "id": "b",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension2-alternatives-b",
                   "title": "É quando um sujeito A tem o dever de seguir as ordens do sujeito B."
                 },
                 {
-                  "id": "c",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension2-alternatives-c",
                   "title": "É quando um sujeito A reconhece que o sujeito B pode dar ordens."
                 },
                 {
-                  "id": "d",
+                  "id": "5dac58cb87e6541e48527d64-lessons6-activities2-test_comprehension2-alternatives-d",
                   "title": "É quando um sujeito A reconhece que o sujeito B sabe mais do que ele."
                 }
               ]
-            },
-            {
-              "id": "",
-              "title": "",
-              "correct": "",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": ""
-                },
-                {
-                  "id": "b",
-                  "title": ""
-                },
-                {
-                  "id": "c",
-                  "title": ""
-                },
-                {
-                  "id": "d",
-                  "title": ""
-                }
-              ]
-            },
-            {
-              "id": "",
-              "title": "",
-              "correct": "",
-              "score": 0,
-              "time_position": "00:00",
-              "alternatives": [
-                {
-                  "id": "a",
-                  "title": ""
-                },
-                {
-                  "id": "b",
-                  "title": ""
-                },
-                {
-                  "id": "c",
-                  "title": ""
-                },
-                {
-                  "id": "d",
-                  "title": ""
-                }
-              ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     }
   ]
 }
