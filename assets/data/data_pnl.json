@@ -7,426 +7,213 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5da74b71a1ef423cec86acb2-lessons1",
       "title": "Os Princípios da PNL",
       "description": "Entendendo o que é PNL, sua origem e quais são os principais conceitos da teoria.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons1-activities1",
           "title": "PN… o quê?",
           "description": "Vamos descobrir o que é PNL e por que ela existe.",
-          "duration": "00:15",
+          "duration": "02:58",
           "vimeo": "https://vimeo.com/334503517/36603c5173",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=Wf4CAkEzmmw",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension1",
               "title": "O que é PNL?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension1-alternatives-a",
                   "title": "Uma técnica para influenciar as decisões das pessoas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension1-alternatives-b",
                   "title": "Uma ferramenta de desenvolvimento pessoal."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension1-alternatives-c",
                   "title": "Uma das metodologias da psicologia."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension1-alternatives-d",
                   "title": "Uma tecnologia de programação."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension2",
               "title": "Quem criou a PNL?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension2-alternatives-a",
                   "title": "Richard Bandler e John Grinder."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension2-alternatives-b",
                   "title": "Richard Bandler e John Growth."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension2-alternatives-c",
                   "title": "Richard Bandler e Steve Jobs."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension2-alternatives-d",
                   "title": "Steve Jobs e John Grinder."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension3",
               "title": "Qual é a vantagem da PNL?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension3-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension3-alternatives-a",
                   "title": "Entender como as pessoas reagem aos estímulos neurológicos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension3-alternatives-b",
                   "title": "Fazer com que as pessoas acreditem no que você quiser."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension3-alternatives-c",
                   "title": "Obter melhores resultados para ter uma vida mais feliz e mais plena."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities1-test_comprehension3-alternatives-d",
                   "title": "Ser capaz de programar pessoas."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons1-activities2",
           "title": "Cérebro e Mente",
           "description": "Vamos entender qual é a relação da PNL com o nosso cérebro.",
-          "duration": "00:15",
+          "duration": "03:00",
           "vimeo": "https://vimeo.com/334504164/0b816c5c32",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=n2bTtcHuIAY",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension1",
               "title": "Como funciona o processamento do nosso cérebro?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension1-alternatives-a",
                   "title": "De forma consciente."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension1-alternatives-b",
                   "title": "De forma inconsciente."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension1-alternatives-c",
                   "title": "De forma subconsciente."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension1-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension2",
               "title": "No que a PNL pode nos ajudar?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension2-alternatives-a",
                   "title": "Ter uma comunicação melhor com nós mesmos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension2-alternatives-b",
                   "title": "Ter uma comunicação melhor com as pessoas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension2-alternatives-c",
                   "title": "Ter uma comunicação melhor com o nosso cérebro."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension2-alternatives-d",
                   "title": "Ter uma comunicação melhor com a nossa mente inconsciente."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension3",
               "title": "Do que é formada a nossa realidade?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension3-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension3-alternatives-a",
                   "title": "Das conclusões que nós mesmos tiramos a partir de nossas crenças."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension3-alternatives-b",
                   "title": "Das imagens que observamos e que são processadas pelo nosso cérebro."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension3-alternatives-c",
                   "title": "Da percepção das pessoas sobre nós mesmos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities2-test_comprehension3-alternatives-d",
                   "title": "Do contexto em que vivemos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons1-activities3",
           "title": "Tony Robbins",
           "description": "Vamos conhecer a história de Tony Robbins.",
-          "duration": "00:15",
+          "duration": "02:34",
           "vimeo": "https://vimeo.com/334504729/941c25675d",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=mJERSUyDDkQ ",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons1-activities3-test_comprehension1",
               "title": "Quem é Tony Robbins?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons1-activities3-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities3-test_comprehension1-alternatives-a",
                   "title": "Um dos profissionais mais importantes da PNL na atualidade."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities3-test_comprehension1-alternatives-b",
                   "title": "Um cientista que estudou a PNL por muitos anos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities3-test_comprehension1-alternatives-c",
                   "title": "Um dos primeiros homens que foram influenciados pela PNL."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons1-activities3-test_comprehension1-alternatives-d",
                   "title": "Um dos primeiros profissionais de neurolinguística do Brasil."
                 }
               ]
@@ -591,2552 +378,972 @@
           ]
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "2",
+      "id": "5da74b71a1ef423cec86acb2-lessons2",
       "title": "",
       "description": "",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons2-activities1",
           "title": "Por que fazemos o que fazemos?",
           "description": "Vamos entender como funciona a nossa mente na prática.",
-          "duration": "00:15",
+          "duration": "02:58",
           "vimeo": "https://vimeo.com/334505226/a43229186d",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=WYK_alRlzEU",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension1",
               "title": "O que é o gênero homo?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension1-alternatives-a",
                   "title": "O ser humano."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension1-alternatives-b",
                   "title": "A evolução humana."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension1-alternatives-c",
                   "title": "Somente os homens."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension1-alternatives-d",
                   "title": "A espécie que deu origem ao ser humano."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension2",
               "title": "Há quanto tempo existe o gênero homo?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension2-alternatives-a",
                   "title": "Há cerca de 5 milhões de anos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension2-alternatives-b",
                   "title": "Há cerca de 4.5 milhões de anos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension2-alternatives-c",
                   "title": "Há cerca de 5.4 milhões de anos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension2-alternatives-d",
                   "title": "Há cerca de 4 milhões de anos."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension3",
               "title": "Para que serve o sistema natural de programação do nosso cérebro?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension3-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension3-alternatives-a",
                   "title": "Para garantir a nossa sobrevivência."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension3-alternatives-b",
                   "title": "Para que possamos fazer as coisas no piloto automático."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension3-alternatives-c",
                   "title": "Para que possamos acumular conhecimento."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities1-test_comprehension3-alternatives-d",
                   "title": "Para que nossos pensamentos sejam possíveis."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons2-activities2",
           "title": "A sobrevivência humana",
           "description": "Vamos ver alguns dos mecanismos de sobrevivência que herdamos da nossa espécie antes da civilização moderna.",
-          "duration": "00:15",
+          "duration": "03:41",
           "vimeo": "https://vimeo.com/334505832/2ead603096",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=GzDpLGj8D7c",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension1",
               "title": "Há quanto tempo existe a civilização moderna?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension1-alternatives-a",
                   "title": "Há apenas mil anos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension1-alternatives-b",
                   "title": "Há mais de 10 mil anos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension1-alternatives-c",
                   "title": "Há apenas 10 mil anos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension1-alternatives-d",
                   "title": "Há mais de 20 mil anos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension2",
               "title": "O que é pareidolia?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension2-alternatives-a",
                   "title": "A capacidade de ver imagens."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension2-alternatives-b",
                   "title": "A capacidade de dar vida a imagens."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension2-alternatives-c",
                   "title": "A capacidade de interpretar imagens abstratas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension2-alternatives-d",
                   "title": "A capacidade de ver rostos, animais e outros formatos em formas abstratas."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension3",
               "title": "Se nossas mentes já vêm pré-programas com uma série de “softwares” desde o nosso nascimento, qual é o papel da PNL em nossas vidas?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension3-alternatives-a",
                   "title": "Desinstalar estes softwares antigos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension3-alternatives-b",
                   "title": "Atualizar nossa mente com novos softwares mais eficazes."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension3-alternatives-c",
                   "title": "Instalar novos aplicativos dentro do software original."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons2-activities2-test_comprehension3-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "3",
+      "id": "5da74b71a1ef423cec86acb2-lessons3",
       "title": "A Tríade da PNL",
       "description": "Aprendendo algumas técnicas da PNL para melhorar o desempenho pessoal.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons3-activities1",
           "title": "Desempenho humano",
           "description": "Vamos entender como funciona nosso desempenho e o que é entusiasmo.",
-          "duration": "00:15",
+          "duration": "03:49",
           "vimeo": "https://vimeo.com/334506547/f1c67fa875",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=2XQcO7Lg2Rc",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension1",
               "title": "O que mais prejudica nosso desempenho?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension1-alternatives-a",
                   "title": "A ausência de conhecimento."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension1-alternatives-b",
                   "title": "O desinteresse."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension1-alternatives-c",
                   "title": "Estados emocionais ruins."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension1-alternatives-d",
                   "title": "Falta de recursos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension2",
               "title": "Qual é o significado da palavra “entusiasmado”?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension2-alternatives-a",
                   "title": "“Entus” é Deus. É o cara que tem fé."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension2-alternatives-b",
                   "title": "“Entus” é Deus. É o cara que tem uma religião, uma crença."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension2-alternatives-c",
                   "title": "“Entus” é Deus. É o cara que acredita em algo maior do que ele mesmo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension2-alternatives-d",
                   "title": "“Entus” é Deus. É o cara que está “cheio de Deus”."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension3",
               "title": "Quais são os pilares da tríade do Método Tony Robbins?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension3-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension3-alternatives-a",
                   "title": "Corpo, mente e espírito."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension3-alternatives-b",
                   "title": "Fisiologia, emoção e objetivo."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension3-alternatives-c",
                   "title": "Fisiologia, linguagem e foco."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities1-test_comprehension3-alternatives-d",
                   "title": "Fisiologia, expressão e foco."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons3-activities2",
           "title": "Estado emocional e foco mental",
           "description": "Vamos aprender uma ferramenta eficaz para ter domínio de nossa mente e nossas emoções.",
-          "duration": "00:15",
+          "duration": "03:43",
           "vimeo": "https://vimeo.com/334507320/b16461de23",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=G46SACorsgk",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension1",
               "title": "Em qual pilar da tríade devemos mexer para mudar nosso estado mental/emocional? ",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension1-alternatives-a",
                   "title": "Fisiologia."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension1-alternatives-b",
                   "title": "Foco."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension1-alternatives-c",
                   "title": "Linguagem."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension1-alternatives-d",
                   "title": "Qualquer um deles pode impactar seu estado."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension2",
               "title": "Pensando no que você aprendeu sobre PNL, complete a frase: Nossos pensamentos têm o poder de…",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension2-alternatives-a",
                   "title": "Definir nossas escolhas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension2-alternatives-b",
                   "title": "Definir nossas atitudes."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension2-alternatives-c",
                   "title": "Definir nosso estado emocional."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension2-alternatives-d",
                   "title": "Definir nossas crenças."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension3",
               "title": "Qual é a característica principal que pode impactar os resultados de uma pessoa?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension3-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension3-alternatives-a",
                   "title": "Entusiasmo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension3-alternatives-b",
                   "title": "Proatividade."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension3-alternatives-c",
                   "title": "Foco."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons3-activities2-test_comprehension3-alternatives-d",
                   "title": "Pensamentos positivos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "4",
+      "id": "5da74b71a1ef423cec86acb2-lessons4",
       "title": "Pensamentos positivos.",
       "description": "Entendendo qual é o impacto que as crenças têm sobre nossos resultados e como alcançar o sucesso.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons4-activities1",
           "title": "Peak State",
           "description": "Vamos ver os resultados de um estado emocional elevado e aprender alguns conselhos da PNL.",
-          "duration": "00:15",
+          "duration": "03:40",
           "vimeo": "https://vimeo.com/334508079/bba0bf4c9e",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=gDC8rx6SUQA",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension1",
               "title": "Segundo o professor, o que é o Peak State?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension1-alternatives-a",
                   "title": "Estado de emoção e mentalidade elevado que alcançamos quando alteramos nossa linguagem."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension1-alternatives-b",
                   "title": "Estado mental elevado em que entramos quando mudamos nossas fisiologia, linguagem e foco."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension1-alternatives-c",
                   "title": "Estado emocional elevado em que entramos quando mudamos nossa fisiologia, linguagem e foco mental."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension1-alternatives-d",
                   "title": "Estado mental em que entramos quando estamos entusiasmados."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension2",
               "title": "Quais das alternativas seguintes NÃO é uma dica do Tony Robbins?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension2-alternatives-a",
                   "title": "Saiba qual é o seu propósito."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension2-alternatives-b",
                   "title": "Sonhe de forma realista e objetiva."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension2-alternatives-c",
                   "title": "Dê sempre um significado positivo para as suas experiências."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension2-alternatives-d",
                   "title": "Esteja ciente da sua responsabilidade e das consequências."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension3",
               "title": "Qual é a ordem do Ciclo do Sucesso, que estava na apresentação do professor? Você deu aquela espiada?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension3-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension3-alternatives-a",
                   "title": "Crenças — Potencial — Ações — Resultados — Crenças"
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension3-alternatives-b",
                   "title": "Potencial —  Crenças — Ações  — Resultado final"
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension3-alternatives-c",
                   "title": "Potencial — Ações — Resultados — Potencial"
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities1-test_comprehension3-alternatives-d",
                   "title": "Crenças — Ações — Resultados —  Potencial"
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons4-activities2",
           "title": "A visualização de resultados",
           "description": "Vamos aprender a utilizar o Ciclo do Sucesso para modificar nossas crenças e conseguir melhores resultados.",
-          "duration": "00:15",
+          "duration": "04:15",
           "vimeo": "https://vimeo.com/334508873/f7ca257e95",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=98LcFm5vWv8",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension1",
               "title": "Como quebramos o ciclo para alcançar o sucesso?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension1-alternatives-a",
                   "title": "Mudando nosso estado emocional."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension1-alternatives-b",
                   "title": "Mudando o nosso contexto social."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension1-alternatives-c",
                   "title": "Mudando nossos objetivos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension1-alternatives-d",
                   "title": "Mudando nossas crenças."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension2",
               "title": "O que podemos fazer para mudar nossas crenças e aumentar os nossos resultados?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension2-alternatives-a",
                   "title": "Visualizar os resultados antes deles acontecerem."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension2-alternatives-b",
                   "title": "Mudar a maneira como interpretamos as nossas experiências."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension2-alternatives-c",
                   "title": "Despertar nossas crenças por meio de novas experiências."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension2-alternatives-d",
                   "title": "Nos aproximar de pessoas que possuem crenças mais positivas."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension3",
               "title": "O que o estado emocional e a fisiologia fazem com o nosso corpo?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension3-alternatives-a",
                   "title": "Provocam alterações no nosso cérebro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension3-alternatives-b",
                   "title": "Provocam alterações nos nossos hormônios."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension3-alternatives-c",
                   "title": "Mudam a nossa postura diante das situações."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons4-activities2-test_comprehension3-alternatives-d",
                   "title": "Nenhuma das anteriores."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "5",
+      "id": "5da74b71a1ef423cec86acb2-lessons5",
       "title": "As Necessidades Humanas",
       "description": "Entendendo o comportamento e as necessidades emocionais que moldam nossa realidade.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons5-activities1",
           "title": "Comportamento humano",
           "description": "Vamos começar a entender as necessidades emocionais humanas.",
-          "duration": "00:15",
+          "duration": "04:05",
           "vimeo": "https://vimeo.com/334509733/887cea1824",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=TwNSu6RMrv4",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension1",
               "title": "Quais são as necessidades fisiológicas básicas do ser humano?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension1-alternatives-a",
                   "title": "Fazer atividades físicas."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension1-alternatives-b",
                   "title": "Respirar e dormir."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension1-alternatives-c",
                   "title": "Beber água e comer."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension1-alternatives-d",
                   "title": "Respirar, dormir, beber água, comer e ir no banheiro."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension2",
               "title": "As pessoas fazem as coisas para suprir qual necessidade humana?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension2-alternatives-a",
                   "title": "As necessidades emocionais."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension2-alternatives-b",
                   "title": "As necessidades fisiológicas."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension2-alternatives-c",
                   "title": "A necessidade de sobrevivência."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension2-alternatives-d",
                   "title": "A necessidade de segurança."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension3",
               "title": "Como definimos a “certeza”, primeira necessidade emocional do ser humano?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension3-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension3-alternatives-a",
                   "title": "É a garantia de que você vai obter prazer."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension3-alternatives-b",
                   "title": "É a garantia de resultados de sucesso."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension3-alternatives-c",
                   "title": "É a garantia de que você pode evitar a dor e obter prazer."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities1-test_comprehension3-alternatives-d",
                   "title": "É a garantia de que você possui potencial."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons5-activities2",
           "title": "As 6 necessidades emocionais",
           "description": "Vamos aprofundar nas 6 necessidades emocionais do ser humano.",
-          "duration": "00:15",
+          "duration": "04:15",
           "vimeo": "https://vimeo.com/334510249/cffdcf5f27",
-          "youtube": "",
-
+          "youtube": "https://www.youtube.com/watch?v=SGrFtPMhNiE",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension1",
               "title": "Como nosso instinto toma decisões?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension1-alternatives-a",
                   "title": "Estamos sempre indo de encontro ao prazer ou fugindo da dor."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension1-alternatives-b",
                   "title": "Nosso corpo responde aos estímulos de dor."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension1-alternatives-c",
                   "title": "O cérebro toma todas as nossas decisões por nós."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension1-alternatives-d",
                   "title": "Tudo o que fazemos é pelo prazer."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension2",
               "title": "O que significa a necessidade de significância?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension2-alternatives-a",
                   "title": "Dar sentido e propósito às coisas que faz."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension2-alternatives-b",
                   "title": "Escolher aquilo que tem significado para você."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension2-alternatives-c",
                   "title": "Saber que você é importante para uma pessoa específica."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension2-alternatives-d",
                   "title": "Sentir-se único, de valor, importante e pertencente."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension3",
               "title": "Quais das alternativas NÃO pertencem às 6 necessidades emocionais?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension3-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension3-alternatives-a",
                   "title": "Variedade e Certeza."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension3-alternatives-b",
                   "title": "Certeza e Pertencimento."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension3-alternatives-c",
                   "title": "Conexão e Crescimento."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities2-test_comprehension3-alternatives-d",
                   "title": "Contribuição e Significância."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons5-activities3",
           "title": "Ferramenta de autoconhecimento",
           "description": "Vamos aprender a utilizar as 6 necessidades emocionais na prática como ferramenta de autoconhecimento.",
-          "duration": "00:15",
+          "duration": "02:07",
           "vimeo": "https://vimeo.com/334510680/bfab0a8353",
-          "youtube": "",
+          "youtube": "https://www.youtube.com/watch?v=sUYUCzKpZSU",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension1",
               "title": "Qual é o grande segredo das 6 necessidades emocionais?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension1-alternatives-a",
                   "title": "Podemos mudar nossos valores e crenças para que nossas necessidades se voltem para o Crescimento e a Contribuição."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension1-alternatives-b",
                   "title": "Podemos mudar nossos resultados para gerar maior significância em nossas ações."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension1-alternatives-c",
                   "title": "Podemos mudar nossas necessidades para criar impactos mais positivos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension1-alternatives-d",
                   "title": "Podemos mudar nossos valores para gerar mais diversidade."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension2",
               "title": "Como as 6 necessidades emocionais impactam as nossas vidas?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension2-alternatives-a",
                   "title": "Necessidades melhores criam resultados de sucesso."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension2-alternatives-b",
                   "title": "Quando cedemos às nossas necessidades, nos tornamos fracos e menos competentes."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension2-alternatives-c",
                   "title": "As duas maiores necessidades de uma pessoa é o que guia a vida dela."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension2-alternatives-d",
                   "title": "As nossas necessidades definem quem somos pelo resto da vida."
                 }
               ]
             },
             {
-              "id": "3",
+              "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension3",
               "title": "Qual é a importância de conhecer suas necessidades emocionais?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension3-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension3-alternatives-a",
                   "title": "Conhecer mais a si mesmo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension3-alternatives-b",
                   "title": "Aprender a identificar as necessidades emocionais dos outros."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension3-alternatives-c",
                   "title": "Saber como tornar nossas necessidades mais automáticas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons5-activities3-test_comprehension3-alternatives-d",
                   "title": "Adquirir consciência sobre os processos que acontecem dentro de você."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "6",
+      "id": "5da74b71a1ef423cec86acb2-lessons6",
       "title": "Crenças e Veículos",
       "description": "Entendendo como utilizar nossas crenças e valores para impactar positivamente a sociedade.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons6-activities1",
           "title": "Crenças e Valores",
           "description": "Vamos aprender como as crenças e valores afetam os nossos resultados.",
-          "duration": "00:15",
+          "duration": "03:12",
           "vimeo": "https://vimeo.com/334510848/26bf93a4a0",
-          "youtube": "",
+          "youtube": "https://www.youtube.com/watch?v=zt5cMNlbUTg",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension1",
               "title": "Pelo que as nossas crenças e valores são definidas?",
-              "correct": "c",
+              "correct": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension1-alternatives-a",
                   "title": "Pela nossa família."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension1-alternatives-b",
                   "title": "Pelo contexto social."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension1-alternatives-c",
                   "title": "Pela interpretação que damos para as circunstâncias do nosso contexto."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension1-alternatives-d",
                   "title": "Pelas pessoas que admiramos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension2",
               "title": "O que acontece quando deixamos essas crenças e valores agirem de forma automática?",
-              "correct": "a",
+              "correct": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension2-alternatives-a",
                   "title": "Elas geram pensamentos que mudam nosso estado emocional e influenciam nossas ações e resultados."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension2-alternatives-b",
                   "title": "Elas geram emoções e pensamentos negativos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension2-alternatives-c",
                   "title": "Elas geram ações negativas que afetam nossos resultados e despertam emoções ruins."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities1-test_comprehension2-alternatives-d",
                   "title": "Elas geram resultados negativos que influenciam nossos pensamentos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons6-activities2",
           "title": "Consciência das necessidades",
           "description": "Vamos aprender a utilizar nossas crenças, valores e necessidades de forma consciente.",
-          "duration": "00:15",
+          "duration": "06:39",
           "vimeo": "https://vimeo.com/334511114/d5b72421e9",
-          "youtube": "",
+          "youtube": "https://www.youtube.com/watch?v=ruPZ13IQxkQ",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons6-activities2-test_comprehension1",
               "title": "O que NÃO devemos fazer para dar significados positivos às experiências da vida?",
-              "correct": "d",
+              "correct": "5da74b71a1ef423cec86acb2-lessons6-activities2-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities2-test_comprehension1-alternatives-a",
                   "title": "Mudar o foco para uma coisa positiva."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities2-test_comprehension1-alternatives-b",
                   "title": "Mudar a postura."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities2-test_comprehension1-alternatives-c",
                   "title": "Mudar a linguagem."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities2-test_comprehension1-alternatives-d",
                   "title": "Mudar os relacionamentos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b71a1ef423cec86acb2-lessons6-activities3",
           "title": "Veículos positivos e negativos",
           "description": "Vamos entender a importância de escolher veículos positivos para as nossas necessidades.",
-          "duration": "00:15",
+          "duration": "03:06",
           "vimeo": "https://vimeo.com/334511666/e87f5016c3",
-          "youtube": "",
+          "youtube": "https://www.youtube.com/watch?v=Nos1m58nvZI",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b71a1ef423cec86acb2-lessons6-activities3-test_comprehension1",
               "title": "De que forma podemos contribuir para a sociedade?",
-              "correct": "b",
+              "correct": "5da74b71a1ef423cec86acb2-lessons6-activities3-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities3-test_comprehension1-alternatives-a",
                   "title": "Gerando resultados."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities3-test_comprehension1-alternatives-b",
                   "title": "Utilizando veículos positivos para suprir as nossas necessidades."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities3-test_comprehension1-alternatives-c",
                   "title": "Criando objetivos voltados para questões sociais."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b71a1ef423cec86acb2-lessons6-activities3-test_comprehension1-alternatives-d",
                   "title": "Mudando nossa postura e estado emocional."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     }
   ]
 }

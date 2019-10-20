@@ -7,345 +7,133 @@
   "year": 2019,
   "lessons": [
     {
-      "id": "1",
+      "id": "5da74b66186fbf35f4f9a404-lessons1",
       "title": "Conjuntos",
       "description": "Entendendo os conceitos técnicos dos conjuntos.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons1-activities1",
           "title": "Conjuntos simples",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
           "duration": "04:08",
           "vimeo": "https://vimeo.com/329803993/2b514f49a3",
           "youtube": "https://www.youtube.com/watch?v=nbenA-xPz4w",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension1",
               "title": "Do que são formados os conjuntos?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension1-alternatives-a",
                   "title": "Ligamentos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension1-alternatives-b",
                   "title": "Elementos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension1-alternatives-c",
                   "title": "Seleções."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension1-alternatives-d",
                   "title": "Filamentos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension2",
               "title": "Quais são as linguagens dos conjuntos?",
-              "correct": "a",
+              "correct": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension2-alternatives-a",
                   "title": "Pertinência e continência."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension2-alternatives-b",
                   "title": "Permanência e eloquência."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension2-alternatives-c",
                   "title": "Influência e saliência."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities1-test_comprehension2-alternatives-d",
                   "title": "Gerência e potência."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons1-activities2",
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações e diferenças entre conjuntos simples.",
           "duration": "04:42",
           "vimeo": "https://vimeo.com/329805004/6024d9d5c1",
           "youtube": "https://www.youtube.com/watch?v=RE0JuMuuV2c",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension1",
               "title": "O que são conjuntos unitários?",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension1-alternatives-a",
                   "title": "Conjuntos formados por diversos elementos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension1-alternatives-b",
                   "title": "Conjuntos vazios."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension1-alternatives-c",
                   "title": "Conjuntos que contêm um único elemento."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension1-alternatives-d",
                   "title": "Conjuntos arredondados."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension2",
               "title": "O que é um conjunto universo?",
-              "correct": "a",
+              "correct": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension2-alternatives-a",
                   "title": "Aquele que contém todos os elementos em análise."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension2-alternatives-b",
                   "title": "Aquele que contém qualquer elemento."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension2-alternatives-c",
                   "title": "Aquele que nada contém."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons1-activities2-test_comprehension2-alternatives-d",
                   "title": "Aquele que independe de outros conjuntos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
       "test_placement": [
@@ -404,952 +192,315 @@
       ]
     },
     {
-      "id": "2",
+      "id": "5da74b66186fbf35f4f9a404-lessons2",
       "title": "Subconjuntos e operações",
       "description": "Aprendendo as principais operações dos conjuntos e subconjuntos.",
       "activities": [
         {
-          "id": "",
-
+          "id": "5da74b66186fbf35f4f9a404-lessons2-activities1",
           "title": "Conjuntos das partes e Subconjuntos",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
           "duration": "04:08",
           "vimeo": "https://vimeo.com/329805820/b3e24e3269",
           "youtube": "https://www.youtube.com/watch?v=50v8RLFuCBI",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons2-activities1-test_comprehension1",
               "title": "Qual das afirmações está correta?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons2-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activities1-test_comprehension1-alternatives-a",
                   "title": "Nenhum conjunto é subconjunto dele mesmo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activities1-test_comprehension1-alternatives-b",
                   "title": "Todo conjunto é subconjunto dele mesmo."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activities1-test_comprehension1-alternatives-c",
                   "title": "Os subconjuntos são conjuntos das partes."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activities1-test_comprehension1-alternatives-d",
                   "title": "Os conjuntos nem sempre são subconjuntos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons2-activities2",
           "title": "Espécies de operações",
           "description": "Conjunto das partes ou subconjuntos, suas espécies e operações simples, união, intersecção e subtração de conjuntos.",
           "duration": "05:29",
           "vimeo": "https://vimeo.com/329806660/86a946f5c5",
           "youtube": "https://www.youtube.com/watch?v=TD9zA0QdED4",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons2-activities2-test_comprehension1",
               "title": "Do que se trata a intersecção de conjuntos? ",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension1-alternatives-a",
                   "title": "Dissociar elementos iguais de um conjunto."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension1-alternatives-b",
                   "title": "Subtrair elementos de um conjunto."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension1-alternatives-c",
                   "title": "Associação de elementos similares entre conjuntos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension1-alternatives-d",
                   "title": "Conjunto universo de elementos."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension2",
               "title": "Do que se trata conjuntos complementares?",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension2-alternatives-a",
                   "title": "Compreende a parte interna de determinado conjunto, quando ele é vazio."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension2-alternatives-b",
                   "title": "Compreende um conjunto que completa outro subconjunto."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension2-alternatives-c",
                   "title": "Compreende a parte externa de determinado conjunto, que se estende ao conjunto universo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons2-activitie2-test_comprehension2-alternatives-d",
                   "title": "Compreende um conjunto que não possui elementos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "3",
+      "id": "5da74b66186fbf35f4f9a404-lessons3",
       "title": "Conjuntos numéricos e derivados",
       "description": "Descobrindo o que há por trás dos conjuntos numéricos e de seus derivados.",
       "activities": [
         {
-          "id": "",
-
+          "id": "5da74b66186fbf35f4f9a404-lessons3-activities1",
           "title": "Conjuntos numéricos",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
           "duration": "05:09",
           "vimeo": "https://vimeo.com/329807861/db9117c4e6",
           "youtube": "https://www.youtube.com/watch?v=ma_jYoNsI2A",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension1",
               "title": "Do que se trata o conjunto dos números inteiros?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension1-alternatives-a",
                   "title": "Números racionais."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension1-alternatives-b",
                   "title": "Números sem casas decimais, tanto positivos quanto negativos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension1-alternatives-c",
                   "title": "Números surreais."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension1-alternatives-d",
                   "title": "Números incontáveis."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension2",
               "title": "Por que existe o conjunto de números racionais?",
-              "correct": "2",
+              "correct": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension2-alternatives-a",
                   "title": "Surgiu da necessidade de representar partes do inteiro."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension2-alternatives-b",
                   "title": "Surgiu da necessidade de raciocinar melhor."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension2-alternatives-c",
                   "title": "Surgiu da necessidade de dividir."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities1-test_comprehension2-alternatives-d",
                   "title": "Surgiu da necessidade de equacionar."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons3-activities2",
           "title": "Derivados",
           "description": "Conjuntos numéricos e seus derivados: naturais, inteiros, racionais, irracionais e reais.",
           "duration": "04:13",
           "vimeo": "https://vimeo.com/329808898/7d74b3cb7d",
           "youtube": "https://www.youtube.com/watch?v=Oo5EiHyBTcs",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension1",
               "title": "Em que consistem os números irracionais?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension1-alternatives-a",
                   "title": "Conjunto de números finitos padronizados."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension1-alternatives-b",
                   "title": "Conjunto de números infinitos e variáveis."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension1-alternatives-c",
                   "title": "Conjunto de números inteiros."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension1-alternatives-d",
                   "title": "Conjunto de números fracionados."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension2",
               "title": "Em que consiste o conjunto de números reais?",
-              "correct": "d",
+              "correct": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension2-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension2-alternatives-a",
                   "title": "O conjunto de números verdadeiros."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension2-alternatives-b",
                   "title": "O conjunto de números mutáveis."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension2-alternatives-c",
                   "title": "O conjunto de números indivisíveis."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons3-activities2-test_comprehension2-alternatives-d",
                   "title": "O conjunto mais completo de números."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "4",
+      "id": "5da74b66186fbf35f4f9a404-lessons4",
       "title": "Relações binárias e plano cartesiano",
       "description": "Aprendendo o que são relações binárias e como usar o plano cartesiano",
       "activities": [
         {
-          "id": "",
-
+          "id": "5da74b66186fbf35f4f9a404-lessons4-activities1",
           "title": "Aplicações",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas.",
           "duration": "03:51",
           "vimeo": "https://vimeo.com/329810552/bbd68d87a3",
           "youtube": "https://www.youtube.com/watch?v=vvqk_Y_35eU",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension1",
               "title": "Em que consistem as relações binárias?",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension1-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension1-alternatives-a",
                   "title": "As relações entre números reais."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension1-alternatives-b",
                   "title": "As relações entre números irracionais."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension1-alternatives-c",
                   "title": "As relações entre dois elementos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension1-alternatives-d",
                   "title": "As relações entre vários elementos. "
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension2",
               "title": "Qual das afirmativas é correta?",
-              "correct": "a",
+              "correct": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension2-alternatives-a",
                   "title": "As relações binárias inversas consistem na inversão dos eixos x e y."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension2-alternatives-b",
                   "title": "As relações binárias inversas consistem na supressão dos números reais."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension2-alternatives-c",
                   "title": "As funções não podem ser binárias."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities1-test_comprehension2-alternatives-d",
                   "title": "As coordenadas não são relevantes na formação de um plano cartesiano."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons4-activities2",
           "title": "Conceituação técnica",
           "description": "Conceituação técnica, aplicações, plano cartesiano e relações binárias diversas",
           "duration": "03:51",
@@ -1357,26 +508,26 @@
           "youtube": "https://www.youtube.com/watch?v=YkzDO5vvrHQ",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons4-activities2-test_comprehension1",
               "title": "Qual das afirmativas pode ser considerada correta?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons4-activities2-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities2-test_comprehension1-alternatives-a",
                   "title": "As funções matemáticas são um conjunto numérico."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities2-test_comprehension1-alternatives-b",
                   "title": "As funções matemáticas são a base da programação."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities2-test_comprehension1-alternatives-c",
                   "title": "As funções matemáticas não possuem relevância."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons4-activities2-test_comprehension1-alternatives-d",
                   "title": "As funções matemáticas não possuem aplicação prática."
                 }
               ]
@@ -1516,466 +667,149 @@
           ]
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "5",
+      "id": "5da74b66186fbf35f4f9a404-lessons5",
       "title": "As funções",
       "description": "Entendendo o que são funções e para que elas servem.",
       "activities": [
         {
-          "id": "",
-
+          "id": "5da74b66186fbf35f4f9a404-lessons5-activities1",
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
           "duration": "05:17",
           "vimeo": "https://vimeo.com/329811425/995b23f285",
           "youtube": "https://www.youtube.com/watch?v=WvuBksLCvP0",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension1",
               "title": "Em que consiste o produto cartesiano?",
-              "correct": "a",
+              "correct": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension1-alternatives-a",
                   "title": "Uma combinação de elementos de dois conjuntos, que foram uma ordenada."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension1-alternatives-b",
                   "title": "Uma combinação de conjuntos vazios."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension1-alternatives-c",
                   "title": "A relação entre diversos subconjuntos."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension1-alternatives-d",
                   "title": "Uma função binária."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension2",
               "title": "Qual das afirmativas é correta?",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension2-alternatives-a",
                   "title": "Toda relação binária é uma função."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension2-alternatives-b",
                   "title": "Não existe relação binária capaz de ser uma função."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension2-alternatives-c",
                   "title": "Nem toda relação binária é uma função."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities1-test_comprehension2-alternatives-d",
                   "title": "As funções não podem ser binárias."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons5-activities2",
           "title": "Diferença entre relações binárias e funções",
           "description": "Conceito, diferença entre relações binárias e funções, estrutura de uma função e sua aplicabilidade.",
           "duration": "04:33",
           "vimeo": "https://vimeo.com/329812445/e938cc44ad",
           "youtube": "https://www.youtube.com/watch?v=Wy8xCx98PUQ",
-
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension1",
               "title": "Em funções, o que significa a imagem?",
-              "correct": "a",
+              "correct": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension1-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension1-alternatives-a",
                   "title": "O conjunto de produção de determinada função."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension1-alternatives-b",
                   "title": "Os objetos que ordenam a função."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension1-alternatives-c",
                   "title": "Os números irracionais numa relação binária."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension1-alternatives-d",
                   "title": "A intersecção dos conjuntos racionais."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension2",
               "title": "Em funções, o que significa domínio?",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension2-alternatives-a",
                   "title": "É o conjunto de elementos semelhantes."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension2-alternatives-b",
                   "title": "É o conjunto de números divisíveis."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension2-alternatives-c",
                   "title": "É o conjunto de partida, elementos contidos nas abcissas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons5-activities2-test_comprehension2-alternatives-d",
                   "title": "É o conjunto de números irracionais."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "6",
+      "id": "5da74b66186fbf35f4f9a404-lessons6",
       "title": "Diferentes funções",
       "description": "Aprendendo os tipos de funções e seus resultados geométricos.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons6-activities1",
           "title": "Funções de primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
           "duration": "06:09",
@@ -1983,166 +817,61 @@
           "youtube": "https://www.youtube.com/watch?v=JzDaCTmPrW0",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension1",
               "title": "Em que consiste uma função de primeiro-grau do ponto de vista geométrico?",
-              "correct": "d",
+              "correct": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension1-alternatives-d",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension1-alternatives-a",
                   "title": "Trata-se de uma função cujo resultado é uma curva."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension1-alternatives-b",
                   "title": "Trata-se de uma função cujo resultado é um círculo."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension1-alternatives-c",
                   "title": "Trata-se de uma função cujo resultado é um quadrado."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension1-alternatives-d",
                   "title": "Trata-se de uma função cujo resultado é uma reta."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension2",
               "title": "Em que consiste uma função do segundo-grau do ponto de vista geométrico?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension2-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension2-alternatives-a",
                   "title": "Trata-se de uma função cujo resultado é um triângulo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension2-alternatives-b",
                   "title": "Trata-se de uma função cujo resultado é uma parábola."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension2-alternatives-c",
                   "title": "Trata-se de uma função cujo resultado é um retângulo."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities1-test_comprehension2-alternatives-d",
                   "title": "Trata-se de uma função cujo resultado é um cone."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         },
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons6-activities2",
           "title": "Como identificar funções do primeiro e segundo grau",
           "description": "Como identificar funções do primeiro e segundo grau no plano cartesiano, além de funções exóticas.",
           "duration": "03:37",
@@ -2150,227 +879,70 @@
           "youtube": "https://www.youtube.com/watch?v=f80GSRemVJ0",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension1",
               "title": "Quais podem ser chamadas de espécies exóticas de funções? ",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension1-alternatives-a",
                   "title": "Intrometida e extrovertida."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension1-alternatives-b",
                   "title": "Sobrejetora e injetora."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension1-alternatives-c",
                   "title": "Expansiva e inflexiva."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension1-alternatives-d",
                   "title": "Explicadora e subjetiva."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension2",
               "title": "Qual das afirmações é correta?",
-              "correct": "a",
+              "correct": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension2-alternatives-a",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension2-alternatives-a",
                   "title": "As funções de segundo grau podem ter formato geométrico côncavo ou convexo."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension2-alternatives-b",
                   "title": "As funções exóticas não possuem aplicação prática."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension2-alternatives-c",
                   "title": "As funções expansivas são muito utilizadas."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons6-activities2-test_comprehension2-alternatives-d",
                   "title": "As funções não têm qualquer relação com conjuntos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     },
     {
-      "id": "7",
+      "id": "5da74b66186fbf35f4f9a404-lessons7",
       "title": "Aplicando na prática",
       "description": "Entendendo como podemos utilizar os conceitos da matemática na prática.",
       "activities": [
         {
-          "id": "",
+          "id": "5da74b66186fbf35f4f9a404-lessons7-activities1",
           "title": "Conceito e aplicabilidade",
           "description": "Conceito, como identificá-las e suas aplicabilidades.",
           "duration": "07:57",
@@ -2378,219 +950,62 @@
           "youtube": "https://www.youtube.com/watch?v=yP1uBmSJCM4",
           "test_comprehension": [
             {
-              "id": "1",
+              "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension1",
               "title": "O que as funções são ótimas em fazer?",
-              "correct": "b",
+              "correct": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension1-alternatives-b",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension1-alternatives-a",
                   "title": "Desperdiçar o potencial de aproveitamento dos elementos."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension1-alternatives-b",
                   "title": "Encontrar o ponto ótimo de aproveitamento de determinados elementos."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension1-alternatives-c",
                   "title": "Calcular o número de elementos de um conjunto."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension1-alternatives-d",
                   "title": "Mostrar os conjuntos vazios."
                 }
               ]
             },
             {
-              "id": "2",
+              "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension2",
               "title": "Em que consiste a função composta?",
-              "correct": "c",
+              "correct": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension2-alternatives-c",
               "score": 0,
               "time_position": "00:00",
               "alternatives": [
                 {
-                  "id": "a",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension2-alternatives-a",
                   "title": "Trata-se de uma função que conjuga outras funções independentes."
                 },
                 {
-                  "id": "b",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension2-alternatives-b",
                   "title": "Trata-se de uma fórmula mais rápida de função."
                 },
                 {
-                  "id": "c",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension2-alternatives-c",
                   "title": "Trata-se de uma função que só existe quando o contradomínio da primeira fase compõe o conjunto de partida da segunda fase."
                 },
                 {
-                  "id": "d",
+                  "id": "5da74b66186fbf35f4f9a404-lessons7-activities1-test_comprehension2-alternatives-d",
                   "title": "Trata-se de uma função que não precisa de elementos."
                 }
               ]
             }
           ],
-          "weblink": [
-            {
-              "id": "",
-              "title": "Cores e descobrir um mundo de outras",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "href": "",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "additional_material": [
-            {
-              "id": "5e4rty54ert5y4",
-              "title": "Nova era da fotografia digital",
-              "description": "O que acha de misturar as cores e descobrir um mundo de outras cores?",
-              "time_position": "1:25",
-              "test_placement": [
-                {
-                  "id": "",
-                  "title": "",
-                  "correct": "",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    },
-                    {
-                      "id": "",
-                      "title": ""
-                    }
-                  ]
-                }
-              ],
-              "test_final": [
-                {
-                  "id": "1",
-                  "title": "",
-                  "correct": "a",
-                  "score": 0,
-                  "time_position": "00:00",
-                  "alternatives": [
-                    {
-                      "id": "a",
-                      "title": ""
-                    },
-                    {
-                      "id": "b",
-                      "title": ""
-                    },
-                    {
-                      "id": "c",
-                      "title": ""
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "weblink": [],
+          "additional_material": []
         }
       ],
-      "test_placement": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ],
-      "test_final": [
-        {
-          "id": "",
-          "title": "",
-          "correct": "",
-          "score": 0,
-          "time_position": "00:00",
-          "alternatives": [
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            },
-            {
-              "id": "",
-              "title": ""
-            }
-          ]
-        }
-      ]
+      "test_placement": [],
+      "test_final": []
     }
   ]
 }
